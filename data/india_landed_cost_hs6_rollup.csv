@@ -1,0 +1,59 @@
+﻿hs6,n_tracked_lines,description,customs_duty_pct,total_tax_pct,lines_differ
+300510,1,Adhesive dressings,5.5,10.775,N/A - only 1 tracked line
+300590,1,Other wadding gauze bandages,5.5,10.775,N/A - only 1 tracked line
+300610,1,Sterile surgical sutures and tissue adhesives,5.5,10.775,N/A - only 1 tracked line
+300620,1,Blood-grouping reagents,5.5,10.775,N/A - only 1 tracked line
+300640,1,Dental cements and bone reconstruction cements,5.5,10.775,N/A - only 1 tracked line
+300650,1,First-aid boxes and kits,5.5,10.775,N/A - only 1 tracked line
+300670,1,Gel preparations designed to be used in human or veterinary medicine as a lubric,not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+300691,1,Appliances for ostomy use,5.5,10.775,N/A - only 1 tracked line
+382211,1,Diagnostic reagents for malaria,8.25,13.6625,N/A - only 1 tracked line
+382212,1,Diagnostic reagents for Zika and other mosquito-borne diseases,8.25,13.6625,N/A - only 1 tracked line
+382213,1,Diagnostic reagents for blood grouping,8.25,13.6625,N/A - only 1 tracked line
+401410,1,"Rubber contraceptives, male (condoms)",not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+401512,1,Medical surgical dental or veterinary gloves of rubber,not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+842310,1,"Personal weighing machines, including baby scales household scales",not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+900130,1,"Contact lenses of any material, unmounted",not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+900150,1,Spectacle lenses of other materials,not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+901811,1,Electro-cardiographs (ECG),13.25,18.9125,N/A - only 1 tracked line
+901812,1,Ultrasonic scanning apparatus,13.25,18.9125,N/A - only 1 tracked line
+901813,1,Magnetic resonance imaging (MRI) apparatus,13.25,18.9125,N/A - only 1 tracked line
+901814,1,Scintigraphic apparatus,13.25,18.9125,N/A - only 1 tracked line
+901819,1,Other electro-diagnostic apparatus incl. patient monitors,13.25,18.9125,N/A - only 1 tracked line
+901820,1,Ultraviolet or infrared ray apparatus,13.25,18.9125,N/A - only 1 tracked line
+901831,1,Syringes,13.25,18.9125,N/A - only 1 tracked line
+901832,1,Tubular metal needles and suture needles,13.25,18.9125,N/A - only 1 tracked line
+901839,1,Catheters cannulas and the like,13.25,18.9125,N/A - only 1 tracked line
+901841,1,Dental drill engines,13.25,18.9125,N/A - only 1 tracked line
+901849,1,Other dental instruments,13.25,18.9125,N/A - only 1 tracked line
+901850,1,Other ophthalmic instruments,13.25,18.9125,N/A - only 1 tracked line
+901890,1,Other medical and surgical instruments,13.25,18.9125,N/A - only 1 tracked line
+901910,1,Mechano-therapy and massage apparatus,13.25,18.9125,N/A - only 1 tracked line
+901920,1,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,13.25,13.25,N/A - only 1 tracked line
+902000,1,Other breathing appliances and gas masks,13.25,13.25,N/A - only 1 tracked line
+902110,1,Orthopaedic or fracture appliances,13.25,18.9125,N/A - only 1 tracked line
+902121,1,Artificial teeth,13.25,18.9125,N/A - only 1 tracked line
+902129,1,Other dental fittings,13.25,18.9125,N/A - only 1 tracked line
+902131,1,Artificial joints,13.25,18.9125,N/A - only 1 tracked line
+902139,1,Other artificial parts of the body,13.25,18.9125,N/A - only 1 tracked line
+902140,1,Hearing aids,not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+902150,1,Pacemakers,13.25,13.25,N/A - only 1 tracked line
+902190,1,Other appliances implanted or worn incl. stents,13.25,18.9125,N/A - only 1 tracked line
+902212,1,Computed tomography (CT) apparatus,13.25,18.9125,N/A - only 1 tracked line
+902213,1,Dental X-ray apparatus,13.25,18.9125,N/A - only 1 tracked line
+902214,1,Other medical X-ray apparatus,21.5,27.575,N/A - only 1 tracked line
+902219,1,X-ray apparatus for other uses,13.25,33.635,N/A - only 1 tracked line
+902221,1,Alpha beta gamma radiation apparatus for medical use,13.25,18.9125,N/A - only 1 tracked line
+902229,1,Alpha beta gamma radiation apparatus for other uses,13.25,18.9125,N/A - only 1 tracked line
+902230,1,X-ray tubes,16.0,21.8,N/A - only 1 tracked line
+902290,1,Parts of X-ray and radiation apparatus,13.25,18.9125,N/A - only 1 tracked line
+902511,1,Clinical thermometers,not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+902710,1,Gas or smoke analysis apparatus,not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+902720,1,Chromatographs and electrophoresis instruments,not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+902730,1,Spectrometers,not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+902750,1,Photometers,not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+902790,1,"Microtomes, including parts and accessories thereof",not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+940290,1,Other medical furniture incl. hospital beds,not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+902519,2,2 tracked lines,not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+940210,1,"Dentists', barbers' or similar chairs and parts thereof",not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines
+621010,2,2 tracked lines,not computable (one or more rates not found),not computable (one or more rates not found),N/A - no computable lines

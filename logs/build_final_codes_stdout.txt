@@ -1,0 +1,49 @@
+final_codes.csv: 67 rows (58 HS6, 9 HS10)
+lab_instruments_codes.csv: 2 rows
+
+--- DROPPED / EXCLUDED LOG ---
+  902519 -> 9025194000 (Pyrometers): excluded - industrial, not clinical
+  902519 -> 9025198060 (Infrared thermometers (non-clinical 'Other' branch)): excluded - sibling 'Other' branch to Clinical, not clinical
+  902519 -> 9025198085 (Other (non-clinical 'Other' branch)): excluded - sibling 'Other' branch to Clinical, not clinical
+  401490 -> 4014901000 (Nursing nipples): excluded - no medical/surgical/dental/clinical/diagnostic keyword, parent is 'hygienic or pharmaceutical' not on keyword list
+  401490 -> 4014905000 (Other): excluded - same as above
+  401490: ALL lines excluded, code dropped entirely (per 'if a code has none, drop it and log it')
+  621040 -> 6210401500 (Recreational performance outerwear, man-made fibers, impregnated/coated): excluded - no medical keyword anywhere in hierarchy
+  621040 -> 6210402531 (Ski/snowboard pants): excluded - no medical keyword
+  621040 -> 6210402539 (Other (ski/snowboard-type)): excluded - no medical keyword
+  621040 -> 6210402540 (Overalls and coveralls): excluded - no medical keyword
+  621040 -> 6210402550 (Other): excluded - no medical keyword
+  621040 -> 6210402800 (Other, impregnated/coated): excluded - no medical keyword
+  621040 -> 6210402917 (Other, silk content, trousers/breeches/shorts): excluded - no medical keyword
+  621040 -> 6210402918 (Other, silk content, overalls/coveralls): excluded - no medical keyword
+  621040 -> 6210402919 (Other, silk content, other): excluded - no medical keyword
+  621040 -> 6210402933 (Other, trousers/breeches/shorts): excluded - no medical keyword
+  621040 -> 6210402945 (Other, overalls/coveralls): excluded - no medical keyword
+  621040 -> 6210402960 (Other): excluded - no medical keyword
+  621040 -> 6210403500 (Other category, man-made fibers, impregnated/coated): excluded - no medical keyword
+  621040 -> 6210405531 (Ski/snowboard pants): excluded - no medical keyword
+  621040 -> 6210405539 (Other): excluded - no medical keyword
+  621040 -> 6210405540 (Overalls and coveralls): excluded - no medical keyword
+  621040 -> 6210405550 (Other): excluded - no medical keyword
+  621040 -> 6210407500 (Other, impregnated/coated): excluded - no medical keyword
+  621040 -> 6210408017 (Other, silk content, trousers/breeches/shorts): excluded - no medical keyword
+  621040 -> 6210408018 (Other, silk content, overalls/coveralls): excluded - no medical keyword
+  621040 -> 6210408019 (Other, silk content, other): excluded - no medical keyword
+  621040 -> 6210408033 (Other, trousers/breeches/shorts): excluded - no medical keyword
+  621040 -> 6210408045 (Other, overalls/coveralls): excluded - no medical keyword
+  621040 -> 6210408060 (Other): excluded - no medical keyword
+  621040: ALL lines excluded, code dropped entirely (per 'if a code has none, drop it and log it')
+  392321 -> 3923210011 (Reclosable bags, small, integral extruded closure): excluded - no medical keyword, generic packaging
+  392321 -> 3923210020 (Reclosable bags, with sliders): excluded - no medical keyword
+  392321 -> 3923210030 (Other reclosable bags): excluded - no medical keyword
+  392321 -> 3923210080 (Small bags, other): excluded - no medical keyword
+  392321 -> 3923210085 (Polyethylene retail carrier bags (PRCBs)): excluded - no medical keyword, retail shopping bags
+  392321 -> 3923210095 (Other): excluded - no medical keyword
+  392321: ALL lines excluded, code dropped entirely (per 'if a code has none, drop it and log it')
+  621010 -> 6210102000 (Of fabrics formed on a base of paper): excluded - no medical keyword
+  621010 -> 6210107000 (Disposable briefs and panties designed for one-time use): excluded - hygiene product, not explicitly medical/clinical
+  621010 -> 6210109010 (Overalls and coveralls): excluded - no medical keyword
+  621010 -> 6210109040 (Other): excluded - no medical keyword
+  392390: dropped per explicit instruction
+  630790: dropped per explicit instruction
+  382290: dropped per explicit instruction

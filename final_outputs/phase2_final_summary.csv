@@ -1,0 +1,336 @@
+﻿code,level,description,product_group,year,us_imports_from_india_usd,us_imports_world_usd,india_share_of_us_market_pct,top3_suppliers,india_exports_to_usa_usd,india_exports_to_world_usd,us_dependence_pct,effective_duty_pct_on_india,india_imports_from_usa_usd,india_imports_from_world_usd
+300510,HS6,Adhesive dressings,Dressings,2022,1769937,904472636,0.2,China 32.6%; Mexico 13.0%; Japan 9.9%,1717891,9994234,17.2,0.0,6050575,23158328
+300510,HS6,Adhesive dressings,Dressings,2023,1476896,891792479,0.2,China 29.5%; Mexico 15.9%; Finland 10.9%,1510708,10800562,14.0,0.0,7289104,21570917
+300510,HS6,Adhesive dressings,Dressings,2024,218726,1022716807,0.0,China 30.7%; Mexico 16.8%; Finland 7.5%,1530876,12245122,12.5,0.0,5511556,22147123
+300510,HS6,Adhesive dressings,Dressings,2025,150186,1018798147,0.0,China 30.5%; Mexico 16.3%; Japan 9.9%,93045,11296013,0.8,28.1,7661920,26179252
+300510,HS6,Adhesive dressings,Dressings,2026,207920,707560511,0.0,China 32.3%; Mexico 16.5%; United Kingdom 8.5%,0,0,,10.0,0,0
+300590,HS6,Other wadding gauze bandages,Dressings,2022,8272105,894296337,0.9,China 51.9%; United Kingdom 13.4%; Mexico 6.7%,21671417,69787338,31.1,0.0,6219426,24369749
+300590,HS6,Other wadding gauze bandages,Dressings,2023,10286376,787107132,1.3,China 44.2%; United Kingdom 13.7%; Mexico 8.0%,13628343,58708669,23.2,0.0,7970838,23211345
+300590,HS6,Other wadding gauze bandages,Dressings,2024,11303574,865623337,1.3,China 45.4%; United Kingdom 12.4%; Mexico 9.1%,40905369,83688073,48.9,0.0,7345162,21468709
+300590,HS6,Other wadding gauze bandages,Dressings,2025,13839290,873562441,1.6,China 43.2%; United Kingdom 12.7%; Mexico 9.0%,19494630,65952873,29.6,17.1,9502627,24704214
+300590,HS6,Other wadding gauze bandages,Dressings,2026,10405316,626071393,1.7,China 40.4%; United Kingdom 11.5%; Mexico 9.0%,0,0,,17.0,0,0
+300610,HS6,Sterile surgical sutures and tissue adhesives,Sutures,2022,467513,697523411,0.1,Switzerland 28.3%; Denmark 23.0%; Ireland 13.6%,876465,38004655,2.3,0.0,8016601,15049972
+300610,HS6,Sterile surgical sutures and tissue adhesives,Sutures,2023,1662088,609254206,0.3,Denmark 28.9%; Israel 14.4%; Ireland 14.4%,2271036,40978076,5.5,0.0,7807100,15091505
+300610,HS6,Sterile surgical sutures and tissue adhesives,Sutures,2024,1132519,628854084,0.2,Denmark 28.9%; Israel 17.9%; Ireland 15.4%,3631627,48955329,7.4,0.0,7849876,15240936
+300610,HS6,Sterile surgical sutures and tissue adhesives,Sutures,2025,1101409,695981244,0.2,Denmark 27.3%; Israel 21.0%; Ireland 14.8%,1780247,56276996,3.2,15.7,9047646,20343873
+300610,HS6,Sterile surgical sutures and tissue adhesives,Sutures,2026,345696,532777478,0.1,Israel 23.9%; Denmark 23.2%; Ireland 16.4%,0,0,,17.9,0,0
+300620,HS6,Blood-grouping reagents,Diagnostics,2022,0,0,,,0,0,,,0,0
+300620,HS6,Blood-grouping reagents,Diagnostics,2023,0,0,,,0,0,,,0,0
+300620,HS6,Blood-grouping reagents,Diagnostics,2024,0,0,,,0,0,,,0,0
+300620,HS6,Blood-grouping reagents,Diagnostics,2025,0,0,,,0,0,,,0,0
+300620,HS6,Blood-grouping reagents,Diagnostics,2026,0,0,,,0,0,,,0,0
+300630,HS6,X-ray contrast preparations and diagnostic reagents for patients,Diagnostics,2022,0,1043373865,0.0,Norway 34.5%; Germany 25.4%; Italy 15.4%,69836,15538619,0.4,,71945,61310116
+300630,HS6,X-ray contrast preparations and diagnostic reagents for patients,Diagnostics,2023,2284,1087271261,0.0,Norway 30.8%; Germany 24.1%; Italy 15.1%,84347,31007502,0.3,0.0,174,59584490
+300630,HS6,X-ray contrast preparations and diagnostic reagents for patients,Diagnostics,2024,1332336,1143668263,0.1,Norway 31.8%; Germany 24.6%; Italy 12.8%,108241,38389192,0.3,0.0,41,80747899
+300630,HS6,X-ray contrast preparations and diagnostic reagents for patients,Diagnostics,2025,4459247,1201873772,0.4,Germany 30.4%; Norway 30.1%; Italy 15.3%,178031,40880000,0.4,0.0,78,73089982
+300630,HS6,X-ray contrast preparations and diagnostic reagents for patients,Diagnostics,2026,7275681,1019393531,0.7,Germany 36.9%; Norway 31.1%; Italy 12.3%,0,0,,0.0,0,0
+300640,HS6,Dental cements and bone reconstruction cements,Dental,2022,237877,441855354,0.1,Germany 34.9%; Ireland 14.8%; Japan 9.8%,2563261,14490319,17.7,0.0,3557555,42663794
+300640,HS6,Dental cements and bone reconstruction cements,Dental,2023,436833,503694067,0.1,Germany 35.8%; Ireland 12.8%; Japan 9.8%,2165683,14073584,15.4,0.0,4348350,40300909
+300640,HS6,Dental cements and bone reconstruction cements,Dental,2024,594443,524451023,0.1,Germany 35.7%; Japan 11.0%; Sweden 10.1%,2260321,16157854,14.0,0.0,3902976,43996373
+300640,HS6,Dental cements and bone reconstruction cements,Dental,2025,210376,487048270,0.0,Germany 38.1%; France 13.0%; Japan 10.8%,2495790,19585835,12.7,16.6,5782694,44463119
+300640,HS6,Dental cements and bone reconstruction cements,Dental,2026,148452,307759008,0.0,Germany 36.7%; France 14.6%; Japan 12.3%,0,0,,16.3,0,0
+300650,HS6,First-aid boxes and kits,Dressings,2022,13450,61011122,0.0,China 79.6%; Mexico 17.2%; Canada 0.7%,173792,1120912,15.5,0.0,1912,183614
+300650,HS6,First-aid boxes and kits,Dressings,2023,0,42614726,0.0,China 82.6%; Mexico 12.6%; Egypt 1.7%,849665,1522459,55.8,,33901,218806
+300650,HS6,First-aid boxes and kits,Dressings,2024,0,43158269,0.0,China 90.6%; Mexico 6.5%; Canada 0.9%,151939,891181,17.0,,176832,331593
+300650,HS6,First-aid boxes and kits,Dressings,2025,0,38063364,0.0,China 86.5%; Mexico 8.9%; Canada 1.4%,758,642884,0.1,,168071,331946
+300650,HS6,First-aid boxes and kits,Dressings,2026,5803,28911870,0.0,China 88.9%; Mexico 4.9%; Egypt 2.9%,0,0,,0.0,0,0
+300660,HS6,Contraceptive based on hormones,Consumable & Disposable,2022,80630345,1342775265,6.0,Finland 45.1%; Netherlands 34.7%; India 6.0%,66804090,160728477,41.6,0.0,207,8711443
+300660,HS6,Contraceptive based on hormones,Consumable & Disposable,2023,68406685,1123855369,6.1,Finland 39.5%; Netherlands 37.0%; Spain 6.8%,59331024,152898005,38.8,0.0,1431,7258337
+300660,HS6,Contraceptive based on hormones,Consumable & Disposable,2024,118714121,1154735005,10.3,Finland 41.6%; Netherlands 24.2%; Spain 11.7%,64262752,163580345,39.3,0.0,0,10650244
+300660,HS6,Contraceptive based on hormones,Consumable & Disposable,2025,113734132,2247839317,5.1,Netherlands 43.1%; Finland 30.6%; Spain 9.1%,59921165,173299338,34.6,0.0,11,9870192
+300660,HS6,Contraceptive based on hormones,Consumable & Disposable,2026,71083010,958953575,7.4,Finland 53.6%; Canada 18.1%; Spain 9.3%,0,0,,0.0,0,0
+300670,HS6,Gel preparations designed to be used in human or veterinary medicine as a lubric,Consumable & Disposable,2022,9443,48860028,0.0,Mexico 46.9%; China 16.9%; Ireland 10.3%,79911,8961240,0.9,0.0,1831566,3406305
+300670,HS6,Gel preparations designed to be used in human or veterinary medicine as a lubric,Consumable & Disposable,2023,7960,57878149,0.0,Mexico 51.3%; China 11.9%; Dominican Republic 9.4%,36217,7236490,0.5,0.0,2030732,3184667
+300670,HS6,Gel preparations designed to be used in human or veterinary medicine as a lubric,Consumable & Disposable,2024,14819,64976556,0.0,Mexico 53.7%; China 15.5%; Germany 7.9%,32567,6558365,0.5,2.3,2054786,3621174
+300670,HS6,Gel preparations designed to be used in human or veterinary medicine as a lubric,Consumable & Disposable,2025,37925,112458946,0.0,Mexico 34.2%; Denmark 33.2%; China 9.3%,115854,9078725,1.3,0.0,1881634,4203729
+300670,HS6,Gel preparations designed to be used in human or veterinary medicine as a lubric,Consumable & Disposable,2026,15600,93246816,0.0,Denmark 40.5%; Mexico 29.0%; China 8.0%,0,0,,15.0,0,0
+300691,HS6,Appliances for ostomy use,Consumables,2022,546830,166697761,0.3,Dominican Republic 32.2%; Hungary 29.2%; Ireland 9.7%,553636,2635674,21.0,0.0,3200,8193075
+300691,HS6,Appliances for ostomy use,Consumables,2023,410449,185901288,0.2,Dominican Republic 31.6%; Hungary 27.9%; Lithuania 9.2%,615275,2716633,22.6,0.4,209955,11697125
+300691,HS6,Appliances for ostomy use,Consumables,2024,391025,172857182,0.2,Hungary 36.0%; Dominican Republic 24.2%; Lithuania 7.9%,543097,2992760,18.1,0.0,114981,14715579
+300691,HS6,Appliances for ostomy use,Consumables,2025,327157,191103138,0.2,Hungary 34.7%; Dominican Republic 24.3%; United Kingdom 8.6%,567680,1885041,30.1,0.0,283115,11325224
+300691,HS6,Appliances for ostomy use,Consumables,2026,214975,132664677,0.2,Hungary 36.0%; Dominican Republic 23.0%; Lithuania 10.8%,0,0,,0.0,0,0
+382211,HS6,Diagnostic reagents for malaria,Diagnostics,2022,0,859539,0.0,United Kingdom 44.8%; Belgium 13.6%; Japan 7.8%,703,45586933,0.0,,57199,2924375
+382211,HS6,Diagnostic reagents for malaria,Diagnostics,2023,0,692460,0.0,Japan 76.2%; Germany 7.6%; Denmark 4.9%,523,82653664,0.0,,864,863656
+382211,HS6,Diagnostic reagents for malaria,Diagnostics,2024,30500,872945,3.5,Germany 70.4%; Australia 7.6%; United Kingdom 3.9%,994,71606948,0.0,0.0,1103,327470
+382211,HS6,Diagnostic reagents for malaria,Diagnostics,2025,7060,638378,1.1,Netherlands 26.5%; Switzerland 21.5%; Ireland 15.4%,4833,67987509,0.0,26.5,401,476316
+382211,HS6,Diagnostic reagents for malaria,Diagnostics,2026,0,1364431,0.0,Switzerland 48.9%; Germany 25.0%; Netherlands 13.3%,0,0,,,0,0
+382212,HS6,Diagnostic reagents for Zika and other mosquito-borne diseases,Diagnostics,2022,13248,53639356,0.0,Belgium 33.2%; Austria 28.4%; France 8.5%,1135,277493,0.4,0.0,0,7127275
+382212,HS6,Diagnostic reagents for Zika and other mosquito-borne diseases,Diagnostics,2023,0,2535085,0.0,France 78.6%; United Kingdom 12.5%; Germany 6.9%,61936,627327,9.9,,751,2342626
+382212,HS6,Diagnostic reagents for Zika and other mosquito-borne diseases,Diagnostics,2024,0,499594,0.0,France 35.3%; Germany 30.3%; United Kingdom 13.8%,1521,454572,0.3,,23531,2992582
+382212,HS6,Diagnostic reagents for Zika and other mosquito-borne diseases,Diagnostics,2025,0,1099702,0.0,Canada 37.9%; United Kingdom 26.3%; Germany 17.5%,0,625726,0.0,,28405,1643585
+382212,HS6,Diagnostic reagents for Zika and other mosquito-borne diseases,Diagnostics,2026,0,623323,0.0,Canada 50.6%; Germany 17.3%; Costa Rica 16.4%,0,0,,,0,0
+382213,HS6,Diagnostic reagents for blood grouping,Diagnostics,2022,0,53114326,0.0,Germany 31.7%; Spain 19.7%; United Kingdom 16.3%,83,1288514,0.0,,761053,6829080
+382213,HS6,Diagnostic reagents for blood grouping,Diagnostics,2023,382641,53577818,0.7,Germany 24.5%; Spain 20.3%; United Kingdom 18.4%,2518,2825093,0.1,0.0,1354672,8120482
+382213,HS6,Diagnostic reagents for blood grouping,Diagnostics,2024,0,56041638,0.0,Germany 25.6%; United Kingdom 20.1%; Spain 19.6%,834,2917757,0.0,,1618503,10325461
+382213,HS6,Diagnostic reagents for blood grouping,Diagnostics,2025,0,50409001,0.0,United Kingdom 38.2%; Germany 28.8%; France 10.5%,0,2755523,0.0,,1618209,10310446
+382213,HS6,Diagnostic reagents for blood grouping,Diagnostics,2026,0,26387297,0.0,Germany 37.1%; United Kingdom 27.0%; France 14.1%,0,0,,,0,0
+401410,HS6,"Rubber contraceptives, male (condoms)",Consumable & Disposable,2022,16561822,56067152,29.5,Thailand 51.8%; India 29.5%; Japan 9.9%,8839061,69312164,12.8,0.0,9179,1611756
+401410,HS6,"Rubber contraceptives, male (condoms)",Consumable & Disposable,2023,15174432,56618980,26.8,Thailand 53.1%; India 26.8%; Malaysia 9.3%,8691769,90931942,9.6,0.0,0,2963421
+401410,HS6,"Rubber contraceptives, male (condoms)",Consumable & Disposable,2024,12311551,56095004,21.9,Thailand 59.1%; India 21.9%; Japan 13.9%,7588805,68935635,11.0,0.0,0,3560020
+401410,HS6,"Rubber contraceptives, male (condoms)",Consumable & Disposable,2025,12030969,65004761,18.5,Thailand 64.1%; India 18.5%; Japan 11.6%,8109912,82870121,9.8,12.5,888,5340255
+401410,HS6,"Rubber contraceptives, male (condoms)",Consumable & Disposable,2026,8046943,44914879,17.9,Thailand 63.6%; India 17.9%; Malaysia 9.5%,0,0,,15.8,0,0
+401512,HS6,Medical surgical dental or veterinary gloves of rubber,Gloves,2022,4263727,2550112405,0.2,Malaysia 52.3%; China 19.9%; Thailand 18.3%,3165512,77333375,4.1,0.1,402252,46828627
+401512,HS6,Medical surgical dental or veterinary gloves of rubber,Gloves,2023,2361882,1598960627,0.1,Malaysia 44.4%; China 24.9%; Thailand 22.5%,2848485,64759734,4.4,0.0,67592,42004868
+401512,HS6,Medical surgical dental or veterinary gloves of rubber,Gloves,2024,2632013,1935920475,0.1,Malaysia 47.3%; China 25.8%; Thailand 17.3%,3587517,54418551,6.6,0.3,231715,34482762
+401512,HS6,Medical surgical dental or veterinary gloves of rubber,Gloves,2025,3908807,1943178606,0.2,Malaysia 64.5%; Thailand 19.0%; Indonesia 6.5%,3683995,62856773,5.9,13.7,1175612,57690655
+401512,HS6,Medical surgical dental or veterinary gloves of rubber,Gloves,2026,1158029,1507468276,0.1,Malaysia 59.5%; Thailand 17.4%; Indonesia 11.9%,0,0,,13.8,0,0
+842310,HS6,"Personal weighing machines, including baby scales household scales",Electronic Equipment,2022,360882,220053158,0.2,China 95.6%; Taiwan 1.4%; Germany 1.0%,19939,1310263,1.5,0.0,71821,17242453
+842310,HS6,"Personal weighing machines, including baby scales household scales",Electronic Equipment,2023,130558,219313091,0.1,China 96.0%; Germany 1.1%; Taiwan 0.6%,2876,1005808,0.3,0.0,121744,16193426
+842310,HS6,"Personal weighing machines, including baby scales household scales",Electronic Equipment,2024,93899,258416388,0.0,"China 95.8%; Germany 1.1%; Korea, South 0.7%",18613,632093,2.9,0.0,5255,16716801
+842310,HS6,"Personal weighing machines, including baby scales household scales",Electronic Equipment,2025,18708,185994219,0.0,China 92.2%; Germany 1.4%; Dominican Republic 1.4%,11143,848533,1.3,8.7,6823,18698827
+842310,HS6,"Personal weighing machines, including baby scales household scales",Electronic Equipment,2026,28097,137992739,0.0,China 89.5%; Dominican Republic 5.3%; Germany 1.6%,0,0,,9.6,0,0
+900130,HS6,"Contact lenses of any material, unmounted",Consumable & Disposable,2022,995417,1239750734,0.1,Germany 41.4%; Ireland 17.7%; Singapore 12.8%,6122640,21361267,28.7,2.0,6060282,34037523
+900130,HS6,"Contact lenses of any material, unmounted",Consumable & Disposable,2023,698457,803593849,0.1,Ireland 33.3%; Germany 32.0%; United Kingdom 9.4%,8724078,24577605,35.5,2.0,10580810,37903254
+900130,HS6,"Contact lenses of any material, unmounted",Consumable & Disposable,2024,971255,815583038,0.1,Germany 37.3%; Ireland 26.4%; United Kingdom 11.1%,7900148,18948782,41.7,2.0,5573066,34973085
+900130,HS6,"Contact lenses of any material, unmounted",Consumable & Disposable,2025,3000,787900409,0.0,Ireland 41.2%; Germany 25.1%; United Kingdom 8.4%,1555086,7219335,21.5,52.0,2636220,30545345
+900130,HS6,"Contact lenses of any material, unmounted",Consumable & Disposable,2026,2391,564280339,0.0,Ireland 38.7%; Germany 21.8%; Singapore 9.0%,0,0,,12.0,0,0
+900150,HS6,Spectacle lenses of other materials,Consumable & Disposable,2022,6163095,1270951861,0.5,Mexico 39.9%; Thailand 14.9%; China 10.3%,5965153,140683109,4.2,2.0,11068986,160676807
+900150,HS6,Spectacle lenses of other materials,Consumable & Disposable,2023,10594861,1341747149,0.8,Mexico 41.1%; Thailand 14.6%; China 8.9%,10327049,174342852,5.9,2.0,3915668,197587980
+900150,HS6,Spectacle lenses of other materials,Consumable & Disposable,2024,9436458,1353405452,0.7,Mexico 43.5%; Thailand 13.2%; China 9.7%,8713040,155771331,5.6,2.0,2452862,175735083
+900150,HS6,Spectacle lenses of other materials,Consumable & Disposable,2025,7289891,1320591624,0.6,Mexico 38.3%; Thailand 14.9%; Laos 9.7%,8900525,159854593,5.6,9.9,2778699,183395222
+900150,HS6,Spectacle lenses of other materials,Consumable & Disposable,2026,1446492,1051287944,0.1,Mexico 46.3%; Thailand 13.2%; Laos 8.1%,0,0,,14.7,0,0
+901811,HS6,Electro-cardiographs (ECG),Electro-diagnostic,2022,19819401,483756645,4.1,Singapore 41.8%; Canada 14.9%; Malaysia 10.1%,16154204,49572714,32.6,0.0,1716126,13343881
+901811,HS6,Electro-cardiographs (ECG),Electro-diagnostic,2023,17762251,555847553,3.2,Singapore 45.6%; Canada 13.7%; Malaysia 8.6%,11270823,43511433,25.9,0.0,8301015,22259743
+901811,HS6,Electro-cardiographs (ECG),Electro-diagnostic,2024,19176240,432030619,4.4,Singapore 30.6%; Canada 18.5%; Malaysia 12.6%,15350153,51311524,29.9,0.0,9296574,24196861
+901811,HS6,Electro-cardiographs (ECG),Electro-diagnostic,2025,16884483,360286034,4.7,Canada 25.6%; Singapore 17.0%; Switzerland 11.6%,10992942,51135948,21.5,16.8,11354215,25957961
+901811,HS6,Electro-cardiographs (ECG),Electro-diagnostic,2026,2860334,242311035,1.2,Canada 33.8%; Switzerland 12.7%; Singapore 11.4%,0,0,,16.3,0,0
+901812,HS6,Ultrasonic scanning apparatus,Imaging,2022,569687,362267136,0.2,"Korea, South 23.9%; China 21.2%; Japan 14.0%",9888909,43140816,22.9,0.0,22624453,246034656
+901812,HS6,Ultrasonic scanning apparatus,Imaging,2023,29894,324531194,0.0,"China 26.7%; Japan 17.6%; Korea, South 12.4%",10246147,37982802,27.0,0.0,25776009,222184390
+901812,HS6,Ultrasonic scanning apparatus,Imaging,2024,65383,337212617,0.0,"China 31.8%; Korea, South 15.5%; Japan 13.2%",10393940,38053327,27.3,0.0,28873579,226807429
+901812,HS6,Ultrasonic scanning apparatus,Imaging,2025,155789,361367821,0.0,"China 30.1%; Korea, South 14.7%; Japan 14.2%",11267419,39280256,28.7,19.5,31502978,260086872
+901812,HS6,Ultrasonic scanning apparatus,Imaging,2026,67238,246460524,0.0,"China 20.2%; Korea, South 18.5%; Japan 13.3%",0,0,,11.5,0,0
+901813,HS6,Magnetic resonance imaging (MRI) apparatus,Imaging,2022,188709,661452406,0.0,Germany 81.3%; Netherlands 7.5%; Japan 6.0%,18155600,102267185,17.8,0.0,92345011,281593549
+901813,HS6,Magnetic resonance imaging (MRI) apparatus,Imaging,2023,1119384,590726635,0.2,Germany 80.4%; Netherlands 7.7%; Japan 6.7%,24612240,141480676,17.4,0.0,107856222,311533626
+901813,HS6,Magnetic resonance imaging (MRI) apparatus,Imaging,2024,1060425,706438610,0.2,Germany 79.2%; Netherlands 9.5%; Japan 5.8%,31383439,158745663,19.8,0.0,111403055,315981198
+901813,HS6,Magnetic resonance imaging (MRI) apparatus,Imaging,2025,1386304,690501885,0.2,Germany 83.6%; Netherlands 6.4%; Japan 5.6%,34645620,149031342,23.2,11.6,93290738,311114184
+901813,HS6,Magnetic resonance imaging (MRI) apparatus,Imaging,2026,274656,467697324,0.1,Germany 86.4%; United Kingdom 4.8%; Japan 4.2%,0,0,,14.9,0,0
+901814,HS6,Scintigraphic apparatus,Imaging,2022,511374,34647448,1.5,Israel 59.5%; Japan 23.3%; Germany 3.6%,71468,770512,9.3,0.0,4624417,10421853
+901814,HS6,Scintigraphic apparatus,Imaging,2023,402107,57890648,0.7,Israel 76.4%; Japan 18.7%; Germany 1.3%,7731,804660,1.0,0.0,8717512,15832535
+901814,HS6,Scintigraphic apparatus,Imaging,2024,617761,64226527,1.0,Israel 76.3%; Japan 16.9%; Germany 2.8%,99071,499695,19.8,0.0,9994287,21199023
+901814,HS6,Scintigraphic apparatus,Imaging,2025,1165971,58770066,2.0,Israel 62.4%; Japan 21.5%; China 5.0%,3371164,4679655,72.0,9.8,2094531,13863416
+901814,HS6,Scintigraphic apparatus,Imaging,2026,1590435,28509826,5.6,Israel 71.0%; Japan 10.5%; India 5.6%,0,0,,15.3,0,0
+901819,HS6,Other electro-diagnostic apparatus incl. patient monitors,Electro-diagnostic,2022,118783055,4977674073,2.4,Japan 18.7%; Mexico 16.9%; Germany 16.3%,70783452,96645855,73.2,0.0,11708428,96027607
+901819,HS6,Other electro-diagnostic apparatus incl. patient monitors,Electro-diagnostic,2023,128736087,5099035805,2.5,Mexico 17.9%; Germany 16.7%; Japan 12.8%,79631198,97931922,81.3,0.0,14109253,78373346
+901819,HS6,Other electro-diagnostic apparatus incl. patient monitors,Electro-diagnostic,2024,134983277,5924600913,2.3,Germany 18.9%; Mexico 13.6%; Costa Rica 11.4%,50298296,65792282,76.5,0.0,16340241,83024887
+901819,HS6,Other electro-diagnostic apparatus incl. patient monitors,Electro-diagnostic,2025,136430519,6206735607,2.2,Germany 16.7%; Mexico 12.8%; Costa Rica 12.2%,52383263,71739904,73.0,20.7,20024387,102090721
+901819,HS6,Other electro-diagnostic apparatus incl. patient monitors,Electro-diagnostic,2026,84321069,4277322316,2.0,Mexico 15.8%; Germany 14.2%; Japan 11.8%,0,0,,16.1,0,0
+901820,HS6,Ultraviolet or infrared ray apparatus,Electro-diagnostic,2022,739100,140482307,0.5,Italy 27.9%; Slovenia 15.5%; Dominican Republic 12.0%,546790,1611693,33.9,0.0,808491,1269167
+901820,HS6,Ultraviolet or infrared ray apparatus,Electro-diagnostic,2023,640462,164315891,0.4,Mexico 22.2%; Italy 21.4%; Slovenia 12.2%,582109,1534796,37.9,0.0,576796,1260365
+901820,HS6,Ultraviolet or infrared ray apparatus,Electro-diagnostic,2024,364621,213006479,0.2,Mexico 40.0%; Italy 18.1%; Slovenia 12.3%,512232,842875,60.8,0.0,973365,1774314
+901820,HS6,Ultraviolet or infrared ray apparatus,Electro-diagnostic,2025,846919,155024201,0.5,Mexico 29.6%; Italy 21.5%; Slovenia 15.4%,669690,1167155,57.4,27.5,463924,2905338
+901820,HS6,Ultraviolet or infrared ray apparatus,Electro-diagnostic,2026,180654,128853071,0.1,Italy 25.9%; Mexico 23.3%; Germany 15.3%,0,0,,15.5,0,0
+901831,HS6,Syringes,Consumables,2022,1266129,1047845946,0.1,Taiwan 18.3%; China 18.3%; Mexico 16.3%,1034299,59845304,1.7,0.0,11255401,103273249
+901831,HS6,Syringes,Consumables,2023,769058,1129537207,0.1,Mexico 20.6%; Taiwan 16.2%; China 13.9%,435535,52785106,0.8,0.0,22785382,93086903
+901831,HS6,Syringes,Consumables,2024,881097,1281974673,0.1,Mexico 23.2%; Taiwan 14.9%; China 12.4%,529637,59819999,0.9,0.0,32607558,146162585
+901831,HS6,Syringes,Consumables,2025,14090000,1506654404,0.9,Mexico 22.8%; Taiwan 16.0%; Italy 14.3%,14135876,71175193,19.9,26.8,29210631,166730490
+901831,HS6,Syringes,Consumables,2026,3522134,1205042806,0.3,Mexico 26.0%; Italy 14.1%; Taiwan 13.8%,0,0,,25.0,0,0
+901832,HS6,Tubular metal needles and suture needles,Consumables,2022,3499655,989919489,0.4,Ireland 41.0%; Mexico 13.6%; Japan 6.3%,4193308,33332457,12.6,0.0,8757776,69467159
+901832,HS6,Tubular metal needles and suture needles,Consumables,2023,4827739,866995851,0.6,Ireland 39.9%; Mexico 13.9%; Japan 7.0%,5749702,84007309,6.8,0.0,10239157,107890538
+901832,HS6,Tubular metal needles and suture needles,Consumables,2024,3538099,843418731,0.4,Ireland 39.2%; Mexico 12.0%; Japan 9.1%,5707191,51011906,11.2,0.0,14359731,86002559
+901832,HS6,Tubular metal needles and suture needles,Consumables,2025,3039741,707316552,0.4,Mexico 17.5%; Ireland 14.0%; Japan 12.2%,3615216,41169649,8.8,19.9,10694396,75284088
+901832,HS6,Tubular metal needles and suture needles,Consumables,2026,2012881,517433166,0.4,Mexico 23.1%; Japan 11.7%; Singapore 11.0%,0,0,,15.0,0,0
+901839,HS6,Catheters cannulas and the like,Consumables,2022,41615931,7231338112,0.6,Mexico 37.4%; Costa Rica 13.7%; Ireland 13.0%,45099577,414168457,10.9,0.0,57208806,298142660
+901839,HS6,Catheters cannulas and the like,Consumables,2023,40706602,7465876078,0.5,Mexico 39.6%; Costa Rica 13.5%; Ireland 13.3%,39838523,434532356,9.2,0.0,76038386,317405841
+901839,HS6,Catheters cannulas and the like,Consumables,2024,43423851,8787763327,0.5,Mexico 40.2%; Costa Rica 14.0%; Ireland 12.4%,49146203,482416893,10.2,0.0,75192449,357764470
+901839,HS6,Catheters cannulas and the like,Consumables,2025,51239879,10262600205,0.5,Mexico 35.4%; Costa Rica 22.8%; Ireland 11.1%,54774021,525883055,10.4,11.1,87384334,392216533
+901839,HS6,Catheters cannulas and the like,Consumables,2026,26420492,7773720760,0.3,Mexico 34.6%; Costa Rica 23.2%; Ireland 11.7%,0,0,,8.3,0,0
+901841,HS6,Dental drill engines,Dental,2022,2854,91281349,0.0,Japan 31.1%; Switzerland 26.4%; Germany 19.2%,11908,54326,21.9,0.0,52202,1218168
+901841,HS6,Dental drill engines,Dental,2023,0,85119477,0.0,Japan 30.2%; Switzerland 25.1%; Germany 21.7%,537,52834,1.0,,266320,2384207
+901841,HS6,Dental drill engines,Dental,2024,0,90045133,0.0,Switzerland 29.5%; Japan 27.1%; Germany 17.9%,0,4389,0.0,,10985,2416273
+901841,HS6,Dental drill engines,Dental,2025,0,75378747,0.0,Switzerland 29.4%; Japan 23.2%; Germany 17.6%,355,41795,0.9,,9164,1306625
+901841,HS6,Dental drill engines,Dental,2026,0,47285345,0.0,Switzerland 26.3%; Germany 20.8%; Portugal 12.1%,0,0,,,0,0
+901849,HS6,Other dental instruments,Dental,2022,3063985,1155495324,0.3,Germany 27.5%; China 10.3%; Switzerland 9.7%,1608571,15950671,10.1,0.0,6335637,95434366
+901849,HS6,Other dental instruments,Dental,2023,1346404,1129032727,0.1,Germany 32.1%; Switzerland 9.3%; Israel 8.9%,1301784,16094124,8.1,0.0,4845994,93087604
+901849,HS6,Other dental instruments,Dental,2024,1622967,1230129463,0.1,Germany 27.0%; Israel 14.4%; Poland 9.7%,1856271,15367080,12.1,0.0,5402287,98813704
+901849,HS6,Other dental instruments,Dental,2025,1579992,908612037,0.2,Germany 29.2%; China 12.0%; Switzerland 11.1%,1821051,19420047,9.4,11.6,5050555,105389716
+901849,HS6,Other dental instruments,Dental,2026,1028583,581841884,0.2,Germany 26.8%; China 14.4%; Switzerland 11.1%,0,0,,17.3,0,0
+901850,HS6,Other ophthalmic instruments,Ophthalmic,2022,6209065,593318501,1.0,Germany 18.4%; Singapore 10.7%; Mexico 10.3%,4182702,30958112,13.5,0.0,46544441,184178182
+901850,HS6,Other ophthalmic instruments,Ophthalmic,2023,6935463,620661622,1.1,Germany 16.2%; Mexico 13.1%; Japan 10.6%,3797138,32043823,11.8,0.0,72483896,226563859
+901850,HS6,Other ophthalmic instruments,Ophthalmic,2024,8002944,597799334,1.3,Germany 17.8%; Mexico 12.9%; Japan 10.7%,5263702,33568053,15.7,0.0,70876456,210074712
+901850,HS6,Other ophthalmic instruments,Ophthalmic,2025,14901913,625151716,2.4,Germany 19.4%; Mexico 11.6%; Japan 9.5%,14195744,46053073,30.8,22.3,89107023,252168475
+901850,HS6,Other ophthalmic instruments,Ophthalmic,2026,10198014,430137516,2.4,Germany 18.3%; Switzerland 11.2%; Singapore 10.7%,0,0,,15.6,0,0
+901890,HS6,Other medical and surgical instruments,Instruments,2022,84232899,16609545807,0.5,Mexico 32.5%; Germany 10.2%; Costa Rica 9.0%,112701242,383752234,29.4,0.0,208474174,915043914
+901890,HS6,Other medical and surgical instruments,Instruments,2023,84055947,19197733199,0.4,Mexico 37.9%; Costa Rica 9.7%; Germany 9.6%,109048140,445377421,24.5,0.0,242551954,1024496895
+901890,HS6,Other medical and surgical instruments,Instruments,2024,87191880,20358330127,0.4,Mexico 34.5%; Costa Rica 11.1%; Germany 9.9%,111785089,459874348,24.3,0.0,292754725,1101331238
+901890,HS6,Other medical and surgical instruments,Instruments,2025,80534630,22032535717,0.4,Mexico 35.6%; Costa Rica 10.8%; Germany 10.1%,131915637,504507938,26.1,16.4,387741562,1303409364
+901890,HS6,Other medical and surgical instruments,Instruments,2026,46603179,15523825848,0.3,Mexico 34.9%; Germany 11.4%; Costa Rica 11.3%,0,0,,15.2,0,0
+901910,HS6,Mechano-therapy and massage apparatus,Therapy,2022,287921,2630469140,0.0,China 62.6%; Mexico 16.0%; Canada 5.7%,306271,4290759,7.1,0.0,1909839,60261008
+901910,HS6,Mechano-therapy and massage apparatus,Therapy,2023,629171,2106812556,0.0,China 58.7%; Mexico 18.2%; Canada 4.5%,418306,4405571,9.5,0.0,1145461,64540063
+901910,HS6,Mechano-therapy and massage apparatus,Therapy,2024,868315,2310241663,0.0,"China 58.6%; Mexico 20.1%; Korea, South 4.7%",1154019,5671028,20.3,0.0,1301678,75057135
+901910,HS6,Mechano-therapy and massage apparatus,Therapy,2025,708980,1873530830,0.0,China 46.5%; Mexico 26.2%; Canada 5.3%,2260365,7501668,30.1,14.0,1305919,95855036
+901910,HS6,Mechano-therapy and massage apparatus,Therapy,2026,930733,1376733695,0.1,China 42.2%; Mexico 30.1%; Canada 5.5%,0,0,,11.3,0,0
+901920,HS6,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,Respiratory,2022,4316804,3460639071,0.1,Singapore 28.3%; China 21.6%; Mexico 13.0%,3903111,17233577,22.6,0.0,25891830,199262412
+901920,HS6,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,Respiratory,2023,10876313,3562398489,0.3,Singapore 33.3%; China 16.8%; Australia 14.8%,1929713,21050865,9.2,0.0,21391456,183436310
+901920,HS6,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,Respiratory,2024,10087718,4040166647,0.2,Singapore 36.8%; China 16.3%; Mexico 13.0%,6319852,19490055,32.4,0.0,12413994,192963732
+901920,HS6,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,Respiratory,2025,5334198,4582991705,0.1,Singapore 38.5%; China 16.3%; Mexico 12.3%,6272798,22464044,27.9,10.9,15090963,235375348
+901920,HS6,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,Respiratory,2026,4070237,3357182131,0.1,Singapore 38.8%; China 15.9%; Mexico 13.2%,0,0,,5.8,0,0
+902000,HS6,Other breathing appliances and gas masks,Respiratory,2022,72796,216035926,0.0,France 25.4%; United Kingdom 15.0%; Germany 12.7%,139531,3319518,4.2,0.5,3606170,14801940
+902000,HS6,Other breathing appliances and gas masks,Respiratory,2023,99210,210971849,0.0,France 26.1%; Germany 15.9%; Mexico 13.2%,186349,5532036,3.4,1.5,6037258,18684583
+902000,HS6,Other breathing appliances and gas masks,Respiratory,2024,65230,239691384,0.0,France 25.3%; United Kingdom 13.5%; Germany 13.4%,392424,5893365,6.7,0.4,8251487,22340444
+902000,HS6,Other breathing appliances and gas masks,Respiratory,2025,808680,262915823,0.3,France 22.2%; United Kingdom 18.3%; Mexico 14.9%,984092,6393566,15.4,0.7,6792091,22073292
+902000,HS6,Other breathing appliances and gas masks,Respiratory,2026,410272,211784046,0.2,France 20.9%; United Kingdom 15.4%; Mexico 14.5%,0,0,,0.8,0,0
+902110,HS6,Orthopaedic or fracture appliances,Implants,2022,1870889,2993609589,0.1,Mexico 26.3%; Switzerland 22.9%; China 14.2%,2938372,70408164,4.2,0.0,10958950,31702121
+902110,HS6,Orthopaedic or fracture appliances,Implants,2023,1862392,2849325659,0.1,Mexico 30.1%; Switzerland 21.4%; Germany 13.8%,2399335,77297837,3.1,0.0,10830741,34532445
+902110,HS6,Orthopaedic or fracture appliances,Implants,2024,2006706,3010974582,0.1,Switzerland 24.5%; Mexico 23.4%; Germany 15.8%,2741701,83154932,3.3,0.0,11716289,49940742
+902110,HS6,Orthopaedic or fracture appliances,Implants,2025,2949153,2862561938,0.1,Switzerland 25.7%; Mexico 19.8%; Germany 15.9%,4192490,100268403,4.2,18.2,13632229,68270186
+902110,HS6,Orthopaedic or fracture appliances,Implants,2026,2971973,1945242118,0.2,Switzerland 21.4%; Mexico 18.4%; Germany 16.9%,0,0,,13.5,0,0
+902121,HS6,Artificial teeth,Dental,2022,9776853,287715763,3.4,Spain 31.1%; China 22.5%; Vietnam 11.8%,9634085,13049180,73.8,0.0,142991,1310918
+902121,HS6,Artificial teeth,Dental,2023,7995819,300009678,2.7,Spain 23.3%; China 21.4%; Sweden 13.4%,8180046,12336278,66.3,0.0,304810,775972
+902121,HS6,Artificial teeth,Dental,2024,10707951,338493578,3.2,Sweden 30.9%; China 18.4%; Spain 18.1%,10881178,15672563,69.4,0.0,231423,930459
+902121,HS6,Artificial teeth,Dental,2025,8510451,258880697,3.3,Sweden 36.9%; Spain 16.2%; China 11.8%,7740881,13033724,59.4,14.8,357116,1118595
+902121,HS6,Artificial teeth,Dental,2026,5028422,181276476,2.8,Sweden 23.4%; Brazil 23.3%; Spain 13.0%,0,0,,16.1,0,0
+902129,HS6,Other dental fittings,Dental,2022,2111929,423780264,0.5,Switzerland 28.3%; Brazil 24.7%; Sweden 24.6%,1545249,4556526,33.9,0.0,8297473,42728946
+902129,HS6,Other dental fittings,Dental,2023,3971458,378927732,1.0,Switzerland 30.5%; Brazil 24.2%; Sweden 17.7%,3339057,6937666,48.1,0.0,9949146,50516354
+902129,HS6,Other dental fittings,Dental,2024,2509414,333487906,0.8,"Switzerland 34.6%; Brazil 32.8%; Korea, South 9.7%",2317699,5695231,40.7,0.0,12783285,58403256
+902129,HS6,Other dental fittings,Dental,2025,394526,311980617,0.1,"Brazil 35.0%; Switzerland 32.1%; Korea, South 9.0%",715093,7924399,9.0,19.8,14542403,56325788
+902129,HS6,Other dental fittings,Dental,2026,417998,96722302,0.4,"Switzerland 21.0%; Korea, South 20.2%; Brazil 12.4%",0,0,,15.0,0,0
+902131,HS6,Artificial joints,Implants,2022,17826663,2762516129,0.6,Ireland 50.2%; Germany 13.0%; France 12.0%,18393685,45373297,40.5,0.0,37703474,166364332
+902131,HS6,Artificial joints,Implants,2023,29662607,3042383861,1.0,Ireland 50.3%; Switzerland 11.8%; Germany 11.3%,27486636,68364610,40.2,0.0,126045273,172308221
+902131,HS6,Artificial joints,Implants,2024,29703148,3489895221,0.9,Ireland 52.0%; Germany 14.4%; Switzerland 8.7%,28692790,95632664,30.0,0.0,131428682,218225322
+902131,HS6,Artificial joints,Implants,2025,21920729,3586780486,0.6,Ireland 51.5%; Germany 15.2%; France 11.2%,21450342,93499098,22.9,7.2,131499910,205540074
+902131,HS6,Artificial joints,Implants,2026,20628791,2821825684,0.7,Ireland 53.0%; Germany 13.7%; France 12.2%,0,0,,3.8,0,0
+902139,HS6,Other artificial parts of the body,Implants,2022,2417933,4312282447,0.1,Ireland 62.9%; Costa Rica 13.3%; Singapore 6.9%,2577649,82763033,3.1,0.0,32002202,201793105
+902139,HS6,Other artificial parts of the body,Implants,2023,2199442,4809855995,0.0,Ireland 52.4%; Costa Rica 15.9%; Singapore 13.4%,4040394,114097480,3.5,0.0,94904941,248040190
+902139,HS6,Other artificial parts of the body,Implants,2024,1816161,5074445367,0.0,Ireland 40.4%; Singapore 21.5%; Costa Rica 17.0%,4022443,153112718,2.6,0.0,59015465,232473773
+902139,HS6,Other artificial parts of the body,Implants,2025,1383856,5255051590,0.0,Ireland 48.6%; Singapore 17.3%; Costa Rica 14.8%,1977020,192009721,1.0,19.0,82471010,268851065
+902139,HS6,Other artificial parts of the body,Implants,2026,843970,3947499466,0.0,Ireland 53.4%; Costa Rica 19.6%; Singapore 11.6%,0,0,,14.5,0,0
+902140,HS6,Hearing aids,Hearing,2022,25082,2013388100,0.0,Poland 22.5%; Vietnam 18.5%; Mexico 14.4%,391676,3476722,11.3,0.0,9616010,76514193
+902140,HS6,Hearing aids,Hearing,2023,21990,2547466357,0.0,Poland 26.6%; Mexico 15.4%; Vietnam 13.3%,591984,19893697,3.0,0.0,9030338,97832838
+902140,HS6,Hearing aids,Hearing,2024,9168,2685014738,0.0,Denmark 30.1%; Poland 16.8%; Mexico 12.9%,314925,8933222,3.5,0.0,6491126,84056060
+902140,HS6,Hearing aids,Hearing,2025,35392,3016672041,0.0,Denmark 49.4%; Vietnam 12.7%; Mexico 9.9%,388291,13634792,2.8,1.0,3017205,70791068
+902140,HS6,Hearing aids,Hearing,2026,68174,2371826719,0.0,Denmark 45.6%; Mexico 13.7%; Vietnam 13.7%,0,0,,0.0,0,0
+902150,HS6,Pacemakers,Implants,2022,2320,1985200804,0.0,Ireland 43.5%; Switzerland 32.0%; Singapore 12.5%,55894,1630379,3.4,0.0,321000,44078447
+902150,HS6,Pacemakers,Implants,2023,0,1952036516,0.0,Ireland 46.0%; Switzerland 32.6%; Singapore 14.0%,60686,915932,6.6,,2615849,53071747
+902150,HS6,Pacemakers,Implants,2024,14800,1876645311,0.0,Ireland 46.5%; Switzerland 29.6%; Singapore 14.9%,48046,460672,10.4,0.0,2952326,56755008
+902150,HS6,Pacemakers,Implants,2025,7200,1866757537,0.0,Ireland 43.6%; Switzerland 35.8%; Singapore 13.6%,95684,291775,32.8,10.0,4033507,66637079
+902150,HS6,Pacemakers,Implants,2026,0,1441721866,0.0,Ireland 40.0%; Switzerland 38.5%; Singapore 16.1%,0,0,,,0,0
+902190,HS6,Other appliances implanted or worn incl. stents,Implants,2022,229047,1862242354,0.0,Ireland 18.3%; China 15.4%; Mexico 11.1%,554462,38267402,1.4,0.0,16518929,188142931
+902190,HS6,Other appliances implanted or worn incl. stents,Implants,2023,209638,2081869525,0.0,Ireland 22.3%; China 16.6%; Costa Rica 13.7%,788427,64268694,1.2,0.0,34609594,244704632
+902190,HS6,Other appliances implanted or worn incl. stents,Implants,2024,163515,1955493218,0.0,Ireland 23.9%; Mexico 13.6%; China 11.5%,466729,59153777,0.8,0.0,33719722,267027075
+902190,HS6,Other appliances implanted or worn incl. stents,Implants,2025,1471548,2051659155,0.1,Ireland 19.1%; Mexico 13.0%; Costa Rica 10.8%,1116617,68352603,1.6,7.3,43391446,268099155
+902190,HS6,Other appliances implanted or worn incl. stents,Implants,2026,1089615,1389228636,0.1,Ireland 18.0%; Malaysia 15.4%; Mexico 11.8%,0,0,,6.2,0,0
+902212,HS6,Computed tomography (CT) apparatus,Imaging,2022,3877494,805258541,0.5,Germany 65.1%; Israel 11.8%; Japan 11.5%,463651,3246051,14.3,0.0,34463266,140292925
+902212,HS6,Computed tomography (CT) apparatus,Imaging,2023,3541386,769208923,0.5,Germany 68.0%; Japan 11.7%; Israel 9.8%,830888,4267115,19.5,0.0,33778191,120292730
+902212,HS6,Computed tomography (CT) apparatus,Imaging,2024,2437679,884984587,0.3,Germany 72.4%; Japan 10.9%; Israel 7.1%,2176528,13700291,15.9,0.0,48209040,169670563
+902212,HS6,Computed tomography (CT) apparatus,Imaging,2025,3655217,951457696,0.4,Germany 76.0%; Japan 8.8%; Israel 7.5%,3939440,26267556,15.0,25.9,36541677,174511688
+902212,HS6,Computed tomography (CT) apparatus,Imaging,2026,3469917,596361895,0.6,Germany 80.7%; Israel 6.5%; Japan 5.7%,0,0,,14.8,0,0
+902213,HS6,Dental X-ray apparatus,Imaging,2022,351915,263680383,0.1,"Finland 43.6%; Korea, South 28.9%; Germany 18.8%",548003,851494,64.4,0.0,87089,17531567
+902213,HS6,Dental X-ray apparatus,Imaging,2023,225240,204050576,0.1,"Finland 50.6%; Korea, South 35.1%; Germany 5.2%",249814,1116755,22.4,0.0,901789,17237614
+902213,HS6,Dental X-ray apparatus,Imaging,2024,211280,150933738,0.1,"Finland 45.6%; Korea, South 41.2%; Japan 4.8%",282240,810483,34.8,0.0,47408,15046939
+902213,HS6,Dental X-ray apparatus,Imaging,2025,160364,136886820,0.1,"Korea, South 45.8%; Finland 33.0%; Japan 8.2%",97743,954680,10.2,25.3,146046,16958028
+902213,HS6,Dental X-ray apparatus,Imaging,2026,80399,108050398,0.1,"Korea, South 41.5%; Finland 34.8%; Germany 12.4%",0,0,,11.1,0,0
+902214,HS6,Other medical X-ray apparatus,Imaging,2022,28983628,1342595062,2.2,Germany 35.8%; Netherlands 29.8%; Mexico 8.6%,16303662,77363247,21.1,0.0,20130837,182211548
+902214,HS6,Other medical X-ray apparatus,Imaging,2023,16139615,1216131337,1.3,Germany 33.5%; Netherlands 32.3%; Mexico 12.7%,12006482,70369807,17.1,0.0,48957410,255035969
+902214,HS6,Other medical X-ray apparatus,Imaging,2024,11187967,1161014163,1.0,Netherlands 35.4%; Germany 28.9%; Mexico 10.7%,9058580,78663212,11.5,0.0,62192689,272821589
+902214,HS6,Other medical X-ray apparatus,Imaging,2025,20725489,1269263215,1.6,Netherlands 35.7%; Germany 27.4%; Mexico 14.1%,12871633,78017150,16.5,13.7,89547655,371442992
+902214,HS6,Other medical X-ray apparatus,Imaging,2026,8806585,948903224,0.9,Netherlands 34.4%; Germany 30.2%; Mexico 13.4%,0,0,,10.8,0,0
+902219,HS6,X-ray apparatus for other uses,Imaging,2022,254379,341968806,0.1,Germany 21.3%; United Kingdom 17.7%; Japan 13.9%,250553,3044664,8.2,0.0,13022945,69576876
+902219,HS6,X-ray apparatus for other uses,Imaging,2023,355956,360363378,0.1,Germany 24.7%; United Kingdom 16.5%; Japan 13.4%,436074,3796051,11.5,0.0,17876631,95538980
+902219,HS6,X-ray apparatus for other uses,Imaging,2024,354404,385312249,0.1,Germany 21.7%; Japan 12.4%; United Kingdom 11.6%,782219,5251785,14.9,0.0,16013251,122907709
+902219,HS6,X-ray apparatus for other uses,Imaging,2025,299480,346425373,0.1,Germany 20.0%; United Kingdom 12.3%; Japan 12.3%,298239,4688410,6.4,24.2,17192771,132617242
+902219,HS6,X-ray apparatus for other uses,Imaging,2026,166382,247404529,0.1,Germany 21.1%; Japan 12.8%; United Kingdom 12.1%,0,0,,10.0,0,0
+902221,HS6,Alpha beta gamma radiation apparatus for medical use,Imaging,2022,130122,27678734,0.5,Netherlands 48.7%; Germany 26.7%; Sweden 16.2%,4046,1332430,0.3,0.0,92134,44085589
+902221,HS6,Alpha beta gamma radiation apparatus for medical use,Imaging,2023,46664,32524130,0.1,Germany 46.3%; Sweden 19.9%; Italy 18.3%,11759,534746,2.2,0.0,376049,17328802
+902221,HS6,Alpha beta gamma radiation apparatus for medical use,Imaging,2024,0,19743014,0.0,Germany 46.9%; Sweden 21.6%; Italy 19.2%,6810,3802902,0.2,,118324,13593772
+902221,HS6,Alpha beta gamma radiation apparatus for medical use,Imaging,2025,31010,20466643,0.2,Germany 44.3%; Italy 28.1%; Sweden 13.3%,1281,2336961,0.1,8.9,416361,10656324
+902221,HS6,Alpha beta gamma radiation apparatus for medical use,Imaging,2026,0,17691157,0.0,Germany 31.5%; Sweden 26.7%; United Kingdom 24.2%,0,0,,,0,0
+902229,HS6,Alpha beta gamma radiation apparatus for other uses,Imaging,2022,102566,224406357,0.0,China 49.2%; Mexico 47.0%; Australia 0.9%,6274,960412,0.7,0.0,1158855,9304548
+902229,HS6,Alpha beta gamma radiation apparatus for other uses,Imaging,2023,43753,192870866,0.0,Mexico 56.8%; China 40.0%; Germany 0.8%,130345,875556,14.9,0.0,2214363,8181688
+902229,HS6,Alpha beta gamma radiation apparatus for other uses,Imaging,2024,360001,231890334,0.2,Mexico 70.7%; China 21.4%; Denmark 2.3%,23939,1458237,1.6,0.0,1278678,13157796
+902229,HS6,Alpha beta gamma radiation apparatus for other uses,Imaging,2025,66365,218132216,0.0,Mexico 84.7%; China 7.7%; Norway 1.4%,937,1202879,0.1,4.1,3112134,17370142
+902229,HS6,Alpha beta gamma radiation apparatus for other uses,Imaging,2026,8000,146801211,0.0,Mexico 91.2%; Norway 1.8%; China 1.3%,0,0,,10.0,0,0
+902230,HS6,X-ray tubes,Imaging,2022,52023542,350377707,14.8,Germany 58.4%; India 14.8%; China 4.8%,54163089,152457256,35.5,0.0,9600955,71362884
+902230,HS6,X-ray tubes,Imaging,2023,51784827,359402063,14.4,Germany 56.8%; India 14.4%; United Kingdom 5.7%,43170392,148923042,29.0,0.0,11153532,67840061
+902230,HS6,X-ray tubes,Imaging,2024,68930030,393915793,17.5,Germany 57.2%; India 17.5%; China 5.4%,36052525,161374428,22.3,0.0,11260662,78123640
+902230,HS6,X-ray tubes,Imaging,2025,67638887,375146517,18.0,Germany 56.2%; India 18.0%; France 4.9%,42869094,142656146,30.1,21.3,11111162,162234463
+902230,HS6,X-ray tubes,Imaging,2026,45205261,250192057,18.1,Germany 61.5%; India 18.1%; Japan 4.2%,0,0,,15.2,0,0
+902290,HS6,Parts of X-ray and radiation apparatus,Imaging,2022,38294064,1284223487,3.0,Germany 16.8%; China 16.4%; Japan 11.5%,23821907,98130820,24.3,0.6,83380155,330372577
+902290,HS6,Parts of X-ray and radiation apparatus,Imaging,2023,33353647,1415905033,2.4,China 16.2%; Germany 16.0%; Mexico 11.5%,24759999,105419183,23.5,0.5,85656073,338447566
+902290,HS6,Parts of X-ray and radiation apparatus,Imaging,2024,35157288,1430509848,2.5,China 16.5%; Germany 16.1%; Mexico 10.4%,27098774,108195306,25.0,0.5,87248113,330532726
+902290,HS6,Parts of X-ray and radiation apparatus,Imaging,2025,33521922,1334325437,2.5,Germany 16.6%; China 16.1%; Japan 11.0%,35758076,120958543,29.6,22.2,88214854,381944426
+902290,HS6,Parts of X-ray and radiation apparatus,Imaging,2026,26277832,984690828,2.7,Germany 17.9%; China 15.7%; Japan 9.3%,0,0,,16.6,0,0
+902511,HS6,Clinical thermometers,Electronic Equipment,2022,127160,18405026,0.7,China 71.8%; Germany 8.0%; Taiwan 6.6%,453686,2508207,18.1,0.0,104921,3069375
+902511,HS6,Clinical thermometers,Electronic Equipment,2023,93935,13851003,0.7,China 72.1%; Germany 8.0%; Taiwan 6.4%,235890,2577043,9.2,0.0,74628,4391410
+902511,HS6,Clinical thermometers,Electronic Equipment,2024,196184,13726074,1.4,China 73.6%; Germany 9.4%; Taiwan 3.3%,425445,5427392,7.8,0.0,40711,3547914
+902511,HS6,Clinical thermometers,Electronic Equipment,2025,137501,10554871,1.3,China 74.9%; Germany 7.8%; United Kingdom 2.3%,342127,3137715,10.9,12.8,83399,3185395
+902511,HS6,Clinical thermometers,Electronic Equipment,2026,94728,8010417,1.2,China 70.9%; Germany 10.2%; United Kingdom 4.2%,0,0,,18.0,0,0
+902710,HS6,Gas or smoke analysis apparatus,Electronic Equipment,2022,1895719,955208473,0.2,Japan 20.3%; Germany 16.8%; Mexico 13.7%,3161058,24070636,13.1,0.0,33206136,204828549
+902710,HS6,Gas or smoke analysis apparatus,Electronic Equipment,2023,2123549,1003074753,0.2,Japan 18.0%; Germany 16.6%; Mexico 13.1%,1987565,35898768,5.5,0.0,42539482,292493035
+902710,HS6,Gas or smoke analysis apparatus,Electronic Equipment,2024,2384164,1070082741,0.2,Mexico 16.2%; Japan 15.8%; Germany 14.9%,1917084,26121820,7.3,0.0,40577239,264603142
+902710,HS6,Gas or smoke analysis apparatus,Electronic Equipment,2025,2124018,1044331281,0.2,Mexico 18.3%; Germany 16.9%; Japan 15.6%,1418535,47953318,3.0,15.1,41564441,280734905
+902710,HS6,Gas or smoke analysis apparatus,Electronic Equipment,2026,1636772,821738069,0.2,Mexico 21.1%; Germany 16.6%; Japan 11.1%,0,0,,11.8,0,0
+902720,HS6,Chromatographs and electrophoresis instruments,Electronic Equipment,2022,734803,295431898,0.2,Sweden 32.8%; Germany 13.8%; Singapore 13.3%,1794636,7425908,24.2,0.0,21235691,250638831
+902720,HS6,Chromatographs and electrophoresis instruments,Electronic Equipment,2023,466950,274073248,0.2,Sweden 31.9%; Singapore 12.6%; Germany 11.2%,490667,17270193,2.8,0.0,53615438,295786379
+902720,HS6,Chromatographs and electrophoresis instruments,Electronic Equipment,2024,339711,257708435,0.1,Sweden 24.0%; Singapore 11.8%; Canada 11.3%,408510,15512599,2.6,0.0,39758909,325509279
+902720,HS6,Chromatographs and electrophoresis instruments,Electronic Equipment,2025,713407,230611368,0.3,Sweden 21.4%; Germany 18.2%; Singapore 13.2%,403200,9251624,4.4,11.4,33475221,323764705
+902720,HS6,Chromatographs and electrophoresis instruments,Electronic Equipment,2026,283915,160776137,0.2,Sweden 18.1%; Germany 15.8%; Japan 14.7%,0,0,,16.0,0,0
+902730,HS6,Spectrometers,Electronic Equipment,2022,714460,638438717,0.1,Germany 19.9%; Mexico 14.8%; United Kingdom 9.2%,537383,12756363,4.2,0.0,21980859,171070945
+902730,HS6,Spectrometers,Electronic Equipment,2023,990454,659682641,0.2,Germany 20.6%; Mexico 18.8%; United Kingdom 11.6%,1885252,19029828,9.9,0.0,25135448,173589446
+902730,HS6,Spectrometers,Electronic Equipment,2024,407616,642554481,0.1,Germany 19.4%; Mexico 17.3%; United Kingdom 9.6%,1419740,15730035,9.0,0.0,28718166,195703094
+902730,HS6,Spectrometers,Electronic Equipment,2025,851190,593393095,0.1,Mexico 20.8%; Germany 20.6%; United Kingdom 9.9%,1443703,16854085,8.6,7.5,31954921,214996460
+902730,HS6,Spectrometers,Electronic Equipment,2026,389461,398572553,0.1,Mexico 22.1%; Germany 22.0%; United Kingdom 12.2%,0,0,,9.9,0,0
+902750,HS6,Photometers,Electronic Equipment,2022,1135252,1655649018,0.1,Singapore 21.4%; Japan 13.7%; Germany 10.1%,3409716,19708081,17.3,0.0,57444489,261937788
+902750,HS6,Photometers,Electronic Equipment,2023,2342504,1607159048,0.1,Singapore 18.7%; Japan 16.8%; Germany 11.6%,6768017,23506101,28.8,0.0,92465678,310709029
+902750,HS6,Photometers,Electronic Equipment,2024,988037,1602326015,0.1,Singapore 18.8%; Japan 15.7%; Germany 13.3%,2905210,81119984,3.6,0.0,75589758,307592513
+902750,HS6,Photometers,Electronic Equipment,2025,709938,1470414097,0.0,Japan 17.0%; Singapore 16.3%; Germany 13.3%,3408626,32946476,10.3,19.5,76695422,333700215
+902750,HS6,Photometers,Electronic Equipment,2026,914696,1032121811,0.1,Japan 19.0%; Singapore 14.5%; Germany 11.9%,0,0,,12.8,0,0
+902790,HS6,"Microtomes, including parts and accessories thereof",Electronic Equipment,2022,2809500,2546052235,0.1,Germany 14.8%; Japan 14.7%; China 8.5%,5007304,45994696,10.9,0.0,59903397,358032278
+902790,HS6,"Microtomes, including parts and accessories thereof",Electronic Equipment,2023,4961433,2406783371,0.2,Germany 15.7%; Japan 14.6%; Singapore 8.0%,6268001,71871678,8.7,0.0,90462228,367234325
+902790,HS6,"Microtomes, including parts and accessories thereof",Electronic Equipment,2024,4727562,2356261636,0.2,Germany 14.9%; Japan 14.9%; Singapore 8.5%,5037032,50839593,9.9,0.0,97722133,388288426
+902790,HS6,"Microtomes, including parts and accessories thereof",Electronic Equipment,2025,5597230,2324346555,0.2,Japan 16.7%; Germany 13.6%; Mexico 8.6%,6750967,63326532,10.7,23.0,104181326,441049693
+902790,HS6,"Microtomes, including parts and accessories thereof",Electronic Equipment,2026,3826181,1678662609,0.2,Japan 16.6%; Germany 12.3%; Mexico 8.9%,0,0,,12.7,0,0
+940290,HS6,Other medical furniture incl. hospital beds,Furniture,2022,2456242,1220009874,0.2,China 41.3%; Mexico 12.5%; Canada 11.1%,1904105,20383686,9.3,0.0,3995035,53643455
+940290,HS6,Other medical furniture incl. hospital beds,Furniture,2023,2275709,1043588425,0.2,China 36.2%; Mexico 15.3%; Canada 14.0%,1606180,20381909,7.9,0.0,3757408,50627385
+940290,HS6,Other medical furniture incl. hospital beds,Furniture,2024,2597621,1166602199,0.2,China 38.6%; Mexico 15.7%; Germany 11.3%,1992725,17695163,11.3,0.0,3671807,54930331
+940290,HS6,Other medical furniture incl. hospital beds,Furniture,2025,2556450,1165761105,0.2,China 34.6%; Mexico 18.1%; Canada 13.0%,1609821,20536659,7.8,17.0,5758034,64998803
+940290,HS6,Other medical furniture incl. hospital beds,Furniture,2026,2897019,863236305,0.3,China 32.5%; Mexico 18.1%; Canada 15.9%,0,0,,17.7,0,0
+961900,HS6,Sanitary towels (pads) or sanitary napkins,Consumable & Disposable,2022,325203,1609859599,0.0,Canada 45.8%; Mexico 22.4%; China 15.3%,180879,45753345,0.4,7.0,1568323,106177000
+961900,HS6,Sanitary towels (pads) or sanitary napkins,Consumable & Disposable,2023,338007,1659273383,0.0,Canada 49.0%; Mexico 20.7%; China 15.2%,415578,43596924,1.0,5.7,488489,82732269
+961900,HS6,Sanitary towels (pads) or sanitary napkins,Consumable & Disposable,2024,987808,1794999137,0.1,Canada 44.8%; Mexico 21.0%; China 19.0%,881380,43144617,2.0,1.1,564468,79615008
+961900,HS6,Sanitary towels (pads) or sanitary napkins,Consumable & Disposable,2025,1442988,1860456653,0.1,Canada 47.3%; China 21.7%; Mexico 15.5%,1636875,41013506,4.0,25.7,214722,41840291
+961900,HS6,Sanitary towels (pads) or sanitary napkins,Consumable & Disposable,2026,1992768,1465867654,0.1,Canada 44.4%; China 21.2%; Mexico 16.7%,0,0,,15.0,0,0
+9025198010,HS10,Infrared thermometers (Clinical),Electronic Equipment,2022,0,44659358,0.0,China 51.5%; Mexico 30.2%; Taiwan 9.6%,,,,,,
+9025198010,HS10,Infrared thermometers (Clinical),Electronic Equipment,2023,0,42363371,0.0,Mexico 49.0%; China 37.7%; Italy 6.9%,,,,,,
+9025198010,HS10,Infrared thermometers (Clinical),Electronic Equipment,2024,0,55997235,0.0,Mexico 59.9%; China 31.3%; Italy 5.0%,,,,,,
+9025198010,HS10,Infrared thermometers (Clinical),Electronic Equipment,2025,0,40682306,0.0,Mexico 46.9%; China 46.2%; France 2.4%,,,,,,
+9025198010,HS10,Infrared thermometers (Clinical),Electronic Equipment,2026,0,20541981,0.0,China 45.2%; Mexico 32.9%; Vietnam 16.4%,,,,,,
+9025198020,HS10,Other (Clinical),Electronic Equipment,2022,0,50043392,0.0,China 77.7%; Vietnam 14.4%; Taiwan 3.2%,,,,,,
+9025198020,HS10,Other (Clinical),Electronic Equipment,2023,7250,39682772,0.0,China 67.9%; Vietnam 22.3%; Taiwan 4.7%,,,,0.0,,
+9025198020,HS10,Other (Clinical),Electronic Equipment,2024,0,38116772,0.0,China 63.5%; Vietnam 18.7%; Taiwan 8.1%,,,,,,
+9025198020,HS10,Other (Clinical),Electronic Equipment,2025,22781,40293857,0.1,China 60.5%; Vietnam 21.9%; Taiwan 7.2%,,,,10.0,,
+9025198020,HS10,Other (Clinical),Electronic Equipment,2026,0,29240603,0.0,China 50.5%; Vietnam 21.3%; Taiwan 18.6%,,,,,,
+9402100000,HS10,"Dentists', barbers' or similar chairs and parts thereof",Furniture,2022,306174,117193193,0.3,China 65.9%; Vietnam 17.9%; Taiwan 4.7%,,,,0.0,,
+9402100000,HS10,"Dentists', barbers' or similar chairs and parts thereof",Furniture,2023,505728,94854214,0.5,China 62.5%; Vietnam 21.5%; Taiwan 3.9%,,,,0.0,,
+9402100000,HS10,"Dentists', barbers' or similar chairs and parts thereof",Furniture,2024,447333,126144134,0.4,China 66.4%; Vietnam 22.6%; Taiwan 2.9%,,,,0.0,,
+9402100000,HS10,"Dentists', barbers' or similar chairs and parts thereof",Furniture,2025,669796,96622835,0.7,China 51.7%; Vietnam 30.2%; Taiwan 5.3%,,,,17.0,,
+9402100000,HS10,"Dentists', barbers' or similar chairs and parts thereof",Furniture,2026,564545,63258898,0.9,China 66.4%; Vietnam 12.2%; Taiwan 5.3%,,,,21.6,,
+6210105010,HS10,Surgical or isolation gowns,Consumable & Disposable,2022,1254880,581874157,0.2,China 32.7%; Honduras 23.3%; Mexico 21.4%,,,,0.0,,
+6210105010,HS10,Surgical or isolation gowns,Consumable & Disposable,2023,664019,517545634,0.1,Mexico 29.2%; China 27.3%; Honduras 20.5%,,,,0.0,,
+6210105010,HS10,Surgical or isolation gowns,Consumable & Disposable,2024,479175,606346657,0.1,China 29.3%; Mexico 27.8%; Honduras 17.9%,,,,0.0,,
+6210105010,HS10,Surgical or isolation gowns,Consumable & Disposable,2025,1409611,625740049,0.2,Mexico 34.7%; China 22.7%; Honduras 16.7%,,,,22.7,,
+6210105010,HS10,Surgical or isolation gowns,Consumable & Disposable,2026,1195639,468867899,0.3,Mexico 38.5%; China 21.0%; Honduras 15.2%,,,,16.5,,
+6210105090,HS10,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),Consumable & Disposable,2022,4308388,231547188,1.9,China 51.5%; Vietnam 26.4%; Mexico 13.1%,,,,0.0,,
+6210105090,HS10,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),Consumable & Disposable,2023,4640843,213655588,2.2,China 51.7%; Vietnam 24.0%; Mexico 13.5%,,,,0.0,,
+6210105090,HS10,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),Consumable & Disposable,2024,3433502,248869110,1.4,China 49.2%; Vietnam 25.5%; Mexico 13.0%,,,,0.0,,
+6210105090,HS10,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),Consumable & Disposable,2025,4138651,255160246,1.6,China 41.5%; Vietnam 25.9%; Mexico 10.2%,,,,17.8,,
+6210105090,HS10,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),Consumable & Disposable,2026,2344946,191396086,1.2,China 39.1%; Vietnam 24.5%; Mexico 9.8%,,,,16.6,,
+3822190010,HS10,"Containing antigens or antisera, with methyl chloroform/carbon tetrachloride",Diagnostics,2022,23700,46934793,0.1,Sweden 43.6%; United Kingdom 18.6%; China 10.9%,,,,0.0,,
+3822190010,HS10,"Containing antigens or antisera, with methyl chloroform/carbon tetrachloride",Diagnostics,2023,2700,23358931,0.0,Sweden 41.8%; Australia 9.2%; China 8.2%,,,,0.0,,
+3822190010,HS10,"Containing antigens or antisera, with methyl chloroform/carbon tetrachloride",Diagnostics,2024,2085,29700352,0.0,Sweden 42.7%; Germany 14.8%; Austria 11.7%,,,,0.0,,
+3822190010,HS10,"Containing antigens or antisera, with methyl chloroform/carbon tetrachloride",Diagnostics,2025,22950,13351289,0.2,"Sweden 30.3%; Korea, South 27.3%; Austria 13.9%",,,,10.0,,
+3822190010,HS10,"Containing antigens or antisera, with methyl chloroform/carbon tetrachloride",Diagnostics,2026,0,7762666,0.0,"Korea, South 36.3%; China 12.3%; Sweden 10.4%",,,,,,
+3822190030,HS10,"Containing antigens or antisera, other",Diagnostics,2022,2858065,4242031977,0.1,"China 64.5%; Germany 7.4%; Korea, South 6.2%",,,,0.0,,
+3822190030,HS10,"Containing antigens or antisera, other",Diagnostics,2023,1668785,1923587110,0.1,Germany 28.8%; China 17.1%; Ireland 8.6%,,,,0.0,,
+3822190030,HS10,"Containing antigens or antisera, other",Diagnostics,2024,3419478,1913939776,0.2,Germany 31.8%; China 14.7%; Ireland 10.9%,,,,0.0,,
+3822190030,HS10,"Containing antigens or antisera, other",Diagnostics,2025,3100249,1417361805,0.2,Germany 26.3%; Ireland 13.4%; United Kingdom 10.0%,,,,24.0,,
+3822190030,HS10,"Containing antigens or antisera, other",Diagnostics,2026,1598952,780308371,0.2,Germany 21.5%; Sweden 14.6%; United Kingdom 9.2%,,,,11.1,,
+3822190040,HS10,"Other, with methyl chloroform/carbon tetrachloride",Diagnostics,2022,7000,81212108,0.0,United Kingdom 76.5%; Germany 14.1%; China 6.0%,,,,0.0,,
+3822190040,HS10,"Other, with methyl chloroform/carbon tetrachloride",Diagnostics,2023,0,44943134,0.0,United Kingdom 63.9%; Germany 21.1%; China 12.6%,,,,,,
+3822190040,HS10,"Other, with methyl chloroform/carbon tetrachloride",Diagnostics,2024,82825,35925855,0.2,United Kingdom 50.0%; Germany 28.8%; China 17.9%,,,,0.0,,
+3822190040,HS10,"Other, with methyl chloroform/carbon tetrachloride",Diagnostics,2025,9075,16375912,0.1,Germany 76.1%; United Kingdom 8.3%; Switzerland 6.8%,,,,10.0,,
+3822190040,HS10,"Other, with methyl chloroform/carbon tetrachloride",Diagnostics,2026,7800,10773182,0.1,Germany 84.3%; Switzerland 8.7%; Japan 3.7%,,,,20.5,,
+3822190080,HS10,Other,Diagnostics,2022,25862612,4657289853,0.6,United Kingdom 14.3%; Singapore 11.1%; Canada 10.7%,,,,0.0,,
+3822190080,HS10,Other,Diagnostics,2023,12156321,3845856233,0.3,Singapore 13.8%; Germany 12.5%; United Kingdom 12.4%,,,,0.0,,
+3822190080,HS10,Other,Diagnostics,2024,10535354,3899928256,0.3,United Kingdom 13.8%; Germany 12.5%; Singapore 11.9%,,,,0.0,,
+3822190080,HS10,Other,Diagnostics,2025,13778016,4030198272,0.3,Singapore 15.5%; United Kingdom 14.4%; Germany 11.5%,,,,8.9,,
+3822190080,HS10,Other,Diagnostics,2026,6972640,2610197632,0.3,Sweden 14.1%; Germany 13.4%; Singapore 13.3%,,,,13.4,,

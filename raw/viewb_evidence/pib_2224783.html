@@ -1,0 +1,1161 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head id="Head1"><title>
+	Press Release Page | Press Information Bureau
+</title><link href="css/style.css?v=1" rel="stylesheet" type="text/css" /><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="alternate stylesheet" href="css/change.css?v=1" media="screen" title="change" /><link rel="alternate stylesheet" href="css/green.css?v=1" media="screen" title="green" /><link rel="alternate stylesheet" href="css/yellow.css" media="screen" title="yellow" /><link rel="stylesheet" type="text/css" href="css/prtint.css" media="print" /><link rel="stylesheet" href="css/style3.1.css" type="text/css" /><link id="pibA11yCss" rel="stylesheet" href="/css/accessibility.css?v=7" type="text/css" />
+    <script type="text/javascript">
+        (function (d) {
+            var t = "";
+            try {
+                t = window.localStorage.getItem("pibStyle") || "";
+            } catch (e) {
+                t = "";
+            }
+            if (t === "orange") {
+                t = "yellow";
+            }
+            var c = t === "change" ? " pib-hc"
+                : t === "green" ? " pib-theme-green"
+                : t === "yellow" ? " pib-theme-yellow" : "";
+            d.documentElement.className += c + " pib-a11y-content";
+        }(document));
+    </script>
+
+    <script src="js/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/js/accessibility.js?v=7"></script>
+
+    <script type="text/javascript">
+            $(document).ready(function () {
+                  function getParameterByName(name) {
+                        var url = window.location.href;
+                        name = name.replace(/[\[\]]/g, '\\$&');
+                        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                              results = regex.exec(url);
+                        if (!results) return null;
+                        if (!results[2]) return '';
+                        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+                  }
+                  let prid = parseInt(getParameterByName('PRID'), 10);
+
+                  if (!isNaN(prid) && prid > 0) {
+                        $.ajax({
+                              type: "POST",
+                              url: "AjaxMethod.aspx/UpdatePRHitCount",
+                              async: false,
+                              data: JSON.stringify({ 'PermId': prid }),
+                              contentType: "application/json; charset=utf-8",
+                              dataType: "json",
+                              success: function (response) {
+                                    console.log(response);
+                              },
+                              error: function (error) {
+                                    console.log("Error in AJAX request", error);
+                              }
+                        });
+                  } else {
+                        console.log("Invalid parameters:", prid);
+                  }
+            });
+    </script>
+    <style type="text/css">
+        .table-responsive {
+            width: 100%;
+            overflow-x: auto;
+        }
+
+        .banner {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #000;
+            color: #fff;
+            padding: 20px;
+        }
+
+        full-width {
+            width: 100%;
+        }
+
+        .logo-left, .logo-center, .countdown {
+            display: flex;
+            align-items: center;
+        }
+
+            .logo-left img, .logo-center img {
+                height: 70px;
+            }
+
+        .countdown {
+            text-align: center;
+            background-color: var(--dbim-text, #150202);
+            border-radius: 10px;
+            padding: 10px;
+            border: 2px solid grey;
+        }
+
+        .firstnumber {
+            color: #000000;
+            position: absolute;
+            top: 50px;
+            right: 90px;
+            font-size: 30px;
+        }
+
+        .secondnumber {
+            position: absolute;
+            color: #000000;
+            right: 45px;
+            top: 50px;
+            font-size: 30px;
+        }
+
+        .countdown .days {
+            font-size: 35px;
+            color: gold;
+        }
+
+        .countdown p {
+            margin: 0;
+        }
+
+        .countdown .text {
+            font-size: 16px;
+        }
+
+        a {
+            word-break: break-all;
+        }
+
+        iframe, img {
+            max-width: 100%;
+        }
+        .innner-page-main-about-us-content-right-part ul > li, .content-area ul > li {
+  list-style: none !important;
+}
+        /* === DBIM 3.0 Option 4 Separator Line & Reading Meta Styling === */
+        .pr-share--footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 16px;
+            border-top: 1px solid var(--dbim-border, #d1d5db);
+            padding-top: 16px;
+            margin-top: 24px;
+        }
+
+        .pr-share__left {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .pr-reading-meta {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 0.95rem;
+            color: var(--dbim-text-secondary, #475569);
+            font-weight: 500;
+            white-space: nowrap;
+            margin-left: auto;
+        }
+
+        .pr-reading-meta__item {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .pr-reading-meta__divider {
+            color: var(--dbim-border, #cbd5e1);
+            font-weight: 300;
+        }
+
+        .pib-hc .pr-reading-meta,
+        .pib-hc .pr-reading-meta svg {
+            color: currentColor !important;
+        }
+
+        @media (max-width: 680px) {
+            .pr-share--footer {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .pr-reading-meta {
+                margin-left: 0;
+                width: 100%;
+                justify-content: flex-start;
+            }
+        }
+
+        @media(max-width:1199px) {
+            .firstnumber {
+                top: 40px;
+                right: 72px;
+                font-size: 30px;
+            }
+
+            .secondnumber {
+                right: 35px;
+                top: 40px;
+                font-size: 30px;
+            }
+        }
+
+        @media(max-width:990px) {
+            .firstnumber {
+                top: 25px;
+                right: 54px;
+                font-size: 30px;
+            }
+
+            .secondnumber {
+                right: 25px;
+                top: 25px;
+                font-size: 30px;
+            }
+        }
+
+        @media(max-width:768px) {
+            .countdown, .days {
+                font-size: 12px !important;
+            }
+
+            .firstnumber {
+                top: 25%;
+                right: 8%;
+                font-size: 30px;
+            }
+
+            .secondnumber {
+                right: 4.5%;
+                top: 25%;
+                font-size: 30px;
+            }
+        }
+
+        @media(max-width:475px) {
+            .countdown, .days {
+                font-size: 10px !important;
+                top: 20%;
+            }
+
+            .bannerimgdiv {
+                padding: 0 !important;
+            }
+
+            .bannerimg {
+                width: 108% !important;
+            }
+        }
+    </style>
+    <script type="text/javascript">
+$(function () {
+    $("[id*=printPDF]").click(function () {
+        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+    });
+});
+$(function () {
+    $("[id*=printPDFEvent]").click(function () {
+        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+    });
+});
+</script>
+
+    <link id="pibConsentCss" href="/css/consent.css?v=8" rel="stylesheet" type="text/css" /><link id="pibFontsCss" href="/css/fonts-noto.css?v=6" rel="stylesheet" type="text/css" /><link id="pibDbimCss" href="/css/dbim.css?v=1120" rel="stylesheet" type="text/css" /><meta property="og:title" content="UNITED STATES-INDIA JOINT STATEMENT" /><meta property="og:url" content="https://pib.gov.in/PressReleasePage.aspx?PRID=2224783" /><meta property="og:description" content="The United States of America (United States) and India are pleased to announce that they have reached a framework for an Interim Agreement regarding reciprocal and mutually beneficial trade (Interim A" /><meta property="og:image" content="https://static.pib.gov.in/WriteReadData/specificdocs/photo/2026/sep/ph_9780_20260902_18024501.png" /><meta property="og:type" content="article" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:image" content="https://static.pib.gov.in/WriteReadData/specificdocs/photo/2026/sep/ph_9780_20260902_18024501.png" />
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="C4E7H-KSCMC-422L4-W3EM5-U36MF",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"C4E7H-KSCMC-422L4-W3EM5-U36MF";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="pkvmbfqxzdxts2xz64pa-f-736bf6e97-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"1825201","ak.ai":parseInt("1215205",10),"ak.ol":"0","ak.cr":44,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"19edc3ba","ak.r":33507,"ak.a2":n,"ak.m":"dscb","ak.n":"ff","ak.cport":15778,"ak.gh":"23.200.239.55","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1794766622","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==y5v50WXAsCybwmDyoMQnlFOOGRPUiU2HzpcsmyA5abmnqj4Fzii9vMgW1W5er+HpRm1w73EZgCHXW0I5cD1R2EcFtoGzeQwTeLrn6CZaeAUQ//oGz6X3ymOwrOA4NF+8wq3pk7E4yV//d7uYpFebjcLfJkQdHK0p4Rx8ZzK3Bsx2GEUuw85fm8aKzPgpMSyLYzdXV09UKXfYpH2s9mtprq//TaXXua7SeMEk3Jtff9zCnelEGkUur1cj/TLZDseMqWR3CT9a/dSLKcvIthH82Bkmd1558E5BlNWRlmJOx0lAKobZdZpKiPvr0KFvuRaHLm8C0piPK1D5c2i4cDav57hyzrlRMEbu3iMSZh/02O5ONe/TS/x3ESJ110FCOELabSshBkpheFhuQoOnChkLvpnFt8RkRRF6zcUcfGnMlLk=","ak.pv":"9","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
+     style="position:absolute;width:0;height:0;overflow:hidden" id="dbim-icon-sprite">
+    <defs>
+        <symbol id="icon-angle-double-left" viewBox="0 0 24 24"><path d="M11.6 4.6 4.2 12l7.4 7.4 2.2-2.2L8.6 12l5.2-5.2z"/><path d="M19 4.6 11.6 12 19 19.4l2.2-2.2L16 12l5.2-5.2z"/></symbol>
+        <symbol id="icon-angle-double-right" viewBox="0 0 24 24"><path d="M12.4 4.6 10.2 6.8 15.4 12l-5.2 5.2 2.2 2.2L19.8 12z"/><path d="M5 4.6 2.8 6.8 8 12l-5.2 5.2L5 19.4 12.4 12z"/></symbol>
+        <symbol id="icon-arrow-left" viewBox="0 0 24 24"><path d="M20.8 10.6H9.6v2.8h11.2z"/><path d="M10.8 5.6 3.2 12l7.6 6.4z"/></symbol>
+        <symbol id="icon-arrow-right" viewBox="0 0 24 24"><path d="M3.2 10.6h11.2v2.8H3.2z"/><path d="M13.2 5.6 20.8 12l-7.6 6.4z"/></symbol>
+        <symbol id="icon-blogger" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.4 2.4h11.2a4 4 0 0 1 4 4v11.2a4 4 0 0 1-4 4H6.4a4 4 0 0 1-4-4V6.4a4 4 0 0 1 4-4zm2.8 5.2a2 2 0 0 0 0 4h2.4a2 2 0 0 0 0-4zm0 5.6a2 2 0 0 0 0 4h5.6a2 2 0 0 0 0-4z"/></symbol>
+        <symbol id="icon-calendar" viewBox="0 0 24 24"><path d="M7.6 2.4H10v2.4H7.6z"/><path d="M14 2.4h2.4v2.4H14z"/><path fill-rule="evenodd" d="M4 4.8h16a1.6 1.6 0 0 1 1.6 1.6v13.2a1.6 1.6 0 0 1-1.6 1.6H4a1.6 1.6 0 0 1-1.6-1.6V6.4A1.6 1.6 0 0 1 4 4.8zm.4 5.6v8.4h15.2v-8.4z"/><path d="M6.4 12.4h3.2v3.2H6.4z"/></symbol>
+        <symbol id="icon-chevron-left" viewBox="0 0 24 24"><path d="M15.4 4.6 8 12l7.4 7.4 2.2-2.2L12.4 12l5.2-5.2z"/></symbol>
+        <symbol id="icon-chevron-right" viewBox="0 0 24 24"><path d="M8.6 4.6 6.4 6.8 11.6 12l-5.2 5.2 2.2 2.2L16 12z"/></symbol>
+        <symbol id="icon-circle" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/></symbol>
+        <symbol id="icon-download" viewBox="0 0 24 24"><path d="M10.8 3h2.4v7.6h3.4L12 16.6l-4.6-6h3.4z"/><path d="M4 17.2h2.4v2.4h11.2v-2.4H20v3.2a1.4 1.4 0 0 1-1.4 1.4H5.4A1.4 1.4 0 0 1 4 20.4z"/></symbol>
+        <symbol id="icon-facebook" viewBox="0 0 24 24"><path d="M13.6 21.6v-8.4h2.8l.42-3.3h-3.22V7.8c0-.95.27-1.6 1.64-1.6h1.74V3.26a23 23 0 0 0-2.54-.13c-2.5 0-4.22 1.53-4.22 4.34v2.43H7.4v3.3h2.82v8.4z"/></symbol>
+        <symbol id="icon-fact-check" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M12 2.4 3.6 5.6v6.2c0 4.6 3.4 8.6 8.4 9.8 5-1.2 8.4-5.2 8.4-9.8V5.6zm-1 13.2-3.6-3.6 1.7-1.7 1.9 1.9 4.5-4.5 1.7 1.7z"/></symbol>
+        <symbol id="icon-hashtag" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M8.8 3h2.4l-1 6h3.2l1-6h2.4l-1 6h3.4v2.4h-3.8l-.6 3.2h3.6V17h-4l-1 5h-2.4l1-5h-3.2l-1 5H5.4l1-5H3V14.6h3.8l.6-3.2H3.8V9h4zm.6 8.4-.6 3.2h3.2l.6-3.2z"/></symbol>
+        <symbol id="icon-home" viewBox="0 0 24 24"><path d="M12 3.4 2.8 11.6h2.4v8.4a1 1 0 0 0 1 1h3.3v-5.4h5v5.4h3.3a1 1 0 0 0 1-1v-8.4h2.4z"/></symbol>
+        <symbol id="icon-instagram" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M7.6 2.4h8.8a5.2 5.2 0 0 1 5.2 5.2v8.8a5.2 5.2 0 0 1-5.2 5.2H7.6a5.2 5.2 0 0 1-5.2-5.2V7.6a5.2 5.2 0 0 1 5.2-5.2zm0 2.4a2.8 2.8 0 0 0-2.8 2.8v8.8a2.8 2.8 0 0 0 2.8 2.8h8.8a2.8 2.8 0 0 0 2.8-2.8V7.6a2.8 2.8 0 0 0-2.8-2.8z"/><path fill-rule="evenodd" d="M12 6.8a5.2 5.2 0 1 0 0 10.4 5.2 5.2 0 0 0 0-10.4zm0 2.4a2.8 2.8 0 1 1 0 5.6 2.8 2.8 0 0 1 0-5.6z"/><circle cx="17.3" cy="6.7" r="1.3"/></symbol>
+        <symbol id="icon-linkedin" viewBox="0 0 24 24"><path d="M4.8 8.8h3.6v12H4.8z"/><circle cx="6.6" cy="5.4" r="2.1"/><path d="M10.8 8.8h3.45v1.65h.05c.48-.9 1.65-1.85 3.4-1.85 3.63 0 4.3 2.35 4.3 5.4v6.6h-3.6v-5.85c0-1.4-.03-3.2-1.95-3.2-1.95 0-2.25 1.52-2.25 3.1v5.95h-3.6z"/></symbol>
+        <symbol id="icon-mail" viewBox="0 0 24 24"><path d="M2.4 7.6v9.2a1.6 1.6 0 0 0 1.6 1.6h16a1.6 1.6 0 0 0 1.6-1.6V7.6L12 14z"/><path d="M21.2 5.4H2.8L12 11.8z"/></symbol>
+        <symbol id="icon-mail-open" viewBox="0 0 24 24"><path d="M2.4 9.8h19.2v9.6A1.6 1.6 0 0 1 20 21H4a1.6 1.6 0 0 1-1.6-1.6z"/><path d="M12 2.6 21.6 9.2h-3.8L12 5.3 6.2 9.2H2.4z"/><path d="m3.9 11.2 8.1 5.4 8.1-5.4 1.5 1.3-9.6 6.4-9.6-6.4z"/></symbol>
+        <symbol id="icon-map-marker" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M12 2.4a7 7 0 0 0-7 7c0 5.2 7 12.2 7 12.2s7-7 7-12.2a7 7 0 0 0-7-7zm0 9.6a2.6 2.6 0 1 1 0-5.2 2.6 2.6 0 0 1 0 5.2z"/></symbol>
+        <symbol id="icon-newspaper" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M2.8 4.4h14.8v15.2H2.8zm2 2v11.2h10.8V6.4z"/><path d="M6 7.6h8.4v1.6H6z"/><path d="M6 10.8h8.4v1.6H6z"/><path d="M6 14h5.2v1.6H6z"/><path d="M18.4 8.4h2.8v9.6a1.4 1.4 0 0 1-2.8 0z"/></symbol>
+        <symbol id="icon-pause" viewBox="0 0 24 24"><rect x="7.4" y="4" width="3.6" height="16" rx="0.9"/><rect x="13" y="4" width="3.6" height="16" rx="0.9"/></symbol>
+    <symbol id="icon-play" viewBox="0 0 24 24"><path d="M8 4.5v15l12-7.5z"/></symbol>
+        <symbol id="icon-picture" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M2.4 5.2h19.2v13.6H2.4zm2 2v9.6h15.2V7.2z"/><path d="M5.6 16.4 10 11l2.6 3 2-2.2 4 4.6z"/><circle cx="8" cy="10.4" r="1.5"/></symbol>
+        <symbol id="icon-press-conference" viewBox="0 0 24 24"><circle cx="12" cy="5.2" r="2.6"/><path d="M7.6 12.2a4.4 4.4 0 0 1 8.8 0z"/><circle cx="4.9" cy="9.6" r="2.2"/><path d="M1.8 15.2a3.1 3.1 0 0 1 6.2 0z"/><circle cx="19.1" cy="9.6" r="2.2"/><path d="M16 15.2a3.1 3.1 0 0 1 6.2 0z"/><path d="M6.6 13.6h10.8l2.2 7.8H4.4z"/></symbol>
+        <symbol id="icon-print" viewBox="0 0 24 24"><path d="M6.4 2.8h11.2v4.4H6.4z"/><path d="M4 8.4h16a1.6 1.6 0 0 1 1.6 1.6v5.6a1.6 1.6 0 0 1-1.6 1.6h-1.6v-2.8H6v2.8H4a1.6 1.6 0 0 1-1.6-1.6V10A1.6 1.6 0 0 1 4 8.4z"/><path d="M7.2 15.6h9.6v5.6H7.2z"/></symbol>
+        <symbol id="icon-rss" viewBox="0 0 24 24"><circle cx="4.8" cy="19.2" r="2.4"/><path d="M2.4 11.2v3.2a6.4 6.4 0 0 1 6.4 6.4H12A9.6 9.6 0 0 0 2.4 11.2z"/><path d="M2.4 4.8V8A13.6 13.6 0 0 1 16 21.6h3.2A16.8 16.8 0 0 0 2.4 4.8z"/></symbol>
+        <symbol id="icon-search-plus" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M10 2.8a7.2 7.2 0 1 0 0 14.4 7.2 7.2 0 0 0 0-14.4zm0 2.4a4.8 4.8 0 1 1 0 9.6 4.8 4.8 0 0 1 0-9.6z"/><path d="M15.3 14.6 21.2 20.5l-1.5 1.5-5.9-5.9z"/><path d="M9.2 6.8h1.6v2.4h2.4v1.6h-2.4v2.4H9.2v-2.4H6.8V9.2h2.4z"/></symbol>
+        <symbol id="icon-share" viewBox="0 0 24 24"><circle cx="18" cy="5.6" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="18.4" r="3"/><path d="M8.3 10.9 15.7 7.2l.9 1.8-7.4 3.7z"/><path d="M9.2 13.1 16.6 16.8l-.9 1.8-7.4-3.7z"/></symbol>
+        <symbol id="icon-twitter" viewBox="0 0 24 24"><path d="M4.2 3h4.3l11.3 18h-4.3z"/><path d="M19.3 3h-2.6L4.2 21h2.6z"/></symbol>
+        <symbol id="icon-university" viewBox="0 0 24 24"><path d="M12 2.4 21.6 7.2v1.6H2.4V7.2z"/><path d="M4.8 10.4h2.4v8H4.8z"/><path d="M9.2 10.4h2.4v8H9.2z"/><path d="M13.4 10.4h2.4v8h-2.4z"/><path d="M17.6 10.4H20v8h-2.4z"/><path d="M3.2 19.8h17.6v1.8H3.2z"/></symbol>
+        <symbol id="icon-volume-up" viewBox="0 0 24 24"><path d="M3.2 9.2h3.3l5-4.2v14l-5-4.2H3.2z"/><path d="M14.6 8.4a5 5 0 0 1 0 7.2l1.6 1.6a7.2 7.2 0 0 0 0-10.4z"/><path d="M17.4 5.6a8.8 8.8 0 0 1 0 12.8l1.5 1.5a10.9 10.9 0 0 0 0-15.8z"/></symbol>
+        <symbol id="icon-whatsapp" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M12 2.4a9.5 9.5 0 0 0-8.1 14.5L2.4 21.6l4.8-1.4A9.5 9.5 0 1 0 12 2.4zm0 2.2a7.3 7.3 0 1 1-3.8 13.5l-.4-.2-2.6.7.7-2.5-.3-.4A7.3 7.3 0 0 1 12 4.6z"/><path d="M9.4 7.8c-.2-.5-.4-.5-.6-.5h-.5a1 1 0 0 0-.7.3c-.3.3-.9.9-.9 2.1s.9 2.4 1 2.6c.1.2 1.7 2.8 4.3 3.8 2.1.8 2.6.7 3 .6.5 0 1.5-.6 1.7-1.2.2-.6.2-1.1.1-1.2l-.5-.3-1.6-.8c-.2-.1-.4-.1-.6.1l-.8 1c-.1.2-.3.2-.5.1a6 6 0 0 1-1.8-1.1 6.6 6.6 0 0 1-1.2-1.6c-.1-.2 0-.4.1-.5l.4-.5.3-.5v-.5z"/></symbol>
+        <symbol id="icon-youtube" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M21.6 7.2a2.8 2.8 0 0 0-2-2C17.9 4.8 12 4.8 12 4.8s-5.9 0-7.6.4a2.8 2.8 0 0 0-2 2A29 29 0 0 0 2 12a29 29 0 0 0 .4 4.8 2.8 2.8 0 0 0 2 2c1.7.4 7.6.4 7.6.4s5.9 0 7.6-.4a2.8 2.8 0 0 0 2-2A29 29 0 0 0 22 12a29 29 0 0 0-.4-4.8zM10.2 15.1V8.9l5.1 3.1z"/></symbol>
+    </defs>
+</svg>
+
+    <form method="post" action="./PressReleasePage.aspx?PRID=2224783&amp;reg=3&amp;lang=1" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="sc_HiddenField" id="sc_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZPQet1wIx1Q48y3xJY2k25Y7qxH5RrQ9qQcN-OiTC9guZtri9w2&amp;t=639246315009809930" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=x6wALODbMJK5e0eRC_p1LdIxBJXt0U_WW5GWfJqHAqo6frgCmGRfEywglicTersO2OKrFhK1gAIp0Wk2al2YrpdR3uWqH6f4nfjBsCyRUfTUUVmb0&amp;t=ffffffffecf8d3f2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=P5lTttoqSeZXoYRLQMIScH645UK3RD852IErF2548Wz9Ssv0rLjB4fhVKnHcMpqkaMHpNAGOeWY02Lf4aBYN9-dVBme_SNK5KJwmFQNpMixYDZ7M0&amp;t=ffffffffecf8d3f2" type="text/javascript"></script>
+<script src="/PressReleasePage.aspx?_TSM_HiddenField_=sc_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.7.123%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a5a4df314-b4a2-4da2-a207-9284f1b1e96c%3ade1feab2%3af2c8e708%3a8613aea7%3af9cec9bc%3a3202a5a2%3aab09e3fe%3a87104b7c%3a720a52bf%3a589eaa30%3aa67c2700%3abe6fb298" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="59B53027" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="CDfddxSgtT7wzWA6tdF5RurAA4aqznB4Eaim+B8XWv2VDxX90Z25nDYwg4TJJdeMXlHlHd2xgGc8/FFBiCe5tBKQReA/zjSpkvCzpg/HBtlZabV+is4kVhgt+0G7mRxRGMv0IkTjLm3vB3kQacJNllbbG1ZT3p+orKOO2KivpZIoeZ7NxAxzG8tIClKn5IQVczBfRHMqQLtneuMlq0NVs4R3RenWz+0WJgt9LTpkxx9j/mFsOnXWY0bL/CXV2lQ0B05EdBunWHSQYazaaCGdAMFhVbs=" />
+</div>
+        
+        <div id="templateCss"></div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('sc', 'form1', ['tupdate12','update12'], [], [], 90, '');
+//]]>
+</script>
+
+        <input type="hidden" name="hfGridHtml" id="hfGridHtml" />
+        <div class="container" style='margin-bottom: 50px;'>
+            <div id="accessories">
+                
+                <div class="pull-right" style="display: flex">
+                    <div id="voll"></div>
+                    <div id="vollDT"></div>
+                    
+
+<span class="print-icons">
+<input type="image" name="Print1$print" id="Print1_print" aria-label="Print" src="images/printer_icon.png" alt="print page button" style="padding: 5px 10px 5px 10px;" />
+</span>
+                </div>
+            </div>
+            <input type="hidden" name="hydpermid" id="hydpermid" value="2224783" />
+            
+
+            <div class="innner-page-main-about-us-content-right-part">
+                <div id="MinistryName" class="MinistryNameSubhead text-center">
+                    Ministry of Commerce & Industry
+                </div>
+                <div id="lg_g"><div class='log_oo'>  <img src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2026/sep/ph_9768_20260902_10000501.png' alt='azadi ka amrit mahotsav' /> </div></div>
+
+                <div class="text-center event-heading-background">
+                    
+                    <h1 id="Titleh2">
+                        UNITED STATES-INDIA JOINT STATEMENT
+                    </h1>
+                    <h3 id="Subtitleh3">
+                        <span id="ltrSubtitle"></span>
+                    </h3>
+                    
+                    
+                </div>
+
+                
+                
+
+                <div id="PrDateTime" class="ReleaseDateSubHeaddateTime text-center pt20">
+                    Posted On:
+                              07 FEB 2026 4:29AM by PIB Delhi
+                </div>
+                
+                <div class='pt20'>
+                </div>
+                <input type="hidden" name="hydphotoUrl" id="hydphotoUrl" />
+                
+
+                <!-- Release content wrapper for client-side zero-reflow word count -->
+                <div id="pibReleaseBody">
+                    <p style="margin-right:17.85pt; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States of America (United States) and India are pleased to announce that they have reached a framework for an Interim Agreement regarding reciprocal and mutually beneficial trade (Interim Agreement). Today&rsquo;s framework reaffirms the countries&rsquo; commitment to the broader U.S.-India Bilateral Trade Agreement (BTA) negotiations, launched by President Donald J. Trump and Prime Minister Narendra Modi on February 13, 2025, which will include additional market access commitments and support more resilient supply chains. The Interim Agreement between the United States and India will represent a historic milestone in our countries&rsquo; partnership, demonstrating a common commitment to reciprocal and balanced trade based on mutual interests and concrete outcomes.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Key terms of the Interim Agreement between the United States and India will include:</span></span></p>
+
+<ul style="margin-left:40px">
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">India will eliminate or reduce tariffs on all U.S. industrial goods and a wide range of U.S. food and agricultural products, including dried distillers&rsquo; grains (DDGs), red sorghum for animal feed, tree nuts, fresh and processed fruit, soybean oil, wine and spirits, and additional products.</span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States will apply a reciprocal tariff rate of 18 percent under Executive Order 14257 of April 2, 2025 (Regulating Imports With a Reciprocal Tariff to Rectify Trade Practices That Contribute to Large and Persistent Annual United States Goods Trade Deficits), as amended, on originating goods of India, including textile and apparel, leather and footwear, plastic and rubber, organic chemicals, home d&eacute;cor, artisanal products, and certain machinery, and, subject to the successful conclusion of the Interim Agreement, will remove the reciprocal tariff on a wide range of goods identified in the Potential Tariff Adjustments for Aligned Partners Annex to Executive Order 14346 of September 5, 2025 (Modifying the Scope of Reciprocal Tariffs and Establishing Procedures for Implementing Trade and Security Agreements), as amended, including generic pharmaceuticals, gems and diamonds, and aircraft parts. </span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States will also remove tariffs on certain aircraft and aircraft parts of India imposed to eliminate threats to national security found in Proclamation 9704 of March 8, 2018 (Adjusting Imports of Aluminum Into the United States), as amended; Proclamation 9705 of March 8, 2018 (Adjusting Imports of Steel Into the United States), as amended; and Proclamation 10962 of July 30, 2025 (Adjusting Imports of Copper Into the United States).&nbsp; Similarly, consistent with U.S. national security requirements, India will receive a preferential tariff rate quota for automotive parts subject to the tariff imposed to eliminate threats to national security found in Proclamation 9888 of May 17, 2019 (Adjusting Imports of Automobiles and Automobile Parts Into the United States), as amended.&nbsp; Contingent on the findings of the U.S. Section 232 investigation of pharmaceuticals and pharmaceutical ingredients, India will receive negotiated outcomes with respect to generic pharmaceuticals and ingredients. </span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States and India commit to provide each other preferential market access in sectors of respective interest on a sustained basis. </span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States and India will establish rules of origin that ensure that the benefits of the<s> </s>Agreement accrue predominately to the United States and India.&nbsp; </span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States and India will address non-tariff barriers that affect bilateral trade. India agrees to address long-standing barriers to the trade in U.S. medical devices; eliminate restrictive import licensing procedures that delay market access for, or impose quantitative restrictions on, U.S. Information and Communication Technology (ICT) goods; and determine, with a view towards a positive outcome, within six months of entry into force of the Agreement whether U.S.-developed or international standards, including testing requirements, are acceptable for the purposes of U.S. exports entering the Indian market in identified sectors. Recognizing the importance of working together to resolve long-standing concerns, India also agrees to address long-standing non-tariff barriers to the trade in U.S. food and agricultural products. </span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">For the purposes of enhancing ease of compliance with applicable technical regulations, the United States and India intend to discuss their respective standards and conformity assessment procedures for mutually agreed sectors.&nbsp; </span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">In the event of any changes to the agreed upon tariffs of either country, the United States and India agree that the other country may modify its commitments.</span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States and India will work towards further expanding market access opportunities through the negotiations of the BTA. The United States affirms that it intends to take into consideration, during the negotiations of the BTA, India&rsquo;s request that the United States continue to work to lower tariffs on Indian goods.</span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States and India agree to strengthen economic security alignment to enhance supply chain resilience and innovation through complementary actions to address non- market policies of third parties, as well as cooperation on inbound and outbound investment reviews and export controls.</span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">India intends to purchase $500 billion of U.S. energy products, aircraft and aircraft parts, precious metals, technology products, and coking coal over the next 5 years. India and the United States will significantly increase trade in technology products, including Graphics Processing Units (GPUs) and other goods used in data centers, and expand joint technology cooperation.</span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States and India commit to address discriminatory or burdensome practices and other barriers to digital trade and to set a clear pathway to achieve robust, ambitious, and mutually beneficial digital trade rules as part of the BTA.</span></span></li>
+</ul>
+
+<p style="margin-right:17.85pt; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States and India will promptly implement this framework and work towards finalizing the Interim Agreement with a view to concluding a mutually beneficial BTA consistent with the roadmap agreed in the Terms of Reference.</span></span></p>
+
+<p style="margin-right:17.85pt; text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">****</span></span></p>
+
+<p style="margin-right:17.85pt"><strong><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Abhishek Dayal</span></span></strong></p>
+
+                </div>
+
+                <div id="reel_pic">
+                </div>
+
+                <br />
+                <span id="ReleaseId">(Release ID: 2224783)</span>
+                <span id="lblViews">Visitor Counter : 66098</span>
+                <div>
+                    
+                </div>
+                
+
+                <span id="lblRefPhoto"></span>
+
+                <div class="BackgroundRelease">
+                    
+                </div>
+                <div>
+                    
+                </div>
+                <div class="ReleaseLang">Read this release in: 
+                
+                        <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2224811' target="_blank">
+                            Urdu </a>
+                    
+                        ,
+                    
+                        <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2224840' target="_blank">
+                            Marathi </a>
+                    
+                        ,
+                    
+                        <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2224820' target="_blank">
+                            हिन्दी </a>
+                    
+                        ,
+                    
+                        <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2224906' target="_blank">
+                            Bengali </a>
+                    
+                        ,
+                    
+                        <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2225294' target="_blank">
+                            Bengali-TR </a>
+                    
+                        ,
+                    
+                        <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2224894' target="_blank">
+                            Assamese </a>
+                    
+                        ,
+                    
+                        <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2224867' target="_blank">
+                            Punjabi </a>
+                    
+                        ,
+                    
+                        <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2224824' target="_blank">
+                            Gujarati </a>
+                    
+                        ,
+                    
+                        <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2224878' target="_blank">
+                            Telugu </a>
+                    
+                        ,
+                    
+                        <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2224808' target="_blank">
+                            Kannada </a>
+                    
+                        ,
+                    
+                        <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2224815' target="_blank">
+                            Malayalam </a>
+                    
+                </div>
+
+                
+                
+
+                <div class="RelTag">
+                    <ul>
+                        
+                    </ul>
+                </div>
+                <div class="clear">
+                </div>
+
+                <!-- DBIM 3.0 Option 4: Separator Line with Left Share Rail & Right Reading Metrics -->
+                <div class="pr-share pr-share--footer" role="region" aria-label="Share and reading details">
+                    <div class="pr-share__left">
+                        <span class="pr-share__label" aria-hidden="true">Share</span>
+                        <ul class="pr-share__list">
+                            <li><a class="pr-share__btn pr-share__btn--facebook"
+                                href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fpib.gov.in%2fPressReleasePage.aspx%3fPRID%3d2224783"
+                                target="_blank" rel="noopener noreferrer"
+                                aria-label="Share on Facebook">
+                                <svg class="dbim-icon dbim-icon-24" width="24" height="24" fill="currentColor" aria-hidden="true" focusable="false">
+                                    <use href="#icon-facebook" xlink:href="#icon-facebook"></use>
+                                </svg>
+                            </a></li>
+                            <li><a class="pr-share__btn pr-share__btn--twitter"
+                                href="https://twitter.com/intent/tweet?url=https%3a%2f%2fpib.gov.in%2fPressReleasePage.aspx%3fPRID%3d2224783"
+                                target="_blank" rel="noopener noreferrer"
+                                aria-label="Share on X">
+                                <svg class="dbim-icon dbim-icon-24" width="24" height="24" fill="currentColor" aria-hidden="true" focusable="false">
+                                    <use href="#icon-twitter" xlink:href="#icon-twitter"></use>
+                                </svg>
+                            </a></li>
+                            <li><a class="pr-share__btn pr-share__btn--whatsapp"
+                                href="https://api.whatsapp.com/send?text=https%3a%2f%2fpib.gov.in%2fPressReleasePage.aspx%3fPRID%3d2224783"
+                                target="_blank" rel="noopener noreferrer"
+                                aria-label="Share on WhatsApp">
+                                <svg class="dbim-icon dbim-icon-24" width="24" height="24" fill="currentColor" aria-hidden="true" focusable="false">
+                                    <use href="#icon-whatsapp" xlink:href="#icon-whatsapp"></use>
+                                </svg>
+                            </a></li>
+                            <li><a class="pr-share__btn pr-share__btn--linkedin"
+                                href="https://www.linkedin.com/sharing/share-offsite/?url=https%3a%2f%2fpib.gov.in%2fPressReleasePage.aspx%3fPRID%3d2224783"
+                                target="_blank" rel="noopener noreferrer"
+                                aria-label="Share on LinkedIn">
+                                <svg class="dbim-icon dbim-icon-24" width="24" height="24" fill="currentColor" aria-hidden="true" focusable="false">
+                                    <use href="#icon-linkedin" xlink:href="#icon-linkedin"></use>
+                                </svg>
+                            </a></li>
+                            <li><a class="pr-share__btn pr-share__btn--mail"
+                                href="mailto:?subject=Press+release+from+PIB&amp;body=https%3a%2f%2fpib.gov.in%2fPressReleasePage.aspx%3fPRID%3d2224783"
+                                aria-label="Share by email">
+                                <svg class="dbim-icon dbim-icon-24" width="24" height="24" fill="currentColor" aria-hidden="true" focusable="false">
+                                    <use href="#icon-mail" xlink:href="#icon-mail"></use>
+                                </svg>
+                            </a></li>
+                        </ul>
+                    </div>
+                    <div class="pr-reading-meta" id="prReadingMeta" aria-label="Reading statistics">
+                        <span class="pr-reading-meta__item">
+                            <!-- Modern Document / Word Count Icon -->
+                            <svg class="pr-reading-meta__icon" width="18" height="18" viewbox="0 0 16 16" fill="currentColor" aria-hidden="true" focusable="false">
+                                <path d="M5.5 7a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1zM5 9.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5m0 2a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5" />
+                                <path d="M9.5 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.5zm0 1v2A1.5 1.5 0 0 0 11 4.5h2V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1z" />
+                            </svg>
+                            <span id="prWordCount">-- words</span>
+                        </span>
+
+                        <span class="pr-reading-meta__divider" aria-hidden="true">|</span>
+
+                        <span class="pr-reading-meta__item">
+                            <!-- Modern Precision Clock / Read Time Icon -->
+                            <svg class="pr-reading-meta__icon" width="18" height="18" viewbox="0 0 16 16" fill="currentColor" aria-hidden="true" focusable="false">
+                                <path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71z" />
+                                <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16m7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0" />
+                            </svg>
+                            <span id="prReadTime">-- min read</span>
+                        </span>
+                    </div>
+                </div>
+
+                <div id="RelLink" class="RelLink">
+                    <ul>
+                        
+                    </ul>
+                </div>
+                <center>
+                    
+                </center>
+            </div>
+
+            <div id="update12">
+	
+                    
+                    <input type="hidden" name="Hidden" id="Hidden" />
+                    <div id="P_CategoryManagement" class="ModalWindow" style="border-width:0px;height:60%;width:60%;overflow:auto;display: none">
+		
+                        <div>
+                            <input type="image" name="btnClose" id="btnClose" src="images/close_flat_icon.png" />
+                        </div>
+                        <div id="description">
+                        </div>
+                        <div class="text-center">
+                            <h2>
+                                
+                                <br>
+                                
+                            </h2>
+                        </div>
+                        <br />
+                        <div class="clear">
+                        </div>
+                        
+                    
+	</div>
+                
+</div>
+        </div>
+
+        <div id="PdfDiv" style="display: none;">
+            <table width="100%">
+                <tr>
+                    <td style="font-weight: 200; text-align: center">
+                        Ministry of Commerce & Industry
+                        <div style="height: 30px; width: 100%;">
+                        </div>
+                        <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                            UNITED STATES-INDIA JOINT STATEMENT
+                        </div>
+                        <div style="height: 30px; width: 100%;">
+                        </div>
+                        <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                            
+                        </div>
+                        <div style="height: 30px; width: 100%;">
+                        </div>
+                        <div style="text-align: center; font-size: 14px;">
+                            Posted On:
+                                          07 FEB 2026 4:29AM by PIB Delhi
+                        </div>
+                        <div style="height: 30px; width: 100%;">
+                        </div>
+                        <div style="font-weight: 200; text-align: left; font-size: 16px;">
+                            <p style="margin-right:17.85pt; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States of America (United States) and India are pleased to announce that they have reached a framework for an Interim Agreement regarding reciprocal and mutually beneficial trade (Interim Agreement). Today&rsquo;s framework reaffirms the countries&rsquo; commitment to the broader U.S.-India Bilateral Trade Agreement (BTA) negotiations, launched by President Donald J. Trump and Prime Minister Narendra Modi on February 13, 2025, which will include additional market access commitments and support more resilient supply chains. The Interim Agreement between the United States and India will represent a historic milestone in our countries&rsquo; partnership, demonstrating a common commitment to reciprocal and balanced trade based on mutual interests and concrete outcomes.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Key terms of the Interim Agreement between the United States and India will include:</span></span></p>
+
+<ul style="margin-left:40px">
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">India will eliminate or reduce tariffs on all U.S. industrial goods and a wide range of U.S. food and agricultural products, including dried distillers&rsquo; grains (DDGs), red sorghum for animal feed, tree nuts, fresh and processed fruit, soybean oil, wine and spirits, and additional products.</span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States will apply a reciprocal tariff rate of 18 percent under Executive Order 14257 of April 2, 2025 (Regulating Imports With a Reciprocal Tariff to Rectify Trade Practices That Contribute to Large and Persistent Annual United States Goods Trade Deficits), as amended, on originating goods of India, including textile and apparel, leather and footwear, plastic and rubber, organic chemicals, home d&eacute;cor, artisanal products, and certain machinery, and, subject to the successful conclusion of the Interim Agreement, will remove the reciprocal tariff on a wide range of goods identified in the Potential Tariff Adjustments for Aligned Partners Annex to Executive Order 14346 of September 5, 2025 (Modifying the Scope of Reciprocal Tariffs and Establishing Procedures for Implementing Trade and Security Agreements), as amended, including generic pharmaceuticals, gems and diamonds, and aircraft parts. </span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States will also remove tariffs on certain aircraft and aircraft parts of India imposed to eliminate threats to national security found in Proclamation 9704 of March 8, 2018 (Adjusting Imports of Aluminum Into the United States), as amended; Proclamation 9705 of March 8, 2018 (Adjusting Imports of Steel Into the United States), as amended; and Proclamation 10962 of July 30, 2025 (Adjusting Imports of Copper Into the United States).&nbsp; Similarly, consistent with U.S. national security requirements, India will receive a preferential tariff rate quota for automotive parts subject to the tariff imposed to eliminate threats to national security found in Proclamation 9888 of May 17, 2019 (Adjusting Imports of Automobiles and Automobile Parts Into the United States), as amended.&nbsp; Contingent on the findings of the U.S. Section 232 investigation of pharmaceuticals and pharmaceutical ingredients, India will receive negotiated outcomes with respect to generic pharmaceuticals and ingredients. </span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States and India commit to provide each other preferential market access in sectors of respective interest on a sustained basis. </span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States and India will establish rules of origin that ensure that the benefits of the<s> </s>Agreement accrue predominately to the United States and India.&nbsp; </span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States and India will address non-tariff barriers that affect bilateral trade. India agrees to address long-standing barriers to the trade in U.S. medical devices; eliminate restrictive import licensing procedures that delay market access for, or impose quantitative restrictions on, U.S. Information and Communication Technology (ICT) goods; and determine, with a view towards a positive outcome, within six months of entry into force of the Agreement whether U.S.-developed or international standards, including testing requirements, are acceptable for the purposes of U.S. exports entering the Indian market in identified sectors. Recognizing the importance of working together to resolve long-standing concerns, India also agrees to address long-standing non-tariff barriers to the trade in U.S. food and agricultural products. </span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">For the purposes of enhancing ease of compliance with applicable technical regulations, the United States and India intend to discuss their respective standards and conformity assessment procedures for mutually agreed sectors.&nbsp; </span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">In the event of any changes to the agreed upon tariffs of either country, the United States and India agree that the other country may modify its commitments.</span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States and India will work towards further expanding market access opportunities through the negotiations of the BTA. The United States affirms that it intends to take into consideration, during the negotiations of the BTA, India&rsquo;s request that the United States continue to work to lower tariffs on Indian goods.</span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States and India agree to strengthen economic security alignment to enhance supply chain resilience and innovation through complementary actions to address non- market policies of third parties, as well as cooperation on inbound and outbound investment reviews and export controls.</span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">India intends to purchase $500 billion of U.S. energy products, aircraft and aircraft parts, precious metals, technology products, and coking coal over the next 5 years. India and the United States will significantly increase trade in technology products, including Graphics Processing Units (GPUs) and other goods used in data centers, and expand joint technology cooperation.</span></span></li>
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States and India commit to address discriminatory or burdensome practices and other barriers to digital trade and to set a clear pathway to achieve robust, ambitious, and mutually beneficial digital trade rules as part of the BTA.</span></span></li>
+</ul>
+
+<p style="margin-right:17.85pt; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The United States and India will promptly implement this framework and work towards finalizing the Interim Agreement with a view to concluding a mutually beneficial BTA consistent with the roadmap agreed in the Terms of Reference.</span></span></p>
+
+<p style="margin-right:17.85pt; text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">****</span></span></p>
+
+<p style="margin-right:17.85pt"><strong><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Abhishek Dayal</span></span></strong></p>
+
+                        </div>
+                        <div style="height: 30px; width: 100%;">
+                        </div>
+                        <div style="height: 30px; width: 100%;">
+                        </div>
+                        <div style="font-weight: 100; text-align: left; font-size: 16px;">
+                            (Release ID: 2224783)
+                        </div>
+                        <div style="height: 30px; width: 100%;">
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: 200; text-align: center; font-size: 24px;"></td>
+                </tr>
+            </table>
+        </div>
+        <div class="clearfix">
+        </div>
+
+        <div class="section1">
+            <div id="frst_t">
+                <div id="arr_rm"><div class='sticky-social_mb'><ul class='social_mb'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=2224783' target='_blank'><li class='fb_b'   ></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=2224783&text=UNITED STATES-INDIA JOINT STATEMENT' target='_blank'><li class='twitter_r'  > </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=2224783' target='_blank'><li class='whatsapp_r'  ></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=UNITED STATES-INDIA JOINT STATEMENT&body=https://pib.gov.in/PressReleasePage.aspx?PRID=2224783&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=2224783&title=UNITED STATES-INDIA JOINT STATEMENT&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ></li></a></ul></div></div>
+            </div>
+            <div id="second_t">
+                <div id="sndr_rm"><div class='sticky-social'><ul class='social'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=2224783' target='_blank'><li class='fb_b'   ></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=2224783&text=UNITED STATES-INDIA JOINT STATEMENT' target='_blank'><li class='twitter_r'  > </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=2224783' target='_blank'><li class='whatsapp_r'  ></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=UNITED STATES-INDIA JOINT STATEMENT&body=https://pib.gov.in/PressReleasePage.aspx?PRID=2224783&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=2224783&title=UNITED STATES-INDIA JOINT STATEMENT&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ></li></a></ul></div></div>
+            </div>
+        </div>
+        <input type="hidden" name="ltrTitlee" id="ltrTitlee" value="UNITED STATES-INDIA JOINT STATEMENT" />
+        <input type="hidden" name="ltrSubtitlee" id="ltrSubtitlee" />
+        <input type="hidden" name="ltrDescriptionn" id="ltrDescriptionn" value="&lt;p style=&quot;margin-right:17.85pt; text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The United States of America (United States) and India are pleased to announce that they have reached a framework for an Interim Agreement regarding reciprocal and mutually beneficial trade (Interim Agreement). Today&amp;rsquo;s framework reaffirms the countries&amp;rsquo; commitment to the broader U.S.-India Bilateral Trade Agreement (BTA) negotiations, launched by President Donald J. Trump and Prime Minister Narendra Modi on February 13, 2025, which will include additional market access commitments and support more resilient supply chains. The Interim Agreement between the United States and India will represent a historic milestone in our countries&amp;rsquo; partnership, demonstrating a common commitment to reciprocal and balanced trade based on mutual interests and concrete outcomes.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Key terms of the Interim Agreement between the United States and India will include:&lt;/span>&lt;/span>&lt;/p>
+
+&lt;ul style=&quot;margin-left:40px&quot;>
+	&lt;li style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>India will eliminate or reduce tariffs on all U.S. industrial goods and a wide range of U.S. food and agricultural products, including dried distillers&amp;rsquo; grains (DDGs), red sorghum for animal feed, tree nuts, fresh and processed fruit, soybean oil, wine and spirits, and additional products.&lt;/span>&lt;/span>&lt;/li>
+	&lt;li style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The United States will apply a reciprocal tariff rate of 18 percent under Executive Order 14257 of April 2, 2025 (Regulating Imports With a Reciprocal Tariff to Rectify Trade Practices That Contribute to Large and Persistent Annual United States Goods Trade Deficits), as amended, on originating goods of India, including textile and apparel, leather and footwear, plastic and rubber, organic chemicals, home d&amp;eacute;cor, artisanal products, and certain machinery, and, subject to the successful conclusion of the Interim Agreement, will remove the reciprocal tariff on a wide range of goods identified in the Potential Tariff Adjustments for Aligned Partners Annex to Executive Order 14346 of September 5, 2025 (Modifying the Scope of Reciprocal Tariffs and Establishing Procedures for Implementing Trade and Security Agreements), as amended, including generic pharmaceuticals, gems and diamonds, and aircraft parts. &lt;/span>&lt;/span>&lt;/li>
+	&lt;li style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The United States will also remove tariffs on certain aircraft and aircraft parts of India imposed to eliminate threats to national security found in Proclamation 9704 of March 8, 2018 (Adjusting Imports of Aluminum Into the United States), as amended; Proclamation 9705 of March 8, 2018 (Adjusting Imports of Steel Into the United States), as amended; and Proclamation 10962 of July 30, 2025 (Adjusting Imports of Copper Into the United States).&amp;nbsp; Similarly, consistent with U.S. national security requirements, India will receive a preferential tariff rate quota for automotive parts subject to the tariff imposed to eliminate threats to national security found in Proclamation 9888 of May 17, 2019 (Adjusting Imports of Automobiles and Automobile Parts Into the United States), as amended.&amp;nbsp; Contingent on the findings of the U.S. Section 232 investigation of pharmaceuticals and pharmaceutical ingredients, India will receive negotiated outcomes with respect to generic pharmaceuticals and ingredients. &lt;/span>&lt;/span>&lt;/li>
+	&lt;li style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The United States and India commit to provide each other preferential market access in sectors of respective interest on a sustained basis. &lt;/span>&lt;/span>&lt;/li>
+	&lt;li style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The United States and India will establish rules of origin that ensure that the benefits of the Agreement accrue predominately to the United States and India.&amp;nbsp; &lt;/span>&lt;/span>&lt;/li>
+	&lt;li style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The United States and India will address non-tariff barriers that affect bilateral trade. India agrees to address long-standing barriers to the trade in U.S. medical devices; eliminate restrictive import licensing procedures that delay market access for, or impose quantitative restrictions on, U.S. Information and Communication Technology (ICT) goods; and determine, with a view towards a positive outcome, within six months of entry into force of the Agreement whether U.S.-developed or international standards, including testing requirements, are acceptable for the purposes of U.S. exports entering the Indian market in identified sectors. Recognizing the importance of working together to resolve long-standing concerns, India also agrees to address long-standing non-tariff barriers to the trade in U.S. food and agricultural products. &lt;/span>&lt;/span>&lt;/li>
+	&lt;li style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>For the purposes of enhancing ease of compliance with applicable technical regulations, the United States and India intend to discuss their respective standards and conformity assessment procedures for mutually agreed sectors.&amp;nbsp; &lt;/span>&lt;/span>&lt;/li>
+	&lt;li style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>In the event of any changes to the agreed upon tariffs of either country, the United States and India agree that the other country may modify its commitments.&lt;/span>&lt;/span>&lt;/li>
+	&lt;li style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The United States and India will work towards further expanding market access opportunities through the negotiations of the BTA. The United States affirms that it intends to take into consideration, during the negotiations of the BTA, India&amp;rsquo;s request that the United States continue to work to lower tariffs on Indian goods.&lt;/span>&lt;/span>&lt;/li>
+	&lt;li style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The United States and India agree to strengthen economic security alignment to enhance supply chain resilience and innovation through complementary actions to address non- market policies of third parties, as well as cooperation on inbound and outbound investment reviews and export controls.&lt;/span>&lt;/span>&lt;/li>
+	&lt;li style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>India intends to purchase $500 billion of U.S. energy products, aircraft and aircraft parts, precious metals, technology products, and coking coal over the next 5 years. India and the United States will significantly increase trade in technology products, including Graphics Processing Units (GPUs) and other goods used in data centers, and expand joint technology cooperation.&lt;/span>&lt;/span>&lt;/li>
+	&lt;li style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The United States and India commit to address discriminatory or burdensome practices and other barriers to digital trade and to set a clear pathway to achieve robust, ambitious, and mutually beneficial digital trade rules as part of the BTA.&lt;/span>&lt;/span>&lt;/li>
+&lt;/ul>
+
+&lt;p style=&quot;margin-right:17.85pt; text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The United States and India will promptly implement this framework and work towards finalizing the Interim Agreement with a view to concluding a mutually beneficial BTA consistent with the roadmap agreed in the Terms of Reference.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-right:17.85pt; text-align:center&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>****&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-right:17.85pt&quot;>&lt;strong>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Abhishek Dayal&lt;/span>&lt;/span>&lt;/strong>&lt;/p>
+" />
+        <script type="text/javascript">
+                  var mPlayer = document.getElementById("background_music");
+                  var mPlayAction = document.getElementById("playbutton");
+                  var isPlaying = false;
+
+                  function playAudio() {
+                        mPlayer.play();
+                        isPlaying = true;
+                        document.getElementById('stopA').style.display = "block";
+                        document.getElementById('playA').style.display = "none";
+                  }
+
+                  function pauseAudio() {
+                        mPlayer.pause();
+                        isPlaying = false;
+                        document.getElementById('playA').style.display = "block";
+                        document.getElementById('stopA').style.display = "none";
+                  }
+        </script>
+        <script type="text/javascript">
+                  var synth = window.speechSynthesis;
+
+                  function CleanHtml(html) {
+                        html = html.replace(/<script[\s\S]*?<\/script>/gi, '');
+                        return html;
+                  }
+                  function stripHtml(html) {
+                        let tmp = document.createElement("DIV");
+                        tmp.innerHTML = CleanHtml(html);
+                        return tmp.textContent || tmp.innerText || "";
+                  }
+        </script>
+        <script type="text/javascript">
+                  $(document).ready(function () {
+                        $("table").each(function () {
+                              if (!$(this).closest(".table-responsive").length) {
+                                    $(this).wrap("<div class='table-responsive'></div>");
+                              }
+                        });
+
+                        var width = $(window).width();
+                        if (width < 768) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                        }
+                  });
+        </script>
+        <style type="text/css">
+            @media print {
+                .sticky-social, .sticky-social_mb, .pull-right, #printPDF {
+                    display: none !important;
+                }
+            }
+
+            .f_vl {
+                padding-right: 30px;
+                font-size: 17px;
+                cursor: pointer;
+            }
+
+            .log_oo {
+                display: flex;
+                justify-content: space-between;
+            }
+
+                .log_oo img {
+                    width: 150px;
+                }
+
+            .sticky-social_mb {
+                position: fixed;
+                bottom: 0px;
+                padding: 0px;
+                margin: 0px;
+                width: 100%;
+            }
+
+            .social_mb {
+                list-style: none;
+                display: flex;
+                width: 100%;
+                margin-bottom: -8px;
+            }
+
+                .social_mb a {
+                    padding: 8px 0px;
+                    font-size: 30px;
+                    transition: all 0.8s ease-in-out;
+                    width: 20% !important;
+                    text-align: center;
+                }
+        </style>
+        <style type="text/css">
+            .section1 {
+                position: relative;
+                padding: 10px 0px;
+                width: 100%;
+            }
+
+            .sticky-social {
+                position: fixed;
+                top: 20px;
+                left: 0px;
+                padding: 0px;
+                margin: 0px;
+            }
+
+            .social {
+                list-style: none;
+            }
+
+                .social a li {
+                    padding: 8px 12px;
+                    font-size: 25px;
+                    transition: all 0.8s ease-in-out;
+                }
+
+                    .social a li:hover {
+                        margin-right: -30px;
+                        box-shadow: 2px 5px 10px grey;
+                    }
+
+                        .social a li:hover .fa {
+                            margin-left: 20px;
+                        }
+
+            .fb_b {
+                background-color: var(--dbim-key, #0F5757);
+            }
+
+            .twitter_r {
+                background-color: var(--dbim-key, #0F5757);
+            }
+
+            .whatsapp_r {
+                background-color: var(--dbim-key, #0F5757);
+            }
+
+            .fa-envelope_r {
+                background-color: var(--dbim-key, #0F5757);
+            }
+
+            .fa-linkedin_r {
+                background-color: var(--dbim-key, #0F5757);
+            }
+        </style>
+        <style type="text/css">
+            @media only screen and (max-device-width: 767px) {
+                p span img {
+                    max-width: 90% !important;
+                    height: auto !important;
+                }
+
+                p img {
+                    max-width: 90% !important;
+                    height: auto !important;
+                }
+
+                h2 {
+                    font-size: var(--dbim-h2, 20px);
+                    font-weight: 600 !important;
+                }
+
+                h3 {
+                    font-size: var(--dbim-h3, 16px);
+                    font-weight: 600 !important;
+                }
+            }
+        </style>
+        <style type="text/css">
+            .film-roll-badge {
+                position: absolute;
+                top: 82%;
+                right: 20px;
+                width: 230px;
+                height: 70px;
+                background: repeating-linear-gradient( to right, var(--dbim-green-key, #0F5757) 0px, var(--dbim-green-key, #0F5757) 18px, var(--dbim-text, #150202) 18px, var(--dbim-text, #150202) 36px );
+                border-top: 8px solid var(--dbim-green-key, #0F5757);
+                border-bottom: 8px solid var(--dbim-green-key, #0F5757);
+                border-radius: 8px;
+                overflow: hidden;
+                box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+                animation: moveFilm 8s linear infinite;
+                z-index: 10;
+            }
+
+                .film-roll-badge::before,
+                .film-roll-badge::after {
+                    content: "";
+                    position: absolute;
+                    width: 100%;
+                    height: 10px;
+                    background: repeating-linear-gradient( to right, var(--dbim-green-key, #0F5757) 0px, var(--dbim-green-key, #0F5757) 10px, #fff 10px, #fff 20px );
+                    left: 0;
+                    z-index: 2;
+                }
+
+                .film-roll-badge::before {
+                    top: -4px;
+                }
+
+                .film-roll-badge::after {
+                    bottom: -4px;
+                }
+
+            .film-roll-inner {
+                position: relative;
+                height: 100%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                animation: flicker 2s infinite ease-in-out;
+            }
+
+            .countdown-text {
+                font-size: 1.3rem;
+                font-weight: 700;
+                color: #fff;
+                text-shadow: 0 0 6px rgba(255, 255, 255, 0.4), 0 0 10px #000;
+                white-space: nowrap;
+            }
+
+            @keyframes moveFilm {
+                0% {
+                    background-position: 0 0;
+                }
+
+                100% {
+                    background-position: 120px 0;
+                }
+            }
+
+            @keyframes flicker {
+                0%, 100% {
+                    opacity: 1;
+                }
+
+                50% {
+                    opacity: 0.9;
+                }
+
+                25% {
+                    opacity: 0.95;
+                }
+
+                75% {
+                    opacity: 0.85;
+                }
+            }
+
+            @media (max-width: 1500px) {
+                .film-roll-badge {
+                    top: 68%;
+                    right: 18px;
+                    height: 65px;
+                    font-size: 0.85rem;
+                }
+
+                .press-section {
+                    margin-top: 35px;
+                }
+            }
+
+            @media (max-width: 992px) {
+                .film-roll-badge {
+                    top: 52%;
+                    right: 10px;
+                    width: 200px;
+                    height: 60px;
+                }
+            }
+
+            @media (max-width: 768px) {
+                .film-roll-badge {
+                    top: 56%;
+                    right: 10px;
+                    width: 124px;
+                    height: 55px;
+                }
+
+                .countdown-text {
+                    font-size: 0.9rem;
+                }
+            }
+
+            @media (max-width: 576px) {
+                .film-roll-badge {
+                    top: 59%;
+                    right: 5px;
+                    height: 50px;
+                }
+
+                .countdown-text {
+                    font-size: 0.85rem;
+                }
+            }
+        </style>
+        <script type="text/javascript">
+                  const festivalStart = new Date("2025-11-20T00:00:00").getTime();
+                  const festivalEnd = new Date("2025-11-28T23:59:59").getTime();
+                  const countdownElement = document.getElementById("countdown");
+
+                  if (countdownElement) {
+                        const interval = setInterval(() => {
+                              const now = new Date().getTime();
+
+                              if (now < festivalStart) {
+                                    const diff = festivalStart - now;
+                                    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                                    const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+                                    countdownElement.innerHTML = `${days} Day${days !== 1 ? 's' : ''} ${hours} Hour${hours !== 1 ? 's' : ''} to go`;
+                              } else if (now >= festivalStart && now <= festivalEnd) {
+                                    const dayNumber = Math.floor((now - festivalStart) / (1000 * 60 * 60 * 24)) + 1;
+                                    countdownElement.innerHTML = `56th IFFI - Day ${dayNumber}`;
+                              } else {
+                                    countdownElement.innerHTML = `✨ IFFI closes but never ends…`;
+                                    const elements = document.querySelectorAll('.film-roll-badge');
+                                    elements.forEach(el => el.style.width = "350px");
+                                    clearInterval(interval);
+                              }
+                        }, 1000);
+                  }
+        </script>
+        <script type="text/javascript">
+                  const miffStart = new Date("2026-06-15T00:00:00").getTime();
+                  const miffEnd = new Date("2026-06-15T23:59:59").getTime();
+                  const miffElement = document.getElementById("miff");
+
+                  if (miffElement) {
+                        const miffInterval = setInterval(() => {
+                              const now = new Date().getTime();
+
+                              if (now < miffStart) {
+                                    const diff = miffStart - now;
+                                    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                                    miffElement.innerHTML = `${days} Day${days === 1 ? '' : 's'} to MIFF ...`;
+                              } else if (now >= miffStart && now <= miffEnd) {
+                                    const dayNumber = Math.floor((now - miffStart) / (1000 * 60 * 60 * 24)) + 1;
+                                    miffElement.innerHTML = `19th MIFF - Day ${dayNumber}`;
+                              } else {
+                                    miffElement.innerHTML = `✨ MIFF concludes, cinema lives on...`;
+                                    document.querySelectorAll('.film-roll-badge').forEach(el => el.style.width = "350px");
+                                    clearInterval(miffInterval);
+                              }
+                        }, 1000);
+                  }
+        </script>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("sc_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"P_CategoryManagement","dynamicServicePath":"/PressReleasePage.aspx","id":"mpe"}, null, null, $get("Hidden"));
+});
+//]]>
+</script>
+<input type="hidden" name="__ncforminfo" value="2_dDz4JokXHekP8TAaGrDNmzv6hROGUczqXOo-nOt1H563LNQMbCW3Dw0U51T7gpBbSoRGvdLV_aEw9eDRbxgMCm0W6yOsKR"/></form>
+    
+
+<script type="application/json" id="pibConsentConfig">{"ga4Id":"G-Q414Y0X6EE,G-QJJ6LZ8LHV","policyUrl":"/CookiePolicy.aspx","text":{"bannerLabel":"Cookie consent","title":"Cookies on this website","body":"We use essential cookies to make this website work. We also set analytics cookies when you arrive, so we can see how the site is used and improve it - you can switch these off below or at any time from the Cookie Policy page. Cookies from embedded social media content are set only if you allow them.","policyLink":"Read our Cookie Policy","accept":"Accept all","reject":"Reject optional","customize":"Customise","prefsTitle":"Cookie preferences","prefsIntro":"Choose which cookies this website may set. Essential cookies cannot be switched off because the site does not work without them. Analytics cookies are on unless you turn them off. Social media cookies stay off until you allow them. You can change these choices at any time from the Cookie Policy page.","essentialName":"Essential cookies","essentialDesc":"Needed for the site to function. These remember your session, your language and region, your text size and colour theme, and verify the security check on forms. They are always on.","analyticsName":"Analytics cookies","analyticsDesc":"Help us understand how visitors use the site - which pages are read and how long people stay - so it can be improved. The information is collected in a form that does not directly identify you. These are on when you arrive; switching them off here stops them and deletes the ones already set.","socialName":"Social media cookies","socialDesc":"Set by content embedded from X, Facebook and YouTube, such as timelines and videos. These platforms may use them to track you across websites. They stay off until you allow them.","save":"Save preferences","cancel":"Cancel"}}</script>
+<script type="text/javascript" src='/js/consent.js?v=10'></script>
+
+<script type="text/javascript" src='/js/consent-embeds.js?v=10'></script>
+
+
+    <!-- Minimal O(N) Time and O(1) Auxiliary Space Word Count & Read Time Calculation -->
+    <script type="text/javascript">
+            (function () {
+                  function calculateReadingStats() {
+                        var bodyEl = document.getElementById("pibReleaseBody");
+                        if (!bodyEl) return;
+
+                        // textContent extracts text without triggering expensive layout/reflow computations
+                        var text = bodyEl.textContent || "";
+                        var words = 0;
+                        var inWord = false;
+
+                        // O(N) single pass character code scan: achieves O(1) space with zero array allocations
+                        for (var i = 0, len = text.length; i < len; i++) {
+                              var code = text.charCodeAt(i);
+                              // Delimits on ASCII whitespace, control characters, tabs, newlines, and non-breaking spaces (160)
+                              if (code <= 32 || code === 160) {
+                                    inWord = false;
+                              } else if (!inWord) {
+                                    inWord = true;
+                                    words++;
+                              }
+                        }
+
+                        // Standard 250 WPM reading speed (e.g., 612 words yields 2 min read)
+                        var minutes = Math.max(1, Math.round(words / 250));
+
+                        var elWords = document.getElementById("prWordCount");
+                        var elTime = document.getElementById("prReadTime");
+
+                        if (elWords) elWords.textContent = words + (words === 1 ? " word" : " words");
+                        if (elTime) elTime.textContent = minutes + " min read";
+                  }
+
+                  if (document.readyState === "loading") {
+                        document.addEventListener("DOMContentLoaded", calculateReadingStats);
+                  } else {
+                        calculateReadingStats();
+                  }
+            })();
+    </script>
+
+    <script type="text/javascript">
+(function () {
+    try {
+        if (window.self === window.top) { return; }
+    } catch (e) { return; }
+    var s = document.createElement("style");
+    s.textContent = ".sticky-social, .sticky-social_mb { display: none !important; }";
+    (document.head || document.documentElement).appendChild(s);
+}());
+    </script>
+</body>
+</html>

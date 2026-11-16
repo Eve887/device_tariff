@@ -1,0 +1,13 @@
+﻿group,n_codes,median_epsilon,median_gap_change_pp,predicted_relative_change_pct,actual_relative_change_pct,error_pct_points
+Dressings & Sutures,2,0.986,28.81,-28.41,-11.64,-16.76
+Consumables,7,0.029,24.83,-0.72,-21.74,21.02
+Gloves,1,1.661,19.41,-32.24,-32.24,0.0
+Electro-diagnostic,2,0.508,34.26,-17.4,-8.18,-9.23
+Imaging,6,0.721,25.12,-18.11,-1.56,-16.55
+Dental,2,0.532,23.5,-12.5,-20.81,8.31
+Ophthalmic,1,-2.032,26.49,53.83,53.82,0.01
+Instruments,1,1.038,32.71,-33.95,-33.94,-0.01
+Respiratory & Therapy,1,2.469,14.71,-36.32,-36.31,-0.01
+Implants,4,0.548,17.8,-9.75,-12.38,2.63
+Other,2,-0.318,24.26,7.71,16.0,-8.29
+Furniture,1,-0.858,28.47,24.43,24.42,0.01

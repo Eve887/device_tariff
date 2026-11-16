@@ -1,0 +1,241 @@
+﻿code,group,description,scenario,price_fall_pct,extra_us_sales_low_usd,extra_us_sales_base_usd,extra_us_sales_high_usd,lost_customs_revenue_usd,china_2025_usd,germany_2025_usd,japan_2025_usd,note
+300510,Dressings & Sutures,Adhesive dressings,B0,0.0,0,0,0,0,4158897,417039,27,
+300510,Dressings & Sutures,Adhesive dressings,B1,5.2133,199718,399437,599155,421406,4158897,417039,27,
+300510,Dressings & Sutures,Adhesive dressings,B2,0.0,0,0,0,0,4158897,417039,27,
+300510,Dressings & Sutures,Adhesive dressings,B3,5.2133,199718,399437,599155,421406,4158897,417039,27,
+300590,Dressings & Sutures,Other wadding gauze bandages,B0,0.0,0,0,0,0,4418148,2387411,2436343,
+300590,Dressings & Sutures,Other wadding gauze bandages,B1,5.2133,247699,495398,743096,522644,4418148,2387411,2436343,
+300590,Dressings & Sutures,Other wadding gauze bandages,B2,0.0,0,0,0,0,4418148,2387411,2436343,
+300590,Dressings & Sutures,Other wadding gauze bandages,B3,5.2133,247699,495398,743096,522644,4418148,2387411,2436343,
+300610,Dressings & Sutures,Sterile surgical sutures and tissue adhesives,B0,0.0,0,0,0,0,94962,1927433,0,
+300610,Dressings & Sutures,Sterile surgical sutures and tissue adhesives,B1,5.2133,235839,471678,707517,497621,94962,1927433,0,
+300610,Dressings & Sutures,Sterile surgical sutures and tissue adhesives,B2,0.0,0,0,0,0,94962,1927433,0,
+300610,Dressings & Sutures,Sterile surgical sutures and tissue adhesives,B3,5.2133,235839,471678,707517,497621,94962,1927433,0,
+300620,Diagnostics,Blood-grouping reagents,B0,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,no 2025 India-imports-from-USA data
+300620,Diagnostics,Blood-grouping reagents,B1,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,no 2025 India-imports-from-USA data
+300620,Diagnostics,Blood-grouping reagents,B2,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,no 2025 India-imports-from-USA data
+300620,Diagnostics,Blood-grouping reagents,B3,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,no 2025 India-imports-from-USA data
+300640,Dental,Dental cements and bone reconstruction cements,B0,0.0,0,0,0,0,518032,13328958,11982570,
+300640,Dental,Dental cements and bone reconstruction cements,B1,5.2133,150734,301467,452201,318048,518032,13328958,11982570,
+300640,Dental,Dental cements and bone reconstruction cements,B2,0.0,0,0,0,0,518032,13328958,11982570,
+300640,Dental,Dental cements and bone reconstruction cements,B3,5.2133,150734,301467,452201,318048,518032,13328958,11982570,
+300650,Dressings & Sutures,First-aid boxes and kits,B0,0.0,0,0,0,0,150267,474,0,
+300650,Dressings & Sutures,First-aid boxes and kits,B1,5.2133,4381,8762,13143,9244,150267,474,0,
+300650,Dressings & Sutures,First-aid boxes and kits,B2,0.0,0,0,0,0,150267,474,0,
+300650,Dressings & Sutures,First-aid boxes and kits,B3,5.2133,4381,8762,13143,9244,150267,474,0,
+300670,Consumables,Gel preparations designed to be used in human or veterinary medicine as a lubric,B0,not computable,not computable,not computable,not computable,not computable,628319,44,53788,duty rate(s) not found
+300670,Consumables,Gel preparations designed to be used in human or veterinary medicine as a lubric,B1,not computable,not computable,not computable,not computable,not computable,628319,44,53788,duty rate(s) not found
+300670,Consumables,Gel preparations designed to be used in human or veterinary medicine as a lubric,B2,not computable,not computable,not computable,not computable,not computable,628319,44,53788,duty rate(s) not found
+300670,Consumables,Gel preparations designed to be used in human or veterinary medicine as a lubric,B3,not computable,not computable,not computable,not computable,not computable,628319,44,53788,duty rate(s) not found
+300691,Consumables,Appliances for ostomy use,B0,0.0,0,0,0,0,1182086,27310,93407,
+300691,Consumables,Appliances for ostomy use,B1,5.2133,7380,14760,22139,15571,1182086,27310,93407,
+300691,Consumables,Appliances for ostomy use,B2,0.0,0,0,0,0,1182086,27310,93407,
+300691,Consumables,Appliances for ostomy use,B3,5.2133,7380,14760,22139,15571,1182086,27310,93407,
+382211,Diagnostics,Diagnostic reagents for malaria,B0,0.0,0,0,0,0,55572,0,0,
+382211,Diagnostics,Diagnostic reagents for malaria,B1,7.6212,15,31,46,33,55572,0,0,
+382211,Diagnostics,Diagnostic reagents for malaria,B2,0.0,0,0,0,0,55572,0,0,
+382211,Diagnostics,Diagnostic reagents for malaria,B3,7.6212,15,31,46,33,55572,0,0,
+382212,Diagnostics,Diagnostic reagents for Zika and other mosquito-borne diseases,B0,0.0,0,0,0,0,22481,71238,0,
+382212,Diagnostics,Diagnostic reagents for Zika and other mosquito-borne diseases,B1,7.6212,1082,2165,3247,2343,22481,71238,0,
+382212,Diagnostics,Diagnostic reagents for Zika and other mosquito-borne diseases,B2,0.0,0,0,0,0,22481,71238,0,
+382212,Diagnostics,Diagnostic reagents for Zika and other mosquito-borne diseases,B3,7.6212,1082,2165,3247,2343,22481,71238,0,
+382213,Diagnostics,Diagnostic reagents for blood grouping,B0,0.0,0,0,0,0,75003,79627,0,
+382213,Diagnostics,Diagnostic reagents for blood grouping,B1,7.6212,61664,123328,184992,133502,75003,79627,0,
+382213,Diagnostics,Diagnostic reagents for blood grouping,B2,0.0,0,0,0,0,75003,79627,0,
+382213,Diagnostics,Diagnostic reagents for blood grouping,B3,7.6212,61664,123328,184992,133502,75003,79627,0,
+401410,Consumables,"Rubber contraceptives, male (condoms)",B0,not computable,not computable,not computable,not computable,not computable,949724,0,172319,duty rate(s) not found
+401410,Consumables,"Rubber contraceptives, male (condoms)",B1,not computable,not computable,not computable,not computable,not computable,949724,0,172319,duty rate(s) not found
+401410,Consumables,"Rubber contraceptives, male (condoms)",B2,not computable,not computable,not computable,not computable,not computable,949724,0,172319,duty rate(s) not found
+401410,Consumables,"Rubber contraceptives, male (condoms)",B3,not computable,not computable,not computable,not computable,not computable,949724,0,172319,duty rate(s) not found
+401512,Gloves,Medical surgical dental or veterinary gloves of rubber,B0,not computable,not computable,not computable,not computable,not computable,1267336,0,0,duty rate(s) not found
+401512,Gloves,Medical surgical dental or veterinary gloves of rubber,B1,not computable,not computable,not computable,not computable,not computable,1267336,0,0,duty rate(s) not found
+401512,Gloves,Medical surgical dental or veterinary gloves of rubber,B2,not computable,not computable,not computable,not computable,not computable,1267336,0,0,duty rate(s) not found
+401512,Gloves,Medical surgical dental or veterinary gloves of rubber,B3,not computable,not computable,not computable,not computable,not computable,1267336,0,0,duty rate(s) not found
+842310,Other,"Personal weighing machines, including baby scales household scales",B0,not computable,not computable,not computable,not computable,not computable,18466919,59301,22180,duty rate(s) not found
+842310,Other,"Personal weighing machines, including baby scales household scales",B1,not computable,not computable,not computable,not computable,not computable,18466919,59301,22180,duty rate(s) not found
+842310,Other,"Personal weighing machines, including baby scales household scales",B2,not computable,not computable,not computable,not computable,not computable,18466919,59301,22180,duty rate(s) not found
+842310,Other,"Personal weighing machines, including baby scales household scales",B3,not computable,not computable,not computable,not computable,not computable,18466919,59301,22180,duty rate(s) not found
+900130,Consumables,"Contact lenses of any material, unmounted",B0,not computable,not computable,not computable,not computable,not computable,42274,3254521,76350,duty rate(s) not found
+900130,Consumables,"Contact lenses of any material, unmounted",B1,not computable,not computable,not computable,not computable,not computable,42274,3254521,76350,duty rate(s) not found
+900130,Consumables,"Contact lenses of any material, unmounted",B2,not computable,not computable,not computable,not computable,not computable,42274,3254521,76350,duty rate(s) not found
+900130,Consumables,"Contact lenses of any material, unmounted",B3,not computable,not computable,not computable,not computable,not computable,42274,3254521,76350,duty rate(s) not found
+900150,Consumables,Spectacle lenses of other materials,B0,not computable,not computable,not computable,not computable,not computable,97225966,1349306,6221717,duty rate(s) not found
+900150,Consumables,Spectacle lenses of other materials,B1,not computable,not computable,not computable,not computable,not computable,97225966,1349306,6221717,duty rate(s) not found
+900150,Consumables,Spectacle lenses of other materials,B2,not computable,not computable,not computable,not computable,not computable,97225966,1349306,6221717,duty rate(s) not found
+900150,Consumables,Spectacle lenses of other materials,B3,not computable,not computable,not computable,not computable,not computable,97225966,1349306,6221717,duty rate(s) not found
+901811,Electro-diagnostic,Electro-cardiographs (ECG),B0,0.0,0,0,0,0,7526139,299542,60751,
+901811,Electro-diagnostic,Electro-cardiographs (ECG),B1,7.2848,413564,827128,1240692,936723,7526139,299542,60751,
+901811,Electro-diagnostic,Electro-cardiographs (ECG),B2,4.415,250645,501290,751935,567711,7526139,299542,60751,
+901811,Electro-diagnostic,Electro-cardiographs (ECG),B3,11.6998,664209,1328418,1992627,1504433,7526139,299542,60751,
+901812,Imaging,Ultrasonic scanning apparatus,B0,0.0,0,0,0,0,96424005,2038203,8979044,
+901812,Imaging,Ultrasonic scanning apparatus,B1,7.2848,1147459,2294919,3442378,2598996,96424005,2038203,8979044,
+901812,Imaging,Ultrasonic scanning apparatus,B2,4.415,695430,1390860,2086290,1575149,96424005,2038203,8979044,
+901812,Imaging,Ultrasonic scanning apparatus,B3,11.6998,1842889,3685779,5528668,4174145,96424005,2038203,8979044,
+901813,Imaging,Magnetic resonance imaging (MRI) apparatus,B0,0.0,0,0,0,0,111823947,43093788,5782562,
+901813,Imaging,Magnetic resonance imaging (MRI) apparatus,B1,7.2848,3398007,6796014,10194021,7696486,111823947,43093788,5782562,
+901813,Imaging,Magnetic resonance imaging (MRI) apparatus,B2,4.415,2059398,4118796,6178195,4664537,111823947,43093788,5782562,
+901813,Imaging,Magnetic resonance imaging (MRI) apparatus,B3,11.6998,5457405,10914810,16372216,12361023,111823947,43093788,5782562,
+901814,Imaging,Scintigraphic apparatus,B0,0.0,0,0,0,0,7168161,2877,2318424,
+901814,Imaging,Scintigraphic apparatus,B1,7.2848,76291,152582,228873,172799,7168161,2877,2318424,
+901814,Imaging,Scintigraphic apparatus,B2,4.415,46237,92474,138711,104727,7168161,2877,2318424,
+901814,Imaging,Scintigraphic apparatus,B3,11.6998,122528,245056,367583,277525,7168161,2877,2318424,
+901819,Electro-diagnostic,Other electro-diagnostic apparatus incl. patient monitors,B0,0.0,0,0,0,0,30211204,13324212,7313104,
+901819,Electro-diagnostic,Other electro-diagnostic apparatus incl. patient monitors,B1,7.2848,729365,1458730,2188095,1652012,30211204,13324212,7313104,
+901819,Electro-diagnostic,Other electro-diagnostic apparatus incl. patient monitors,B2,4.415,442039,884079,1326118,1001219,30211204,13324212,7313104,
+901819,Electro-diagnostic,Other electro-diagnostic apparatus incl. patient monitors,B3,11.6998,1171405,2342809,3514214,2653231,30211204,13324212,7313104,
+901820,Electro-diagnostic,Ultraviolet or infrared ray apparatus,B0,0.0,0,0,0,0,1088629,78447,1630,
+901820,Electro-diagnostic,Ultraviolet or infrared ray apparatus,B1,7.2848,16898,33796,50694,38274,1088629,78447,1630,
+901820,Electro-diagnostic,Ultraviolet or infrared ray apparatus,B2,4.415,10241,20482,30723,23196,1088629,78447,1630,
+901820,Electro-diagnostic,Ultraviolet or infrared ray apparatus,B3,11.6998,27139,54278,81417,61470,1088629,78447,1630,
+901831,Consumables,Syringes,B0,0.0,0,0,0,0,5716955,1505529,1925932,
+901831,Consumables,Syringes,B1,7.2848,1063963,2127927,3191890,2409877,5716955,1505529,1925932,
+901831,Consumables,Syringes,B2,4.415,644826,1289653,1934479,1460532,5716955,1505529,1925932,
+901831,Consumables,Syringes,B3,11.6998,1708790,3417579,5126369,3870409,5716955,1505529,1925932,
+901832,Consumables,Tubular metal needles and suture needles,B0,0.0,0,0,0,0,6746104,2891577,4405643,
+901832,Consumables,Tubular metal needles and suture needles,B1,7.2848,389531,779062,1168593,882288,6746104,2891577,4405643,
+901832,Consumables,Tubular metal needles and suture needles,B2,4.415,236079,472159,708238,534720,6746104,2891577,4405643,
+901832,Consumables,Tubular metal needles and suture needles,B3,11.6998,625610,1251221,1876831,1417007,6746104,2891577,4405643,
+901839,Consumables,Catheters cannulas and the like,B0,0.0,0,0,0,0,33316314,10055496,37731100,
+901839,Consumables,Catheters cannulas and the like,B1,7.2848,3182873,6365746,9548619,7209208,33316314,10055496,37731100,
+901839,Consumables,Catheters cannulas and the like,B2,4.415,1929014,3858028,5787042,4369217,33316314,10055496,37731100,
+901839,Consumables,Catheters cannulas and the like,B3,11.6998,5111887,10223774,15335661,11578424,33316314,10055496,37731100,
+901841,Dental,Dental drill engines,B0,0.0,0,0,0,0,68050,3482,62912,
+901841,Dental,Dental drill engines,B1,7.2848,334,668,1001,756,68050,3482,62912,
+901841,Dental,Dental drill engines,B2,4.415,202,405,607,458,68050,3482,62912,
+901841,Dental,Dental drill engines,B3,11.6998,536,1072,1608,1214,68050,3482,62912,
+901849,Dental,Other dental instruments,B0,0.0,0,0,0,0,37092584,16882797,4082783,
+901849,Dental,Other dental instruments,B1,7.2848,183961,367921,551882,416671,37092584,16882797,4082783,
+901849,Dental,Other dental instruments,B2,4.415,111491,222983,334474,252528,37092584,16882797,4082783,
+901849,Dental,Other dental instruments,B3,11.6998,295452,590904,886356,669199,37092584,16882797,4082783,
+901850,Ophthalmic,Other ophthalmic instruments,B0,0.0,0,0,0,0,14072455,43230966,25728181,
+901850,Ophthalmic,Other ophthalmic instruments,B1,7.2848,3245620,6491240,9736860,7351329,14072455,43230966,25728181,
+901850,Ophthalmic,Other ophthalmic instruments,B2,4.415,1967042,3934085,5901127,4455351,14072455,43230966,25728181,
+901850,Ophthalmic,Other ophthalmic instruments,B3,11.6998,5212662,10425325,15637987,11806681,14072455,43230966,25728181,
+901890,Instruments,Other medical and surgical instruments,B0,0.0,0,0,0,0,268585217,204786071,95953140,
+901890,Instruments,Other medical and surgical instruments,B1,7.2848,14123037,28246074,42369111,31988679,268585217,204786071,95953140,
+901890,Instruments,Other medical and surgical instruments,B2,4.415,8559416,17118833,25678249,19387078,268585217,204786071,95953140,
+901890,Instruments,Other medical and surgical instruments,B3,11.6998,22682453,45364907,68047360,51375757,268585217,204786071,95953140,
+901910,Respiratory & Therapy,Mechano-therapy and massage apparatus,B0,0.0,0,0,0,0,61531937,567984,236363,
+901910,Respiratory & Therapy,Mechano-therapy and massage apparatus,B1,7.2848,47567,95133,142700,107738,61531937,567984,236363,
+901910,Respiratory & Therapy,Mechano-therapy and massage apparatus,B2,4.415,28828,57656,86485,65296,61531937,567984,236363,
+901910,Respiratory & Therapy,Mechano-therapy and massage apparatus,B3,11.6998,76395,152790,229184,173034,61531937,567984,236363,
+901920,Respiratory & Therapy,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,B0,0.0,0,0,0,0,54775080,27757972,647753,
+901920,Respiratory & Therapy,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,B1,7.2848,549671,1099342,1649013,1245004,54775080,27757972,647753,
+901920,Respiratory & Therapy,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,B2,4.415,333134,666268,999402,754548,54775080,27757972,647753,
+901920,Respiratory & Therapy,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,B3,11.6998,882805,1765609,2648414,1999553,54775080,27757972,647753,
+902000,Respiratory & Therapy,Other breathing appliances and gas masks,B0,0.0,0,0,0,0,3088904,4497324,35856,
+902000,Respiratory & Therapy,Other breathing appliances and gas masks,B1,7.2848,247394,494788,742182,560348,3088904,4497324,35856,
+902000,Respiratory & Therapy,Other breathing appliances and gas masks,B2,4.415,149936,299872,449807,339605,3088904,4497324,35856,
+902000,Respiratory & Therapy,Other breathing appliances and gas masks,B3,11.6998,397330,794660,1191989,899952,3088904,4497324,35856,
+902110,Implants,Orthopaedic or fracture appliances,B0,0.0,0,0,0,0,13574935,2918053,115298,
+902110,Implants,Orthopaedic or fracture appliances,B1,7.2848,496538,993076,1489614,1124659,13574935,2918053,115298,
+902110,Implants,Orthopaedic or fracture appliances,B2,4.415,300932,601864,902797,681611,13574935,2918053,115298,
+902110,Implants,Orthopaedic or fracture appliances,B3,11.6998,797470,1594941,2392411,1806270,13574935,2918053,115298,
+902121,Dental,Artificial teeth,B0,0.0,0,0,0,0,233915,951,0,
+902121,Dental,Artificial teeth,B1,7.2848,13008,26015,39023,29462,233915,951,0,
+902121,Dental,Artificial teeth,B2,4.415,7883,15767,23650,17856,233915,951,0,
+902121,Dental,Artificial teeth,B3,11.6998,20891,41782,62673,47318,233915,951,0,
+902129,Dental,Other dental fittings,B0,0.0,0,0,0,0,2366360,2488470,5018,
+902129,Dental,Other dental fittings,B1,7.2848,529690,1059380,1589071,1199748,2366360,2488470,5018,
+902129,Dental,Other dental fittings,B2,4.415,321024,642049,963073,727120,2366360,2488470,5018,
+902129,Dental,Other dental fittings,B3,11.6998,850715,1701429,2552144,1926868,2366360,2488470,5018,
+902131,Implants,Artificial joints,B0,0.0,0,0,0,0,14016949,4120261,0,
+902131,Implants,Artificial joints,B1,7.2848,4789732,9579464,14369195,10848743,14016949,4120261,0,
+902131,Implants,Artificial joints,B2,4.415,2902868,5805736,8708603,6574996,14016949,4120261,0,
+902131,Implants,Artificial joints,B3,11.6998,7692600,15385199,23077799,17423738,14016949,4120261,0,
+902139,Implants,Other artificial parts of the body,B0,0.0,0,0,0,0,4118089,31942907,124793,
+902139,Implants,Other artificial parts of the body,B1,7.2848,3003911,6007822,9011733,6803858,4118089,31942907,124793,
+902139,Implants,Other artificial parts of the body,B2,4.415,1820552,3641104,5461656,4123550,4118089,31942907,124793,
+902139,Implants,Other artificial parts of the body,B3,11.6998,4824463,9648926,14473389,10927409,4118089,31942907,124793,
+902140,Hearing,Hearing aids,B0,not computable,not computable,not computable,not computable,not computable,7667842,8175,2790,duty rate(s) not found
+902140,Hearing,Hearing aids,B1,not computable,not computable,not computable,not computable,not computable,7667842,8175,2790,duty rate(s) not found
+902140,Hearing,Hearing aids,B2,not computable,not computable,not computable,not computable,not computable,7667842,8175,2790,duty rate(s) not found
+902140,Hearing,Hearing aids,B3,not computable,not computable,not computable,not computable,not computable,7667842,8175,2790,duty rate(s) not found
+902150,Implants,Pacemakers,B0,0.0,0,0,0,0,142058,10134574,0,
+902150,Implants,Pacemakers,B1,7.2848,146916,293832,440747,332764,142058,10134574,0,
+902150,Implants,Pacemakers,B2,4.415,89040,178080,267120,201675,142058,10134574,0,
+902150,Implants,Pacemakers,B3,11.6998,235956,471911,707867,534440,142058,10134574,0,
+902190,Implants,Other appliances implanted or worn incl. stents,B0,0.0,0,0,0,0,15944056,9400021,157824,
+902190,Implants,Other appliances implanted or worn incl. stents,B1,7.2848,1580483,3160966,4741449,3579794,15944056,9400021,157824,
+902190,Implants,Other appliances implanted or worn incl. stents,B2,4.415,957869,1915737,2873606,2169572,15944056,9400021,157824,
+902190,Implants,Other appliances implanted or worn incl. stents,B3,11.6998,2538352,5076703,7615055,5749367,15944056,9400021,157824,
+902212,Imaging,Computed tomography (CT) apparatus,B0,0.0,0,0,0,0,54477574,37681359,26394315,
+902212,Imaging,Computed tomography (CT) apparatus,B1,7.2848,1330988,2661976,3992965,3014688,54477574,37681359,26394315,
+902212,Imaging,Computed tomography (CT) apparatus,B2,4.415,806660,1613319,2419979,1827084,54477574,37681359,26394315,
+902212,Imaging,Computed tomography (CT) apparatus,B3,11.6998,2137648,4275296,6412943,4841772,54477574,37681359,26394315,
+902213,Imaging,Dental X-ray apparatus,B0,0.0,0,0,0,0,1601876,2755371,316531,
+902213,Imaging,Dental X-ray apparatus,B1,7.2848,5320,10639,15959,12049,1601876,2755371,316531,
+902213,Imaging,Dental X-ray apparatus,B2,4.415,3224,6448,9672,7302,1601876,2755371,316531,
+902213,Imaging,Dental X-ray apparatus,B3,11.6998,8544,17087,25631,19351,1601876,2755371,316531,
+902214,Imaging,Other medical X-ray apparatus,B0,0.0,0,0,0,0,47352676,55709861,13775195,
+902214,Imaging,Other medical X-ray apparatus,B1,13.5802,6080396,12160793,18241189,14775363,47352676,55709861,13775195,
+902214,Imaging,Other medical X-ray apparatus,B2,4.1152,1842544,3685089,5527633,4477383,47352676,55709861,13775195,
+902214,Imaging,Other medical X-ray apparatus,B3,17.6955,7922941,15845881,23768822,19252746,47352676,55709861,13775195,
+902219,Imaging,X-ray apparatus for other uses,B0,0.0,0,0,0,0,16031238,28206536,12713180,
+902219,Imaging,X-ray apparatus for other uses,B1,7.2848,626227,1252454,1878680,1418404,16031238,28206536,12713180,
+902219,Imaging,X-ray apparatus for other uses,B2,4.415,379531,759063,1138594,859639,16031238,28206536,12713180,
+902219,Imaging,X-ray apparatus for other uses,B3,11.6998,1005758,2011516,3017274,2278042,16031238,28206536,12713180,
+902221,Imaging,Alpha beta gamma radiation apparatus for medical use,B0,0.0,0,0,0,0,69689,4500731,0,
+902221,Imaging,Alpha beta gamma radiation apparatus for medical use,B1,7.2848,15165,30331,45496,34350,69689,4500731,0,
+902221,Imaging,Alpha beta gamma radiation apparatus for medical use,B2,4.415,9191,18382,27574,20818,69689,4500731,0,
+902221,Imaging,Alpha beta gamma radiation apparatus for medical use,B3,11.6998,24357,48713,73070,55168,69689,4500731,0,
+902229,Imaging,Alpha beta gamma radiation apparatus for other uses,B0,0.0,0,0,0,0,6506522,6237685,45800,
+902229,Imaging,Alpha beta gamma radiation apparatus for other uses,B1,7.2848,113356,226712,340068,256751,6506522,6237685,45800,
+902229,Imaging,Alpha beta gamma radiation apparatus for other uses,B2,4.415,68701,137401,206102,155607,6506522,6237685,45800,
+902229,Imaging,Alpha beta gamma radiation apparatus for other uses,B3,11.6998,182056,364113,546169,412358,6506522,6237685,45800,
+902230,Imaging,X-ray tubes,B0,0.0,0,0,0,0,29869642,30764073,8974934,
+902230,Imaging,X-ray tubes,B1,9.4828,526822,1053645,1580467,1222228,29869642,30764073,8974934,
+902230,Imaging,X-ray tubes,B2,4.3103,239465,478929,718394,555558,29869642,30764073,8974934,
+902230,Imaging,X-ray tubes,B3,13.7931,766287,1532574,2298861,1777786,29869642,30764073,8974934,
+902290,Imaging,Parts of X-ray and radiation apparatus,B0,0.0,0,0,0,0,111608945,42763264,34400809,
+902290,Imaging,Parts of X-ray and radiation apparatus,B1,7.2848,3213124,6426248,9639371,7277725,111608945,42763264,34400809,
+902290,Imaging,Parts of X-ray and radiation apparatus,B2,4.415,1947348,3894696,5842043,4410743,111608945,42763264,34400809,
+902290,Imaging,Parts of X-ray and radiation apparatus,B3,11.6998,5160472,10320943,15481415,11688468,111608945,42763264,34400809,
+902511,Electro-diagnostic,Clinical thermometers,B0,not computable,not computable,not computable,not computable,not computable,1842340,259363,558400,duty rate(s) not found
+902511,Electro-diagnostic,Clinical thermometers,B1,not computable,not computable,not computable,not computable,not computable,1842340,259363,558400,duty rate(s) not found
+902511,Electro-diagnostic,Clinical thermometers,B2,not computable,not computable,not computable,not computable,not computable,1842340,259363,558400,duty rate(s) not found
+902511,Electro-diagnostic,Clinical thermometers,B3,not computable,not computable,not computable,not computable,not computable,1842340,259363,558400,duty rate(s) not found
+902710,Other,Gas or smoke analysis apparatus,B0,not computable,not computable,not computable,not computable,not computable,19512645,43430936,101815653,duty rate(s) not found
+902710,Other,Gas or smoke analysis apparatus,B1,not computable,not computable,not computable,not computable,not computable,19512645,43430936,101815653,duty rate(s) not found
+902710,Other,Gas or smoke analysis apparatus,B2,not computable,not computable,not computable,not computable,not computable,19512645,43430936,101815653,duty rate(s) not found
+902710,Other,Gas or smoke analysis apparatus,B3,not computable,not computable,not computable,not computable,not computable,19512645,43430936,101815653,duty rate(s) not found
+902720,Other,Chromatographs and electrophoresis instruments,B0,not computable,not computable,not computable,not computable,not computable,42651073,61811387,67679175,duty rate(s) not found
+902720,Other,Chromatographs and electrophoresis instruments,B1,not computable,not computable,not computable,not computable,not computable,42651073,61811387,67679175,duty rate(s) not found
+902720,Other,Chromatographs and electrophoresis instruments,B2,not computable,not computable,not computable,not computable,not computable,42651073,61811387,67679175,duty rate(s) not found
+902720,Other,Chromatographs and electrophoresis instruments,B3,not computable,not computable,not computable,not computable,not computable,42651073,61811387,67679175,duty rate(s) not found
+902730,Other,Spectrometers,B0,not computable,not computable,not computable,not computable,not computable,29366600,41367491,14972973,duty rate(s) not found
+902730,Other,Spectrometers,B1,not computable,not computable,not computable,not computable,not computable,29366600,41367491,14972973,duty rate(s) not found
+902730,Other,Spectrometers,B2,not computable,not computable,not computable,not computable,not computable,29366600,41367491,14972973,duty rate(s) not found
+902730,Other,Spectrometers,B3,not computable,not computable,not computable,not computable,not computable,29366600,41367491,14972973,duty rate(s) not found
+902750,Other,Photometers,B0,not computable,not computable,not computable,not computable,not computable,70282181,27259862,71161196,duty rate(s) not found
+902750,Other,Photometers,B1,not computable,not computable,not computable,not computable,not computable,70282181,27259862,71161196,duty rate(s) not found
+902750,Other,Photometers,B2,not computable,not computable,not computable,not computable,not computable,70282181,27259862,71161196,duty rate(s) not found
+902750,Other,Photometers,B3,not computable,not computable,not computable,not computable,not computable,70282181,27259862,71161196,duty rate(s) not found
+902790,Other,"Microtomes, including parts and accessories thereof",B0,not computable,not computable,not computable,not computable,not computable,29638750,48272741,51145314,duty rate(s) not found
+902790,Other,"Microtomes, including parts and accessories thereof",B1,not computable,not computable,not computable,not computable,not computable,29638750,48272741,51145314,duty rate(s) not found
+902790,Other,"Microtomes, including parts and accessories thereof",B2,not computable,not computable,not computable,not computable,not computable,29638750,48272741,51145314,duty rate(s) not found
+902790,Other,"Microtomes, including parts and accessories thereof",B3,not computable,not computable,not computable,not computable,not computable,29638750,48272741,51145314,duty rate(s) not found
+940290,Furniture,Other medical furniture incl. hospital beds,B0,not computable,not computable,not computable,not computable,not computable,34237810,6816659,978782,duty rate(s) not found
+940290,Furniture,Other medical furniture incl. hospital beds,B1,not computable,not computable,not computable,not computable,not computable,34237810,6816659,978782,duty rate(s) not found
+940290,Furniture,Other medical furniture incl. hospital beds,B2,not computable,not computable,not computable,not computable,not computable,34237810,6816659,978782,duty rate(s) not found
+940290,Furniture,Other medical furniture incl. hospital beds,B3,not computable,not computable,not computable,not computable,not computable,34237810,6816659,978782,duty rate(s) not found
+9025198010,Electro-diagnostic,Infrared thermometers (Clinical),B0,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+9025198010,Electro-diagnostic,Infrared thermometers (Clinical),B1,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+9025198010,Electro-diagnostic,Infrared thermometers (Clinical),B2,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+9025198010,Electro-diagnostic,Infrared thermometers (Clinical),B3,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+9025198020,Electro-diagnostic,Other (Clinical),B0,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+9025198020,Electro-diagnostic,Other (Clinical),B1,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+9025198020,Electro-diagnostic,Other (Clinical),B2,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+9025198020,Electro-diagnostic,Other (Clinical),B3,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+9402100000,Furniture,"Dentists', barbers' or similar chairs and parts thereof",B0,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+9402100000,Furniture,"Dentists', barbers' or similar chairs and parts thereof",B1,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+9402100000,Furniture,"Dentists', barbers' or similar chairs and parts thereof",B2,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+9402100000,Furniture,"Dentists', barbers' or similar chairs and parts thereof",B3,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+6210105010,Consumables,Surgical or isolation gowns,B0,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+6210105010,Consumables,Surgical or isolation gowns,B1,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+6210105010,Consumables,Surgical or isolation gowns,B2,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+6210105010,Consumables,Surgical or isolation gowns,B3,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+6210105090,Consumables,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),B0,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+6210105090,Consumables,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),B1,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+6210105090,Consumables,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),B2,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data
+6210105090,Consumables,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),B3,not computable,not computable,not computable,not computable,not computable,not found,not found,not found,duty rate(s) not found; no 2025 India-imports-from-USA data

@@ -1,0 +1,15 @@
+﻿scenario,scenario_year,basis,low_usd,base_usd,high_usd,low_le_base_le_high,s5_same_direction_all_three
+S0_Today,,2025,0,0,0,True,
+S0_Today,,12mo,0,0,0,True,
+S1_China_exclusion_expiry,,2025,-2413203,-1242886,-146919,True,
+S1_China_exclusion_expiry,,12mo,-2315198,-1194563,-141401,True,
+S2_Sec232_15pct_exemptions,,2025,-36523772,48058916,80630611,True,
+S2_Sec232_15pct_exemptions,,12mo,-30157850,41314892,67395736,True,
+S3_Sec232_25pct_all,,2025,-177530973,8656696,124766347,True,
+S3_Sec232_25pct_all,,12mo,-147762151,7205121,103845225,True,
+S4_Phased_Sec232,Year1_10pct,2025,-71012387,3462680,49906539,True,
+S4_Phased_Sec232,Year1_10pct,12mo,-59104863,2882046,41538088,True,
+S4_Phased_Sec232,Year2_25pct,2025,-177530973,8656696,124766347,True,
+S4_Phased_Sec232,Year2_25pct,12mo,-147762151,7205121,103845225,True,
+S5_India_deal_minus10,,2025,3232802,-43743545,-55220535,False,False
+S5_India_deal_minus10,,12mo,3509774,-36864513,-46110573,False,False

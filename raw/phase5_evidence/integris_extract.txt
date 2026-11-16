@@ -1,0 +1,351 @@
+
+=== PAGE 20 ===
+ 
+15 
+KPIs 
+  
+Term 
+Description 
+Adjusted EBITDA 
+Adjusted EBITDA is calculated after adjusting EBITDA for share-based expenses 
+Adjusted EBITDA Margin 
+Adjusted EBITDA Margin is calculated as Adjusted EBITDA divided by revenue from operations 
+Adjusted PAT 
+Adjusted PAT is calculated as Restated profit/(loss) for the period/year before adjustment of 
+exceptional items 
+Adjusted PAT Margin 
+Adjusted PAT Margin is calculated as Adjusted PAT divided by Revenue from operations 
+Adjusted Return on Equity 
+Adjusted Return on Equity is calculated by dividing Adjusted PAT for the period divided by the 
+total equity 
+EBITDA 
+EBITDA is calculated as the aggregate of restated profit before exceptional items and tax, 
+depreciation and amortization expense and finance costs, less other income (excluding forex gain), 
+for the relevant period/year 
+EBITDA Margin 
+EBITDA Margin is calculated as EBITDA divided by revenue from operations 
+Gross Margin 
+Gross Margin (%) is calculated as a percentage of revenue from operations 
+Gross Profit 
+Gross Margin has been calculated as revenue minus cost of sales. Cost of sales is calculated as 
+sum of cost of materials consumed, purchases of stock-in-trade, changes in inventories of finished 
+goods, stock-in-trade and work-in-progress 
+Manufacturing 
+capacity 
+and 
+utilization 
+Manufacturing capacity and utilization is calculated as actual capacity utilized during the period 
+divided by the annual/periodic available capacity during the period 
+Net Debt to EBITDA 
+Net Debt to EBITDA is calculated as Net Debt divided by EBITDA. Net Debt is calculated as the 
+sum of current borrowings and non-current borrowings, less investments, cash and cash 
+equivalents, other bank balances. 
+Net Working Capital (in Days) 
+Net working capital days (overall) (based on days of revenue from operations) is sum of Trade 
+Receivable Days and Inventory Days as reduced by Trade Payable Days; where Trade Receivables 
+Days or Debtors days are calculated as 365 divided by (Revenue from operations/ trade 
+receivables), Inventory Days is calculated as 365 divided by (Revenue from operations / inventory) 
+and Trade Payable Days is calculated as 365 divided by (Revenue from operations / trade payables) 
+Number of Sales team members 
+Number of sales team members as traced from our consolidated Employee register  
+PAT Margin 
+PAT Margin is calculated as Restated Profit/(loss) after tax divided by Revenue from operations 
+Restated 
+profit/(loss) 
+for 
+the 
+period/year 
+Restated profit/(loss) for the period/year as traced from the Restated Consolidated Financial 
+Information 
+Return on Capital Employed 
+Return on Capital Employed, also expressed as a percentage, is calculated by dividing EBIT by 
+Capital Employed. EBIT is the sum of restated profit before exceptional items and tax, finance 
+costs minus Other Income (excluding forex gain). Capital Employed is calculated as sum of total 
+equity, total borrowings, total lease liabilities minus investments, cash and cash equivalents, other 
+bank balances, goodwill, other intangible assets, intangible assets under development 
+Return on Equity 
+Return on Equity is calculated by dividing the Restated Profit/(loss) for the period divided by the 
+total equity 
+Revenue from operations 
+Revenue from Operations is as per the Restated Consolidated Financial Information 
+Revenue from operations breakup 
+by geography – India, Europe, Asia 
+(Ex-India) and ROW 
+Revenue Split by Geography is bifurcation of revenue from operations from India, Europe and 
+ROW (Rest of world) 
+Revenue Split of Cardiovascular 
+business – DES and Balloons and 
+Other cardiovascular products 
+Revenue Split of Cardiovascular Business as mentioned in Restated Consolidated Financial 
+Information split to DES and Balloons and Other Cardiovascular Products 
+Revenue Split of Lab Solutions 
+business – Scientific Lab Solutions 
+and Clinical Diagnostics 
+Revenue Split of Lab Solutions Business as mentioned in Restated Consolidated Financial 
+Information split to Clinical Diagnostics and Scientific Lab Solutions 
+ 
+ 
+
+=== PAGE 172 ===
+ 
+167 
+ 
+Sr. 
+No. 
+Key performance indicators 
+Information / Explanations 
+(excluding forex gain), for the relevant period/year 
+5. 
+ EBITDA Margin 
+EBITDA Margin is calculated as EBITDA divided by revenue from operations 
+6. 
+ Adjusted EBITDA 
+Adjusted EBITDA is calculated after adjusting EBITDA for share-based expenses 
+7. 
+ Adjusted EBITDA Margin 
+Adjusted EBITDA Margin is calculated as Adjusted EBITDA divided by revenue 
+from operations 
+8. 
+ Restated profit/(loss) for the 
+period/year 
+Restated profit/(loss) for the period/year as traced from the Restated Consolidated 
+Financial Information 
+9. 
+ PAT Margin 
+PAT Margin is calculated as Restated Profit/(loss) after tax divided by Revenue from 
+operations 
+10.  Adjusted PAT 
+Adjusted PAT is calculated as Restated profit/(loss) for the period/year before 
+adjustment of exceptional items 
+11.  Adjusted PAT Margin 
+Adjusted PAT Margin is calculated as Adjusted PAT divided by Revenue from 
+operations 
+12.  Net Working Capital (in Days) 
+Net working capital days (overall) (based on days of revenue from operations) is 
+sum of Trade Receivable Days and Inventory Days as reduced by Trade Payable 
+Days; where Trade Receivables Days or Debtors days are calculated as 365 divided 
+by (Revenue from operations/ trade receivables), Inventory Days is calculated as 365 
+divided by (Revenue from operations / inventory) and Trade Payable Days is 
+calculated as 365 divided by (Revenue from operations / trade payables) 
+13.  Net Debt to EBITDA 
+Net Debt to EBITDA is calculated as Net Debt divided by EBITDA. Net Debt is 
+calculated as the sum of current borrowings and non-current borrowings, less 
+investments, cash and cash equivalents, other bank balances. 
+14.  Return on Equity 
+Return on Equity is calculated by dividing the Restated Profit/(loss) for the period 
+divided by the total equity 
+15.  Adjusted Return on Equity 
+Adjusted Return on Equity is calculated by dividing Adjusted PAT for the period 
+divided by the total equity 
+16.  Return on Capital Employed 
+Return on Capital Employed, also expressed as a percentage, is calculated by 
+dividing EBIT by Capital Employed. EBIT is the sum of restated profit before 
+exceptional items and tax, finance costs minus Other Income (excluding forex gain). 
+Capital Employed is calculated as sum of total equity, total borrowings, total lease 
+liabilities minus investments, cash and cash equivalents, other bank balances, 
+goodwill, other intangible assets, intangible assets under development 
+17.  Number of Sales team members 
+Number of sales team members as traced from our consolidated Employee register  
+18.  Revenue Split of Lab Solutions 
+business 
+– 
+Scientific 
+Lab 
+Solutions 
+and 
+Clinical 
+Diagnostics 
+Revenue Split of Lab Solutions Business as mentioned in Restated Consolidated 
+Financial Information split to Clinical Diagnostics and Scientific Lab Solutions 
+19.  Revenue Split of Cardiovascular 
+business – DES and Balloons and 
+Other cardiovascular products 
+Revenue Split of Cardiovascular Business as mentioned in Restated Consolidated 
+Financial Information split to DES and Balloons and Other Cardiovascular Products 
+20.  Revenue from operations breakup 
+by geography – India, Europe, 
+Asia (Ex-India) and ROW 
+Revenue Split by Geography is bifurcation of revenue from operations from India, 
+Europe and ROW (Rest of world) 
+21.  Manufacturing 
+capacity 
+and 
+utilization 
+Manufacturing capacity and utilization is calculated as actual capacity utilized 
+during the period divided by the annual/periodic available capacity during the period 
+ 
+ 
+
+=== PAGE 249 ===
+Increased investment in lab infrastructure: The Growing need to reduce operational costs and increase research 
+efficiency is driving increased demand for outsourcing lab services to specialized service providers. With many 
+pharmaceutical companies increasingly partnering with CROs for preclinical and clinical trials, there is a need for 
+CROs to invest in advanced technologies to enhance process efficiency. 
+Regulatory support and Government initiatives: With regulatory agencies across the globe requiring companies to 
+comply with stringent regulations, particularly for IVD devices, labs are responding by investing in high-quality 
+automated diagnostic systems to meet compliance standards. Government-backed funding initiatives in personalized 
+medicine are also driving the adoption of sequencing solutions and biomarker-based diagnostics. 
+Adoption of research-based tools in clinical settings: The increasing adoption of research-based tools in the clinical 
+setting is a transformative force that is fundamentally reshaping and driving the growth of the scientific lab solutions 
+market. This trend is moving clinical diagnostics from traditional, often manual, methods toward a new era of 
+precision, automation, and data-driven insights. For instance, NGS, once a tool exclusive to research labs for whole-
+genome sequencing, is now a cornerstone of clinical diagnostics, particularly in oncology and rare disease genetics. 
+The increased volume of complex tests is driving the demand for specialized reagents, test kits, and consumables 
+required for NGS, PCR, and other molecular diagnostics. 
+Competitive Landscape in the Scientific Lab Solutions Market 
+While global leaders dominate through their established networks and expansive portfolios, emerging players, 
+especially based out of the Asia-Pacific, are creating their own niche with cost-effective and high-throughput solutions. 
+The scientific lab solutions market is undergoing a significant transformation, driven by technological advancements 
+in proteomics, genomics, and cell-based analysis. On one hand, emerging companies are heading towards cost-
+effective solutions with a faster turnaround and increased accuracy. But on the other hand, there is a shift toward lab 
+automation and AI-driven analytics fueled by the increasing demand for precision medicine and decentralized 
+diagnostics. In the Asia-Pacific region, there is also a shift in the regulatory landscapes, which is expected to aid the 
+growth of the overall market and also some of the regional players. 
+Established players such as Thermo Fisher Scientific, Agilent Technologies, and Merck Group, with their vast global 
+network and product portfolio, continue to dominate the laboratory solutions market. Yet, there are several promising 
+players, particularly in the Asia-Pacific, who are rapidly expanding based on the growing demand for services such 
+as biomarker discovery, next-generation sequencing (NGS), high-throughput automation, etc. Integris Medtech is one 
+of the largest scientific lab solutions companies in Southeast Asia. 
+Competitive Landscape of select companies in Scientific Lab Solutions 
+Company 
+Headquarters 
+Operational Footprint 
+Scientific Lab Solutions Product Portfolio 
+Thermo Fisher 
+Scientific 
+Waltham, 
+Massachusetts, 
+USA 
+Global presence, network 
+across the Americas, Europe, 
+and Asia-Pacific 
+Mass spectrometry, Next-generation sequencing 
+platforms, Gene expression assays, Cell culture 
+solutions, Transfection reagents 
+Merck Group 
+(MilliporeSigma) 
+Darmstadt, 
+Germany 
+Global presence, network 
+across 70+ countries 
+Mass spectrometry reagents, protein assays, 
+CRISPR tools, DNA/RNA purification, Live-cell 
+imaging, Cell Assays, Chemical reagents 
+Agilent 
+Technologies 
+Santa Clara, 
+California, USA 
+Global presence, network 
+across the Americas, Europe, 
+and Asia-Pacific 
+Chromatography, protein microarrays, 
+Sequencing solutions, Flow cytometry, Imaging 
+systems, Lab automation 
+Danaher 
+Washington, D.C, 
+USA 
+Global presence in 50 
+different countries and 700 
+locations across the globe 
+Flow cytometry and lab Automation Solutions, 
+Protein consumables, Industrial Filtration, 
+Genomics, Molecular diagnostics, 
+Bioprocessing, Biopharma manufacturing 
+IQVIA 
+Durham, North 
+Carolina, USA 
+Global presence, network 
+across the Americas, Europe, 
+and Asia-Pacific 
+Biomarker discovery services, Spatial genomics, 
+Flow cytometry, Immunoassays 
+244
+
+=== PAGE 250 ===
+Competitive Landscape of select companies in Scientific Lab Solutions 
+Illumina 
+San Diego, 
+California, USA 
+Direct operations spanning 
+Americas, Europe, Asia-
+Pacific; multiple labs and 
+offices worldwide 
+NGS and multiomic platforms; advanced 
+biomarker discovery; high-throughput 
+RNA/protein sequencing; end-to-end automation 
+(library prep to analytics); proprietary data 
+analysis software 
+Qiagen 
+Hilden, Germany; 
+Venlo, Netherlands 
+Subsidiaries in 25+ 
+countries; partnerships in 
+60+ markets; regional HQs 
+in Germany, US, China, 
+Singapore 
+Integrated sample-to-insight workflows; 
+multimodal sequencing (DNA/RNA); automated 
+biomarker discovery; RNA/DNA quantification; 
+informatics and digital PCR technologies 
+PerkinElmer 
+Waltham, 
+Massachusetts, 
+USA 
+Active in 150+ countries; 
+offices in 35+ nations 
+Automated NGS library preparation; single-cell, 
+genomic, and exome biomarker platforms; 
+integrated analytics for high-throughput 
+sequencing workflows 
+Tecan Group 
+Männedorf, 
+Switzerland 
+Based out of Europe, strong 
+presence in North America 
+and Asia 
+Liquid handling for protein studies, Automation 
+for sequencing workflows, Cell imaging 
+systems, Lab automation 
+BGI Genomics 
+Shenzhen, China 
+Based out of China, 
+expanding in APAC, Europe, 
+and North America 
+Next-generation sequencing services, precision 
+medicine, and Bioinformatics 
+Shanghai Kehua 
+Bio-engineering 
+(KHB) 
+Shanghai, China 
+Dominant presence in China, 
+growing APAC footprint 
+ELISA kits, protein assays, Diagnostic kits, PCR 
+systems, Clinical diagnostics solutions 
+Integris Medtech 
+Delhi NCR, India 
+India, Europe, Latin 
+America, APAC 
+Cell biology, Antibodies, Genomics, Proteomics, 
+Chromatography, Consumables 
+Source: Company website. Note: Operational footprint is not limited to Scientific Lab Solutions. 
+INDUSTRY THREATS AND CHALLENGES FOR MEDTECH COMPANIES 
+The medical device industry, while experiencing continuous innovation and growth, faces a complex array of threats 
+and challenges that demand constant vigilance and strategic adaptation. These issues can impact everything from 
+product development and market entry to patient safety and financial viability. Below are some of the major threats 
+and challenges faced by medical device companies. 
+Regulatory Complexity: Medical devices are subject to stringent regulations globally, such as the EU MDR (Medical 
+Device Regulation) in Europe and FDA requirements in the US. Medical device companies must navigate a labyrinth 
+of regulations that vary by market and are frequently revised. 
+Interventional Product Portfolio international standards (such as ISO 13485:2016) and evolving requirements like the 
+EU Medical Device Regulation (MDR) and US FDA Quality System Regulation (QSR) make compliance increasingly 
+challenging. Regulatory uncertainty, especially in major markets like the US and EU, can delay product launches and 
+increase costs. 
+Quality Management and Product Recalls: Maintaining high product quality is essential, as failures can lead to 
+costly recalls, reputational damage, and even patient harm. Companies spend significant resources on quality 
+management systems (QMS) and post market surveillance to meet regulatory demands and minimize risks. The cost 
+of poor quality and recalls can be devastating, sometimes leading to operational shutdowns or bankruptcy. 
+Supply Chain Disruptions: The industry continues to grapple with supply chain challenges, including raw material 
+shortages, logistical delays, and geopolitical disruptions. Overreliance on specific suppliers or regions increases 
+vulnerability to shocks. Companies are now diversifying suppliers and production locations to build resilience. Excess 
+or misaligned inventory from risk mitigation efforts can cause financial strain. 
+245

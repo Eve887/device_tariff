@@ -1,0 +1,241 @@
+﻿hs6,group,description,year,us_months_covered,us_imports_world_usd,us_imports_from_india_usd,india_share_of_us_pct,top3_suppliers,india_exports_world_usd,india_exports_usa_usd,us_dependence_pct,mirror_gap_pct,india_effective_duty_pct,india_imports_world_usd,india_imports_usa_usd,india_imports_china_usd,flag
+300510,Dressings,Adhesive dressings,2022,12,904472636,1769937,0.2,China 32.6%; Mexico 13.0%; Japan 9.9%,9994234,1717891,17.2,3.0,0.0,23158328,6050575,1664985,
+300510,Dressings,Adhesive dressings,2023,12,891792479,1476896,0.2,China 29.5%; Mexico 15.9%; Finland 10.9%,10800562,1510708,14.0,-2.2,0.0,21570917,7289104,3350949,
+300510,Dressings,Adhesive dressings,2024,12,1022716807,218726,0.0,China 30.7%; Mexico 16.8%; Finland 7.5%,12245122,1530876,12.5,-85.7,0.0,22147123,5511556,2837487,SMALL MIRROR_GAP
+300510,Dressings,Adhesive dressings,2025,12,1018798147,150186,0.0,China 30.5%; Mexico 16.3%; Japan 9.9%,11296013,93045,0.8,61.4,28.1,26179252,7661920,4158897,SMALL MIRROR_GAP
+300510,Dressings,Adhesive dressings,2026,9,707560511,207920,0.0,China 32.3%; Mexico 16.5%; United Kingdom 8.5%,0,0,,,10.0,0,0,0,SMALL
+300590,Dressings,Other wadding gauze bandages,2022,12,894296337,8272105,0.9,China 51.9%; United Kingdom 13.4%; Mexico 6.7%,69787338,21671417,31.1,-61.8,0.0,24369749,6219426,3784771,MIRROR_GAP
+300590,Dressings,Other wadding gauze bandages,2023,12,787107132,10286376,1.3,China 44.2%; United Kingdom 13.7%; Mexico 8.0%,58708669,13628343,23.2,-24.5,0.0,23211345,7970838,4392550,
+300590,Dressings,Other wadding gauze bandages,2024,12,865623337,11303574,1.3,China 45.4%; United Kingdom 12.4%; Mexico 9.1%,83688073,40905369,48.9,-72.4,0.0,21468709,7345162,2684199,MIRROR_GAP
+300590,Dressings,Other wadding gauze bandages,2025,12,873562441,13839290,1.6,China 43.2%; United Kingdom 12.7%; Mexico 9.0%,65952873,19494630,29.6,-29.0,17.1,24704214,9502627,4418148,MIRROR_GAP
+300590,Dressings,Other wadding gauze bandages,2026,9,626071393,10405316,1.7,China 40.4%; United Kingdom 11.5%; Mexico 9.0%,0,0,,,17.0,0,0,0,
+300610,Sutures,Sterile surgical sutures and tissue adhesives,2022,12,697523411,467513,0.1,Switzerland 28.3%; Denmark 23.0%; Ireland 13.6%,38004655,876465,2.3,-46.7,0.0,15049972,8016601,763406,SMALL MIRROR_GAP
+300610,Sutures,Sterile surgical sutures and tissue adhesives,2023,12,609254206,1662088,0.3,Denmark 28.9%; Israel 14.4%; Ireland 14.4%,40978076,2271036,5.5,-26.8,0.0,15091505,7807100,230173,MIRROR_GAP
+300610,Sutures,Sterile surgical sutures and tissue adhesives,2024,12,628854084,1132519,0.2,Denmark 28.9%; Israel 17.9%; Ireland 15.4%,48955329,3631627,7.4,-68.8,0.0,15240936,7849876,25292,MIRROR_GAP
+300610,Sutures,Sterile surgical sutures and tissue adhesives,2025,12,695981244,1101409,0.2,Denmark 27.3%; Israel 21.0%; Ireland 14.8%,56276996,1780247,3.2,-38.1,15.7,20343873,9047646,94962,MIRROR_GAP
+300610,Sutures,Sterile surgical sutures and tissue adhesives,2026,9,532777478,345696,0.1,Israel 23.9%; Denmark 23.2%; Ireland 16.4%,0,0,,,17.9,0,0,0,SMALL
+300620,Diagnostics,Blood-grouping reagents,2022,12,0,0,,,0,0,,,,0,0,0,
+300620,Diagnostics,Blood-grouping reagents,2023,12,0,0,,,0,0,,,,0,0,0,
+300620,Diagnostics,Blood-grouping reagents,2024,12,0,0,,,0,0,,,,0,0,0,
+300620,Diagnostics,Blood-grouping reagents,2025,12,0,0,,,0,0,,,,0,0,0,
+300620,Diagnostics,Blood-grouping reagents,2026,9,0,0,,,0,0,,,,0,0,0,
+300630,Diagnostics,X-ray contrast preparations and diagnostic reagents for patients,2022,12,1043373865,0,0.0,Norway 34.5%; Germany 25.4%; Italy 15.4%,15538619,69836,0.4,-100.0,,61310116,71945,41735653,SMALL MIRROR_GAP
+300630,Diagnostics,X-ray contrast preparations and diagnostic reagents for patients,2023,12,1087271261,2284,0.0,Norway 30.8%; Germany 24.1%; Italy 15.1%,31007502,84347,0.3,-97.3,0.0,59584490,174,40223044,SMALL MIRROR_GAP
+300630,Diagnostics,X-ray contrast preparations and diagnostic reagents for patients,2024,12,1143668263,1332336,0.1,Norway 31.8%; Germany 24.6%; Italy 12.8%,38389192,108241,0.3,1130.9,0.0,80747899,41,57359586,MIRROR_GAP
+300630,Diagnostics,X-ray contrast preparations and diagnostic reagents for patients,2025,12,1201873772,4459247,0.4,Germany 30.4%; Norway 30.1%; Italy 15.3%,40880000,178031,0.4,2404.8,0.0,73089982,78,45421775,MIRROR_GAP
+300630,Diagnostics,X-ray contrast preparations and diagnostic reagents for patients,2026,9,1019393531,7275681,0.7,Germany 36.9%; Norway 31.1%; Italy 12.3%,0,0,,,0.0,0,0,0,
+300640,Dental,Dental cements and bone reconstruction cements,2022,12,441855354,237877,0.1,Germany 34.9%; Ireland 14.8%; Japan 9.8%,14490319,2563261,17.7,-90.7,0.0,42663794,3557555,1540128,SMALL MIRROR_GAP
+300640,Dental,Dental cements and bone reconstruction cements,2023,12,503694067,436833,0.1,Germany 35.8%; Ireland 12.8%; Japan 9.8%,14073584,2165683,15.4,-79.8,0.0,40300909,4348350,955397,SMALL MIRROR_GAP
+300640,Dental,Dental cements and bone reconstruction cements,2024,12,524451023,594443,0.1,Germany 35.7%; Japan 11.0%; Sweden 10.1%,16157854,2260321,14.0,-73.7,0.0,43996373,3902976,704675,SMALL MIRROR_GAP
+300640,Dental,Dental cements and bone reconstruction cements,2025,12,487048270,210376,0.0,Germany 38.1%; France 13.0%; Japan 10.8%,19585835,2495790,12.7,-91.6,16.6,44463119,5782694,518032,SMALL MIRROR_GAP
+300640,Dental,Dental cements and bone reconstruction cements,2026,9,307759008,148452,0.0,Germany 36.7%; France 14.6%; Japan 12.3%,0,0,,,16.3,0,0,0,SMALL
+300650,Dressings,First-aid boxes and kits,2022,12,61011122,13450,0.0,China 79.6%; Mexico 17.2%; Canada 0.7%,1120912,173792,15.5,-92.3,0.0,183614,1912,11110,SMALL MIRROR_GAP
+300650,Dressings,First-aid boxes and kits,2023,12,42614726,0,0.0,China 82.6%; Mexico 12.6%; Egypt 1.7%,1522459,849665,55.8,-100.0,,218806,33901,11063,SMALL MIRROR_GAP
+300650,Dressings,First-aid boxes and kits,2024,12,43158269,0,0.0,China 90.6%; Mexico 6.5%; Canada 0.9%,891181,151939,17.0,-100.0,,331593,176832,87352,SMALL MIRROR_GAP
+300650,Dressings,First-aid boxes and kits,2025,12,38063364,0,0.0,China 86.5%; Mexico 8.9%; Canada 1.4%,642884,758,0.1,-100.0,,331946,168071,150267,SMALL MIRROR_GAP
+300650,Dressings,First-aid boxes and kits,2026,9,28911870,5803,0.0,China 88.9%; Mexico 4.9%; Egypt 2.9%,0,0,,,0.0,0,0,0,SMALL
+300691,Consumables,Appliances for ostomy use,2022,12,166697761,546830,0.3,Dominican Republic 32.2%; Hungary 29.2%; Ireland 9.7%,2635674,553636,21.0,-1.2,0.0,8193075,3200,618913,SMALL
+300691,Consumables,Appliances for ostomy use,2023,12,185901288,410449,0.2,Dominican Republic 31.6%; Hungary 27.9%; Lithuania 9.2%,2716633,615275,22.6,-33.3,0.4,11697125,209955,1459437,SMALL MIRROR_GAP
+300691,Consumables,Appliances for ostomy use,2024,12,172857182,391025,0.2,Hungary 36.0%; Dominican Republic 24.2%; Lithuania 7.9%,2992760,543097,18.1,-28.0,0.0,14715579,114981,1626858,SMALL MIRROR_GAP
+300691,Consumables,Appliances for ostomy use,2025,12,191103138,327157,0.2,Hungary 34.7%; Dominican Republic 24.3%; United Kingdom 8.6%,1885041,567680,30.1,-42.4,0.0,11325224,283115,1182086,SMALL MIRROR_GAP
+300691,Consumables,Appliances for ostomy use,2026,9,132664677,214975,0.2,Hungary 36.0%; Dominican Republic 23.0%; Lithuania 10.8%,0,0,,,0.0,0,0,0,SMALL
+382211,Diagnostics,Diagnostic reagents for malaria,2022,12,859539,0,0.0,United Kingdom 44.8%; Belgium 13.6%; Japan 7.8%,45586933,703,0.0,-100.0,,2924375,57199,2299,SMALL MIRROR_GAP
+382211,Diagnostics,Diagnostic reagents for malaria,2023,12,692460,0,0.0,Japan 76.2%; Germany 7.6%; Denmark 4.9%,82653664,523,0.0,-100.0,,863656,864,628,SMALL MIRROR_GAP
+382211,Diagnostics,Diagnostic reagents for malaria,2024,12,872945,30500,3.5,Germany 70.4%; Australia 7.6%; United Kingdom 3.9%,71606948,994,0.0,2967.4,0.0,327470,1103,3191,SMALL MIRROR_GAP
+382211,Diagnostics,Diagnostic reagents for malaria,2025,12,638378,7060,1.1,Netherlands 26.5%; Switzerland 21.5%; Ireland 15.4%,67987509,4833,0.0,46.1,26.5,476316,401,55572,SMALL MIRROR_GAP
+382211,Diagnostics,Diagnostic reagents for malaria,2026,9,1364431,0,0.0,Switzerland 48.9%; Germany 25.0%; Netherlands 13.3%,0,0,,,,0,0,0,SMALL
+382212,Diagnostics,Diagnostic reagents for Zika and other mosquito-borne diseases,2022,12,53639356,13248,0.0,Belgium 33.2%; Austria 28.4%; France 8.5%,277493,1135,0.4,1067.1,0.0,7127275,0,392396,SMALL MIRROR_GAP
+382212,Diagnostics,Diagnostic reagents for Zika and other mosquito-borne diseases,2023,12,2535085,0,0.0,France 78.6%; United Kingdom 12.5%; Germany 6.9%,627327,61936,9.9,-100.0,,2342626,751,99420,SMALL MIRROR_GAP
+382212,Diagnostics,Diagnostic reagents for Zika and other mosquito-borne diseases,2024,12,499594,0,0.0,France 35.3%; Germany 30.3%; United Kingdom 13.8%,454572,1521,0.3,-100.0,,2992582,23531,254000,SMALL MIRROR_GAP
+382212,Diagnostics,Diagnostic reagents for Zika and other mosquito-borne diseases,2025,12,1099702,0,0.0,Canada 37.9%; United Kingdom 26.3%; Germany 17.5%,625726,0,0.0,,,1643585,28405,22481,SMALL
+382212,Diagnostics,Diagnostic reagents for Zika and other mosquito-borne diseases,2026,9,623323,0,0.0,Canada 50.6%; Germany 17.3%; Costa Rica 16.4%,0,0,,,,0,0,0,SMALL
+382213,Diagnostics,Diagnostic reagents for blood grouping,2022,12,53114326,0,0.0,Germany 31.7%; Spain 19.7%; United Kingdom 16.3%,1288514,83,0.0,-100.0,,6829080,761053,5803,SMALL MIRROR_GAP
+382213,Diagnostics,Diagnostic reagents for blood grouping,2023,12,53577818,382641,0.7,Germany 24.5%; Spain 20.3%; United Kingdom 18.4%,2825093,2518,0.1,15097.9,0.0,8120482,1354672,12,SMALL MIRROR_GAP
+382213,Diagnostics,Diagnostic reagents for blood grouping,2024,12,56041638,0,0.0,Germany 25.6%; United Kingdom 20.1%; Spain 19.6%,2917757,834,0.0,-100.0,,10325461,1618503,0,SMALL MIRROR_GAP
+382213,Diagnostics,Diagnostic reagents for blood grouping,2025,12,50409001,0,0.0,United Kingdom 38.2%; Germany 28.8%; France 10.5%,2755523,0,0.0,,,10310446,1618209,75003,SMALL
+382213,Diagnostics,Diagnostic reagents for blood grouping,2026,9,26387297,0,0.0,Germany 37.1%; United Kingdom 27.0%; France 14.1%,0,0,,,,0,0,0,SMALL
+382219,Diagnostics,Other diagnostic or laboratory reagents,2022,12,9027468731,28751377,0.3,China 35.3%; United Kingdom 10.3%; Germany 9.0%,20746368,603727,2.9,4662.3,0.0,342815348,92102470,19388774,MIRROR_GAP
+382219,Diagnostics,Other diagnostic or laboratory reagents,2023,12,5837745408,13827806,0.2,Germany 17.9%; United Kingdom 11.2%; China 9.7%,49983004,6074368,12.2,127.6,0.0,493723514,141868266,55443788,MIRROR_GAP
+382219,Diagnostics,Other diagnostic or laboratory reagents,2024,12,5879494239,14039742,0.2,Germany 18.9%; United Kingdom 12.3%; China 9.0%,52251588,1737363,3.3,708.1,0.0,596192846,156757158,67632859,MIRROR_GAP
+382219,Diagnostics,Other diagnostic or laboratory reagents,2025,12,5477287278,16910290,0.3,Germany 15.5%; United Kingdom 13.2%; Singapore 11.4%,60873817,3744738,6.2,351.6,11.7,708990076,184381290,88514378,MIRROR_GAP
+382219,Diagnostics,Other diagnostic or laboratory reagents,2026,9,3409041851,8579392,0.3,Germany 15.4%; Sweden 14.2%; United Kingdom 12.1%,0,0,,,13.0,0,0,0,
+382290,Diagnostics,Certified reference materials,2022,12,145532510,4783940,3.3,United Kingdom 51.1%; Germany 9.0%; China 5.5%,68906379,22207634,32.2,-78.5,0.0,223169676,91376464,11199615,MIRROR_GAP
+382290,Diagnostics,Certified reference materials,2023,12,357602936,8706909,2.4,United Kingdom 71.8%; Italy 5.9%; Germany 3.9%,86346989,17049373,19.7,-48.9,0.0,278324791,126043028,21369936,MIRROR_GAP
+382290,Diagnostics,Certified reference materials,2024,12,294406495,4894422,1.7,United Kingdom 46.0%; Italy 19.8%; Canada 8.7%,92966147,21096464,22.7,-76.8,0.0,265400939,114936059,27207584,MIRROR_GAP
+382290,Diagnostics,Certified reference materials,2025,12,156004788,5890206,3.8,Italy 21.9%; United Kingdom 16.0%; Canada 13.6%,110356536,27861418,25.2,-78.9,20.5,301062097,130846011,38968284,MIRROR_GAP
+382290,Diagnostics,Certified reference materials,2026,9,86785626,4181926,4.8,United Kingdom 18.3%; Canada 16.5%; Germany 9.8%,0,0,,,13.6,0,0,0,
+401512,Gloves,Medical surgical dental or veterinary gloves of rubber,2022,12,2550112405,4263727,0.2,Malaysia 52.3%; China 19.9%; Thailand 18.3%,77333375,3165512,4.1,34.7,0.1,46828627,402252,253257,MIRROR_GAP
+401512,Gloves,Medical surgical dental or veterinary gloves of rubber,2023,12,1598960627,2361882,0.1,Malaysia 44.4%; China 24.9%; Thailand 22.5%,64759734,2848485,4.4,-17.1,0.0,42004868,67592,452570,
+401512,Gloves,Medical surgical dental or veterinary gloves of rubber,2024,12,1935920475,2632013,0.1,Malaysia 47.3%; China 25.8%; Thailand 17.3%,54418551,3587517,6.6,-26.6,0.3,34482762,231715,1770036,MIRROR_GAP
+401512,Gloves,Medical surgical dental or veterinary gloves of rubber,2025,12,1943178606,3908807,0.2,Malaysia 64.5%; Thailand 19.0%; Indonesia 6.5%,62856773,3683995,5.9,6.1,13.7,57690655,1175612,1267336,
+401512,Gloves,Medical surgical dental or veterinary gloves of rubber,2026,9,1507468276,1158029,0.1,Malaysia 59.5%; Thailand 17.4%; Indonesia 11.9%,0,0,,,13.8,0,0,0,
+901811,Electro-diagnostic,Electro-cardiographs (ECG),2022,12,483756645,19819401,4.1,Singapore 41.8%; Canada 14.9%; Malaysia 10.1%,49572714,16154204,32.6,22.7,0.0,13343881,1716126,6545559,
+901811,Electro-diagnostic,Electro-cardiographs (ECG),2023,12,555847553,17762251,3.2,Singapore 45.6%; Canada 13.7%; Malaysia 8.6%,43511433,11270823,25.9,57.6,0.0,22259743,8301015,6936255,MIRROR_GAP
+901811,Electro-diagnostic,Electro-cardiographs (ECG),2024,12,432030619,19176240,4.4,Singapore 30.6%; Canada 18.5%; Malaysia 12.6%,51311524,15350153,29.9,24.9,0.0,24196861,9296574,6986368,
+901811,Electro-diagnostic,Electro-cardiographs (ECG),2025,12,360286034,16884483,4.7,Canada 25.6%; Singapore 17.0%; Switzerland 11.6%,51135948,10992942,21.5,53.6,16.8,25957961,11354215,7526139,MIRROR_GAP
+901811,Electro-diagnostic,Electro-cardiographs (ECG),2026,9,242311035,2860334,1.2,Canada 33.8%; Switzerland 12.7%; Singapore 11.4%,0,0,,,16.3,0,0,0,
+901812,Imaging,Ultrasonic scanning apparatus,2022,12,362267136,569687,0.2,"Korea, South 23.9%; China 21.2%; Japan 14.0%",43140816,9888909,22.9,-94.2,0.0,246034656,22624453,64824825,SMALL MIRROR_GAP
+901812,Imaging,Ultrasonic scanning apparatus,2023,12,324531194,29894,0.0,"China 26.7%; Japan 17.6%; Korea, South 12.4%",37982802,10246147,27.0,-99.7,0.0,222184390,25776009,89845502,SMALL MIRROR_GAP
+901812,Imaging,Ultrasonic scanning apparatus,2024,12,337212617,65383,0.0,"China 31.8%; Korea, South 15.5%; Japan 13.2%",38053327,10393940,27.3,-99.4,0.0,226807429,28873579,92993211,SMALL MIRROR_GAP
+901812,Imaging,Ultrasonic scanning apparatus,2025,12,361367821,155789,0.0,"China 30.1%; Korea, South 14.7%; Japan 14.2%",39280256,11267419,28.7,-98.6,19.5,260086872,31502978,96424005,SMALL MIRROR_GAP
+901812,Imaging,Ultrasonic scanning apparatus,2026,9,246460524,67238,0.0,"China 20.2%; Korea, South 18.5%; Japan 13.3%",0,0,,,11.5,0,0,0,SMALL
+901813,Imaging,Magnetic resonance imaging (MRI) apparatus,2022,12,661452406,188709,0.0,Germany 81.3%; Netherlands 7.5%; Japan 6.0%,102267185,18155600,17.8,-99.0,0.0,281593549,92345011,76160882,SMALL MIRROR_GAP
+901813,Imaging,Magnetic resonance imaging (MRI) apparatus,2023,12,590726635,1119384,0.2,Germany 80.4%; Netherlands 7.7%; Japan 6.7%,141480676,24612240,17.4,-95.5,0.0,311533626,107856222,106168631,MIRROR_GAP
+901813,Imaging,Magnetic resonance imaging (MRI) apparatus,2024,12,706438610,1060425,0.2,Germany 79.2%; Netherlands 9.5%; Japan 5.8%,158745663,31383439,19.8,-96.6,0.0,315981198,111403055,115643738,MIRROR_GAP
+901813,Imaging,Magnetic resonance imaging (MRI) apparatus,2025,12,690501885,1386304,0.2,Germany 83.6%; Netherlands 6.4%; Japan 5.6%,149031342,34645620,23.2,-96.0,11.6,311114184,93290738,111823947,MIRROR_GAP
+901813,Imaging,Magnetic resonance imaging (MRI) apparatus,2026,9,467697324,274656,0.1,Germany 86.4%; United Kingdom 4.8%; Japan 4.2%,0,0,,,14.9,0,0,0,SMALL
+901814,Imaging,Scintigraphic apparatus,2022,12,34647448,511374,1.5,Israel 59.5%; Japan 23.3%; Germany 3.6%,770512,71468,9.3,615.5,0.0,10421853,4624417,148318,SMALL MIRROR_GAP
+901814,Imaging,Scintigraphic apparatus,2023,12,57890648,402107,0.7,Israel 76.4%; Japan 18.7%; Germany 1.3%,804660,7731,1.0,5101.2,0.0,15832535,8717512,446570,SMALL MIRROR_GAP
+901814,Imaging,Scintigraphic apparatus,2024,12,64226527,617761,1.0,Israel 76.3%; Japan 16.9%; Germany 2.8%,499695,99071,19.8,523.6,0.0,21199023,9994287,928292,SMALL MIRROR_GAP
+901814,Imaging,Scintigraphic apparatus,2025,12,58770066,1165971,2.0,Israel 62.4%; Japan 21.5%; China 5.0%,4679655,3371164,72.0,-65.4,9.8,13863416,2094531,7168161,MIRROR_GAP
+901814,Imaging,Scintigraphic apparatus,2026,9,28509826,1590435,5.6,Israel 71.0%; Japan 10.5%; India 5.6%,0,0,,,15.3,0,0,0,
+901819,Electro-diagnostic,Other electro-diagnostic apparatus incl. patient monitors,2022,12,4977674073,118783055,2.4,Japan 18.7%; Mexico 16.9%; Germany 16.3%,96645855,70783452,73.2,67.8,0.0,96027607,11708428,20745358,MIRROR_GAP
+901819,Electro-diagnostic,Other electro-diagnostic apparatus incl. patient monitors,2023,12,5099035805,128736087,2.5,Mexico 17.9%; Germany 16.7%; Japan 12.8%,97931922,79631198,81.3,61.7,0.0,78373346,14109253,20990643,MIRROR_GAP
+901819,Electro-diagnostic,Other electro-diagnostic apparatus incl. patient monitors,2024,12,5924600913,134983277,2.3,Germany 18.9%; Mexico 13.6%; Costa Rica 11.4%,65792282,50298296,76.5,168.4,0.0,83024887,16340241,19735161,MIRROR_GAP
+901819,Electro-diagnostic,Other electro-diagnostic apparatus incl. patient monitors,2025,12,6206735607,136430519,2.2,Germany 16.7%; Mexico 12.8%; Costa Rica 12.2%,71739904,52383263,73.0,160.4,20.7,102090721,20024387,30211204,MIRROR_GAP
+901819,Electro-diagnostic,Other electro-diagnostic apparatus incl. patient monitors,2026,9,4277322316,84321069,2.0,Mexico 15.8%; Germany 14.2%; Japan 11.8%,0,0,,,16.1,0,0,0,
+901820,Electro-diagnostic,Ultraviolet or infrared ray apparatus,2022,12,140482307,739100,0.5,Italy 27.9%; Slovenia 15.5%; Dominican Republic 12.0%,1611693,546790,33.9,35.2,0.0,1269167,808491,79305,SMALL MIRROR_GAP
+901820,Electro-diagnostic,Ultraviolet or infrared ray apparatus,2023,12,164315891,640462,0.4,Mexico 22.2%; Italy 21.4%; Slovenia 12.2%,1534796,582109,37.9,10.0,0.0,1260365,576796,136664,SMALL
+901820,Electro-diagnostic,Ultraviolet or infrared ray apparatus,2024,12,213006479,364621,0.2,Mexico 40.0%; Italy 18.1%; Slovenia 12.3%,842875,512232,60.8,-28.8,0.0,1774314,973365,24294,SMALL MIRROR_GAP
+901820,Electro-diagnostic,Ultraviolet or infrared ray apparatus,2025,12,155024201,846919,0.5,Mexico 29.6%; Italy 21.5%; Slovenia 15.4%,1167155,669690,57.4,26.5,27.5,2905338,463924,1088629,SMALL MIRROR_GAP
+901820,Electro-diagnostic,Ultraviolet or infrared ray apparatus,2026,9,128853071,180654,0.1,Italy 25.9%; Mexico 23.3%; Germany 15.3%,0,0,,,15.5,0,0,0,SMALL
+901831,Consumables,Syringes,2022,12,1047845946,1266129,0.1,Taiwan 18.3%; China 18.3%; Mexico 16.3%,59845304,1034299,1.7,22.4,0.0,103273249,11255401,13827511,
+901831,Consumables,Syringes,2023,12,1129537207,769058,0.1,Mexico 20.6%; Taiwan 16.2%; China 13.9%,52785106,435535,0.8,76.6,0.0,93086903,22785382,8397920,SMALL MIRROR_GAP
+901831,Consumables,Syringes,2024,12,1281974673,881097,0.1,Mexico 23.2%; Taiwan 14.9%; China 12.4%,59819999,529637,0.9,66.4,0.0,146162585,32607558,8061004,SMALL MIRROR_GAP
+901831,Consumables,Syringes,2025,12,1506654404,14090000,0.9,Mexico 22.8%; Taiwan 16.0%; Italy 14.3%,71175193,14135876,19.9,-0.3,26.8,166730490,29210631,5716955,
+901831,Consumables,Syringes,2026,9,1205042806,3522134,0.3,Mexico 26.0%; Italy 14.1%; Taiwan 13.8%,0,0,,,25.0,0,0,0,
+901832,Consumables,Tubular metal needles and suture needles,2022,12,989919489,3499655,0.4,Ireland 41.0%; Mexico 13.6%; Japan 6.3%,33332457,4193308,12.6,-16.5,0.0,69467159,8757776,11958907,
+901832,Consumables,Tubular metal needles and suture needles,2023,12,866995851,4827739,0.6,Ireland 39.9%; Mexico 13.9%; Japan 7.0%,84007309,5749702,6.8,-16.0,0.0,107890538,10239157,5645952,
+901832,Consumables,Tubular metal needles and suture needles,2024,12,843418731,3538099,0.4,Ireland 39.2%; Mexico 12.0%; Japan 9.1%,51011906,5707191,11.2,-38.0,0.0,86002559,14359731,10497305,MIRROR_GAP
+901832,Consumables,Tubular metal needles and suture needles,2025,12,707316552,3039741,0.4,Mexico 17.5%; Ireland 14.0%; Japan 12.2%,41169649,3615216,8.8,-15.9,19.9,75284088,10694396,6746104,
+901832,Consumables,Tubular metal needles and suture needles,2026,9,517433166,2012881,0.4,Mexico 23.1%; Japan 11.7%; Singapore 11.0%,0,0,,,15.0,0,0,0,
+901839,Consumables,Catheters cannulas and the like,2022,12,7231338112,41615931,0.6,Mexico 37.4%; Costa Rica 13.7%; Ireland 13.0%,414168457,45099577,10.9,-7.7,0.0,298142660,57208806,27232036,
+901839,Consumables,Catheters cannulas and the like,2023,12,7465876078,40706602,0.5,Mexico 39.6%; Costa Rica 13.5%; Ireland 13.3%,434532356,39838523,9.2,2.2,0.0,317405841,76038386,25808568,
+901839,Consumables,Catheters cannulas and the like,2024,12,8787763327,43423851,0.5,Mexico 40.2%; Costa Rica 14.0%; Ireland 12.4%,482416893,49146203,10.2,-11.6,0.0,357764470,75192449,28825687,
+901839,Consumables,Catheters cannulas and the like,2025,12,10262600205,51239879,0.5,Mexico 35.4%; Costa Rica 22.8%; Ireland 11.1%,525883055,54774021,10.4,-6.5,11.1,392216533,87384334,33316314,
+901839,Consumables,Catheters cannulas and the like,2026,9,7773720760,26420492,0.3,Mexico 34.6%; Costa Rica 23.2%; Ireland 11.7%,0,0,,,8.3,0,0,0,
+901841,Dental,Dental drill engines,2022,12,91281349,2854,0.0,Japan 31.1%; Switzerland 26.4%; Germany 19.2%,54326,11908,21.9,-76.0,0.0,1218168,52202,46447,SMALL MIRROR_GAP
+901841,Dental,Dental drill engines,2023,12,85119477,0,0.0,Japan 30.2%; Switzerland 25.1%; Germany 21.7%,52834,537,1.0,-100.0,,2384207,266320,62152,SMALL MIRROR_GAP
+901841,Dental,Dental drill engines,2024,12,90045133,0,0.0,Switzerland 29.5%; Japan 27.1%; Germany 17.9%,4389,0,0.0,,,2416273,10985,9509,SMALL
+901841,Dental,Dental drill engines,2025,12,75378747,0,0.0,Switzerland 29.4%; Japan 23.2%; Germany 17.6%,41795,355,0.9,-100.0,,1306625,9164,68050,SMALL MIRROR_GAP
+901841,Dental,Dental drill engines,2026,9,47285345,0,0.0,Switzerland 26.3%; Germany 20.8%; Portugal 12.1%,0,0,,,,0,0,0,SMALL
+901849,Dental,Other dental instruments,2022,12,1155495324,3063985,0.3,Germany 27.5%; China 10.3%; Switzerland 9.7%,15950671,1608571,10.1,90.5,0.0,95434366,6335637,26372176,MIRROR_GAP
+901849,Dental,Other dental instruments,2023,12,1129032727,1346404,0.1,Germany 32.1%; Switzerland 9.3%; Israel 8.9%,16094124,1301784,8.1,3.4,0.0,93087604,4845994,32190620,
+901849,Dental,Other dental instruments,2024,12,1230129463,1622967,0.1,Germany 27.0%; Israel 14.4%; Poland 9.7%,15367080,1856271,12.1,-12.6,0.0,98813704,5402287,31215479,
+901849,Dental,Other dental instruments,2025,12,908612037,1579992,0.2,Germany 29.2%; China 12.0%; Switzerland 11.1%,19420047,1821051,9.4,-13.2,11.6,105389716,5050555,37092584,
+901849,Dental,Other dental instruments,2026,9,581841884,1028583,0.2,Germany 26.8%; China 14.4%; Switzerland 11.1%,0,0,,,17.3,0,0,0,
+901850,Ophthalmic,Other ophthalmic instruments,2022,12,593318501,6209065,1.0,Germany 18.4%; Singapore 10.7%; Mexico 10.3%,30958112,4182702,13.5,48.4,0.0,184178182,46544441,16985468,MIRROR_GAP
+901850,Ophthalmic,Other ophthalmic instruments,2023,12,620661622,6935463,1.1,Germany 16.2%; Mexico 13.1%; Japan 10.6%,32043823,3797138,11.8,82.6,0.0,226563859,72483896,14342682,MIRROR_GAP
+901850,Ophthalmic,Other ophthalmic instruments,2024,12,597799334,8002944,1.3,Germany 17.8%; Mexico 12.9%; Japan 10.7%,33568053,5263702,15.7,52.0,0.0,210074712,70876456,12111622,MIRROR_GAP
+901850,Ophthalmic,Other ophthalmic instruments,2025,12,625151716,14901913,2.4,Germany 19.4%; Mexico 11.6%; Japan 9.5%,46053073,14195744,30.8,5.0,22.3,252168475,89107023,14072455,
+901850,Ophthalmic,Other ophthalmic instruments,2026,9,430137516,10198014,2.4,Germany 18.3%; Switzerland 11.2%; Singapore 10.7%,0,0,,,15.6,0,0,0,
+901890,Instruments,Other medical and surgical instruments,2022,12,16609545807,84232899,0.5,Mexico 32.5%; Germany 10.2%; Costa Rica 9.0%,383752234,112701242,29.4,-25.3,0.0,915043914,208474174,174452418,MIRROR_GAP
+901890,Instruments,Other medical and surgical instruments,2023,12,19197733199,84055947,0.4,Mexico 37.9%; Costa Rica 9.7%; Germany 9.6%,445377421,109048140,24.5,-22.9,0.0,1024496895,242551954,198318055,
+901890,Instruments,Other medical and surgical instruments,2024,12,20358330127,87191880,0.4,Mexico 34.5%; Costa Rica 11.1%; Germany 9.9%,459874348,111785089,24.3,-22.0,0.0,1101331238,292754725,202699771,
+901890,Instruments,Other medical and surgical instruments,2025,12,22032535717,80534630,0.4,Mexico 35.6%; Costa Rica 10.8%; Germany 10.1%,504507938,131915637,26.1,-38.9,16.4,1303409364,387741562,268585217,MIRROR_GAP
+901890,Instruments,Other medical and surgical instruments,2026,9,15523825848,46603179,0.3,Mexico 34.9%; Germany 11.4%; Costa Rica 11.3%,0,0,,,15.2,0,0,0,
+901910,Therapy,Mechano-therapy and massage apparatus,2022,12,2630469140,287921,0.0,China 62.6%; Mexico 16.0%; Canada 5.7%,4290759,306271,7.1,-6.0,0.0,60261008,1909839,33971918,SMALL
+901910,Therapy,Mechano-therapy and massage apparatus,2023,12,2106812556,629171,0.0,China 58.7%; Mexico 18.2%; Canada 4.5%,4405571,418306,9.5,50.4,0.0,64540063,1145461,40601733,SMALL MIRROR_GAP
+901910,Therapy,Mechano-therapy and massage apparatus,2024,12,2310241663,868315,0.0,"China 58.6%; Mexico 20.1%; Korea, South 4.7%",5671028,1154019,20.3,-24.8,0.0,75057135,1301678,48996906,SMALL
+901910,Therapy,Mechano-therapy and massage apparatus,2025,12,1873530830,708980,0.0,China 46.5%; Mexico 26.2%; Canada 5.3%,7501668,2260365,30.1,-68.6,14.0,95855036,1305919,61531937,SMALL MIRROR_GAP
+901910,Therapy,Mechano-therapy and massage apparatus,2026,9,1376733695,930733,0.1,China 42.2%; Mexico 30.1%; Canada 5.5%,0,0,,,11.3,0,0,0,SMALL
+901920,Respiratory,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,2022,12,3460639071,4316804,0.1,Singapore 28.3%; China 21.6%; Mexico 13.0%,17233577,3903111,22.6,10.6,0.0,199262412,25891830,39338418,
+901920,Respiratory,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,2023,12,3562398489,10876313,0.3,Singapore 33.3%; China 16.8%; Australia 14.8%,21050865,1929713,9.2,463.6,0.0,183436310,21391456,38751075,MIRROR_GAP
+901920,Respiratory,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,2024,12,4040166647,10087718,0.2,Singapore 36.8%; China 16.3%; Mexico 13.0%,19490055,6319852,32.4,59.6,0.0,192963732,12413994,46934374,MIRROR_GAP
+901920,Respiratory,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,2025,12,4582991705,5334198,0.1,Singapore 38.5%; China 16.3%; Mexico 12.3%,22464044,6272798,27.9,-15.0,10.9,235375348,15090963,54775080,
+901920,Respiratory,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,2026,9,3357182131,4070237,0.1,Singapore 38.8%; China 15.9%; Mexico 13.2%,0,0,,,5.8,0,0,0,
+902000,Respiratory,Other breathing appliances and gas masks,2022,12,216035926,72796,0.0,France 25.4%; United Kingdom 15.0%; Germany 12.7%,3319518,139531,4.2,-47.8,0.5,14801940,3606170,1977698,SMALL MIRROR_GAP
+902000,Respiratory,Other breathing appliances and gas masks,2023,12,210971849,99210,0.0,France 26.1%; Germany 15.9%; Mexico 13.2%,5532036,186349,3.4,-46.8,1.5,18684583,6037258,2514869,SMALL MIRROR_GAP
+902000,Respiratory,Other breathing appliances and gas masks,2024,12,239691384,65230,0.0,France 25.3%; United Kingdom 13.5%; Germany 13.4%,5893365,392424,6.7,-83.4,0.4,22340444,8251487,2219864,SMALL MIRROR_GAP
+902000,Respiratory,Other breathing appliances and gas masks,2025,12,262915823,808680,0.3,France 22.2%; United Kingdom 18.3%; Mexico 14.9%,6393566,984092,15.4,-17.8,0.7,22073292,6792091,3088904,SMALL
+902000,Respiratory,Other breathing appliances and gas masks,2026,9,211784046,410272,0.2,France 20.9%; United Kingdom 15.4%; Mexico 14.5%,0,0,,,0.8,0,0,0,SMALL
+902110,Implants,Orthopaedic or fracture appliances,2022,12,2993609589,1870889,0.1,Mexico 26.3%; Switzerland 22.9%; China 14.2%,70408164,2938372,4.2,-36.3,0.0,31702121,10958950,6478593,MIRROR_GAP
+902110,Implants,Orthopaedic or fracture appliances,2023,12,2849325659,1862392,0.1,Mexico 30.1%; Switzerland 21.4%; Germany 13.8%,77297837,2399335,3.1,-22.4,0.0,34532445,10830741,6543961,
+902110,Implants,Orthopaedic or fracture appliances,2024,12,3010974582,2006706,0.1,Switzerland 24.5%; Mexico 23.4%; Germany 15.8%,83154932,2741701,3.3,-26.8,0.0,49940742,11716289,9147187,MIRROR_GAP
+902110,Implants,Orthopaedic or fracture appliances,2025,12,2862561938,2949153,0.1,Switzerland 25.7%; Mexico 19.8%; Germany 15.9%,100268403,4192490,4.2,-29.7,18.2,68270186,13632229,13574935,MIRROR_GAP
+902110,Implants,Orthopaedic or fracture appliances,2026,9,1945242118,2971973,0.2,Switzerland 21.4%; Mexico 18.4%; Germany 16.9%,0,0,,,13.5,0,0,0,
+902121,Dental,Artificial teeth,2022,12,287715763,9776853,3.4,Spain 31.1%; China 22.5%; Vietnam 11.8%,13049180,9634085,73.8,1.5,0.0,1310918,142991,168955,
+902121,Dental,Artificial teeth,2023,12,300009678,7995819,2.7,Spain 23.3%; China 21.4%; Sweden 13.4%,12336278,8180046,66.3,-2.3,0.0,775972,304810,89605,
+902121,Dental,Artificial teeth,2024,12,338493578,10707951,3.2,Sweden 30.9%; China 18.4%; Spain 18.1%,15672563,10881178,69.4,-1.6,0.0,930459,231423,293860,
+902121,Dental,Artificial teeth,2025,12,258880697,8510451,3.3,Sweden 36.9%; Spain 16.2%; China 11.8%,13033724,7740881,59.4,9.9,14.8,1118595,357116,233915,
+902121,Dental,Artificial teeth,2026,9,181276476,5028422,2.8,Sweden 23.4%; Brazil 23.3%; Spain 13.0%,0,0,,,16.1,0,0,0,
+902129,Dental,Other dental fittings,2022,12,423780264,2111929,0.5,Switzerland 28.3%; Brazil 24.7%; Sweden 24.6%,4556526,1545249,33.9,36.7,0.0,42728946,8297473,3006969,MIRROR_GAP
+902129,Dental,Other dental fittings,2023,12,378927732,3971458,1.0,Switzerland 30.5%; Brazil 24.2%; Sweden 17.7%,6937666,3339057,48.1,18.9,0.0,50516354,9949146,4730056,
+902129,Dental,Other dental fittings,2024,12,333487906,2509414,0.8,"Switzerland 34.6%; Brazil 32.8%; Korea, South 9.7%",5695231,2317699,40.7,8.3,0.0,58403256,12783285,4837868,
+902129,Dental,Other dental fittings,2025,12,311980617,394526,0.1,"Brazil 35.0%; Switzerland 32.1%; Korea, South 9.0%",7924399,715093,9.0,-44.8,19.8,56325788,14542403,2366360,SMALL MIRROR_GAP
+902129,Dental,Other dental fittings,2026,9,96722302,417998,0.4,"Switzerland 21.0%; Korea, South 20.2%; Brazil 12.4%",0,0,,,15.0,0,0,0,SMALL
+902131,Implants,Artificial joints,2022,12,2762516129,17826663,0.6,Ireland 50.2%; Germany 13.0%; France 12.0%,45373297,18393685,40.5,-3.1,0.0,166364332,37703474,748511,
+902131,Implants,Artificial joints,2023,12,3042383861,29662607,1.0,Ireland 50.3%; Switzerland 11.8%; Germany 11.3%,68364610,27486636,40.2,7.9,0.0,172308221,126045273,3813304,
+902131,Implants,Artificial joints,2024,12,3489895221,29703148,0.9,Ireland 52.0%; Germany 14.4%; Switzerland 8.7%,95632664,28692790,30.0,3.5,0.0,218225322,131428682,11245744,
+902131,Implants,Artificial joints,2025,12,3586780486,21920729,0.6,Ireland 51.5%; Germany 15.2%; France 11.2%,93499098,21450342,22.9,2.2,7.2,205540074,131499910,14016949,
+902131,Implants,Artificial joints,2026,9,2821825684,20628791,0.7,Ireland 53.0%; Germany 13.7%; France 12.2%,0,0,,,3.8,0,0,0,
+902139,Implants,Other artificial parts of the body,2022,12,4312282447,2417933,0.1,Ireland 62.9%; Costa Rica 13.3%; Singapore 6.9%,82763033,2577649,3.1,-6.2,0.0,201793105,32002202,2820306,
+902139,Implants,Other artificial parts of the body,2023,12,4809855995,2199442,0.0,Ireland 52.4%; Costa Rica 15.9%; Singapore 13.4%,114097480,4040394,3.5,-45.6,0.0,248040190,94904941,3401038,MIRROR_GAP
+902139,Implants,Other artificial parts of the body,2024,12,5074445367,1816161,0.0,Ireland 40.4%; Singapore 21.5%; Costa Rica 17.0%,153112718,4022443,2.6,-54.8,0.0,232473773,59015465,3795163,MIRROR_GAP
+902139,Implants,Other artificial parts of the body,2025,12,5255051590,1383856,0.0,Ireland 48.6%; Singapore 17.3%; Costa Rica 14.8%,192009721,1977020,1.0,-30.0,19.0,268851065,82471010,4118089,MIRROR_GAP
+902139,Implants,Other artificial parts of the body,2026,9,3947499466,843970,0.0,Ireland 53.4%; Costa Rica 19.6%; Singapore 11.6%,0,0,,,14.5,0,0,0,SMALL
+902140,Hearing,Hearing aids,2022,12,2013388100,25082,0.0,Poland 22.5%; Vietnam 18.5%; Mexico 14.4%,3476722,391676,11.3,-93.6,0.0,76514193,9616010,8974530,SMALL MIRROR_GAP
+902140,Hearing,Hearing aids,2023,12,2547466357,21990,0.0,Poland 26.6%; Mexico 15.4%; Vietnam 13.3%,19893697,591984,3.0,-96.3,0.0,97832838,9030338,24288473,SMALL MIRROR_GAP
+902140,Hearing,Hearing aids,2024,12,2685014738,9168,0.0,Denmark 30.1%; Poland 16.8%; Mexico 12.9%,8933222,314925,3.5,-97.1,0.0,84056060,6491126,10479440,SMALL MIRROR_GAP
+902140,Hearing,Hearing aids,2025,12,3016672041,35392,0.0,Denmark 49.4%; Vietnam 12.7%; Mexico 9.9%,13634792,388291,2.8,-90.9,1.0,70791068,3017205,7667842,SMALL MIRROR_GAP
+902140,Hearing,Hearing aids,2026,9,2371826719,68174,0.0,Denmark 45.6%; Mexico 13.7%; Vietnam 13.7%,0,0,,,0.0,0,0,0,SMALL
+902150,Implants,Pacemakers,2022,12,1985200804,2320,0.0,Ireland 43.5%; Switzerland 32.0%; Singapore 12.5%,1630379,55894,3.4,-95.8,0.0,44078447,321000,111063,SMALL MIRROR_GAP
+902150,Implants,Pacemakers,2023,12,1952036516,0,0.0,Ireland 46.0%; Switzerland 32.6%; Singapore 14.0%,915932,60686,6.6,-100.0,,53071747,2615849,67491,SMALL MIRROR_GAP
+902150,Implants,Pacemakers,2024,12,1876645311,14800,0.0,Ireland 46.5%; Switzerland 29.6%; Singapore 14.9%,460672,48046,10.4,-69.2,0.0,56755008,2952326,0,SMALL MIRROR_GAP
+902150,Implants,Pacemakers,2025,12,1866757537,7200,0.0,Ireland 43.6%; Switzerland 35.8%; Singapore 13.6%,291775,95684,32.8,-92.5,10.0,66637079,4033507,142058,SMALL MIRROR_GAP
+902150,Implants,Pacemakers,2026,9,1441721866,0,0.0,Ireland 40.0%; Switzerland 38.5%; Singapore 16.1%,0,0,,,,0,0,0,SMALL
+902190,Implants,Other appliances implanted or worn incl. stents,2022,12,1862242354,229047,0.0,Ireland 18.3%; China 15.4%; Mexico 11.1%,38267402,554462,1.4,-58.7,0.0,188142931,16518929,15084207,SMALL MIRROR_GAP
+902190,Implants,Other appliances implanted or worn incl. stents,2023,12,2081869525,209638,0.0,Ireland 22.3%; China 16.6%; Costa Rica 13.7%,64268694,788427,1.2,-73.4,0.0,244704632,34609594,24715835,SMALL MIRROR_GAP
+902190,Implants,Other appliances implanted or worn incl. stents,2024,12,1955493218,163515,0.0,Ireland 23.9%; Mexico 13.6%; China 11.5%,59153777,466729,0.8,-65.0,0.0,267027075,33719722,27688729,SMALL MIRROR_GAP
+902190,Implants,Other appliances implanted or worn incl. stents,2025,12,2051659155,1471548,0.1,Ireland 19.1%; Mexico 13.0%; Costa Rica 10.8%,68352603,1116617,1.6,31.8,7.3,268099155,43391446,15944056,MIRROR_GAP
+902190,Implants,Other appliances implanted or worn incl. stents,2026,9,1389228636,1089615,0.1,Ireland 18.0%; Malaysia 15.4%; Mexico 11.8%,0,0,,,6.2,0,0,0,
+902212,Imaging,Computed tomography (CT) apparatus,2022,12,805258541,3877494,0.5,Germany 65.1%; Israel 11.8%; Japan 11.5%,3246051,463651,14.3,736.3,0.0,140292925,34463266,47017766,MIRROR_GAP
+902212,Imaging,Computed tomography (CT) apparatus,2023,12,769208923,3541386,0.5,Germany 68.0%; Japan 11.7%; Israel 9.8%,4267115,830888,19.5,326.2,0.0,120292730,33778191,49741205,MIRROR_GAP
+902212,Imaging,Computed tomography (CT) apparatus,2024,12,884984587,2437679,0.3,Germany 72.4%; Japan 10.9%; Israel 7.1%,13700291,2176528,15.9,12.0,0.0,169670563,48209040,50138096,
+902212,Imaging,Computed tomography (CT) apparatus,2025,12,951457696,3655217,0.4,Germany 76.0%; Japan 8.8%; Israel 7.5%,26267556,3939440,15.0,-7.2,25.9,174511688,36541677,54477574,
+902212,Imaging,Computed tomography (CT) apparatus,2026,9,596361895,3469917,0.6,Germany 80.7%; Israel 6.5%; Japan 5.7%,0,0,,,14.8,0,0,0,
+902213,Imaging,Dental X-ray apparatus,2022,12,263680383,351915,0.1,"Finland 43.6%; Korea, South 28.9%; Germany 18.8%",851494,548003,64.4,-35.8,0.0,17531567,87089,211682,SMALL MIRROR_GAP
+902213,Imaging,Dental X-ray apparatus,2023,12,204050576,225240,0.1,"Finland 50.6%; Korea, South 35.1%; Germany 5.2%",1116755,249814,22.4,-9.8,0.0,17237614,901789,607611,SMALL
+902213,Imaging,Dental X-ray apparatus,2024,12,150933738,211280,0.1,"Finland 45.6%; Korea, South 41.2%; Japan 4.8%",810483,282240,34.8,-25.1,0.0,15046939,47408,887662,SMALL MIRROR_GAP
+902213,Imaging,Dental X-ray apparatus,2025,12,136886820,160364,0.1,"Korea, South 45.8%; Finland 33.0%; Japan 8.2%",954680,97743,10.2,64.1,25.3,16958028,146046,1601876,SMALL MIRROR_GAP
+902213,Imaging,Dental X-ray apparatus,2026,9,108050398,80399,0.1,"Korea, South 41.5%; Finland 34.8%; Germany 12.4%",0,0,,,11.1,0,0,0,SMALL
+902214,Imaging,Other medical X-ray apparatus,2022,12,1342595062,28983628,2.2,Germany 35.8%; Netherlands 29.8%; Mexico 8.6%,77363247,16303662,21.1,77.8,0.0,182211548,20130837,34558628,MIRROR_GAP
+902214,Imaging,Other medical X-ray apparatus,2023,12,1216131337,16139615,1.3,Germany 33.5%; Netherlands 32.3%; Mexico 12.7%,70369807,12006482,17.1,34.4,0.0,255035969,48957410,46173988,MIRROR_GAP
+902214,Imaging,Other medical X-ray apparatus,2024,12,1161014163,11187967,1.0,Netherlands 35.4%; Germany 28.9%; Mexico 10.7%,78663212,9058580,11.5,23.5,0.0,272821589,62192689,41789897,
+902214,Imaging,Other medical X-ray apparatus,2025,12,1269263215,20725489,1.6,Netherlands 35.7%; Germany 27.4%; Mexico 14.1%,78017150,12871633,16.5,61.0,13.7,371442992,89547655,47352676,MIRROR_GAP
+902214,Imaging,Other medical X-ray apparatus,2026,9,948903224,8806585,0.9,Netherlands 34.4%; Germany 30.2%; Mexico 13.4%,0,0,,,10.8,0,0,0,
+902219,Imaging,X-ray apparatus for other uses,2022,12,341968806,254379,0.1,Germany 21.3%; United Kingdom 17.7%; Japan 13.9%,3044664,250553,8.2,1.5,0.0,69576876,13022945,6198605,SMALL
+902219,Imaging,X-ray apparatus for other uses,2023,12,360363378,355956,0.1,Germany 24.7%; United Kingdom 16.5%; Japan 13.4%,3796051,436074,11.5,-18.4,0.0,95538980,17876631,9102810,SMALL
+902219,Imaging,X-ray apparatus for other uses,2024,12,385312249,354404,0.1,Germany 21.7%; Japan 12.4%; United Kingdom 11.6%,5251785,782219,14.9,-54.7,0.0,122907709,16013251,15253219,SMALL MIRROR_GAP
+902219,Imaging,X-ray apparatus for other uses,2025,12,346425373,299480,0.1,Germany 20.0%; United Kingdom 12.3%; Japan 12.3%,4688410,298239,6.4,0.4,24.2,132617242,17192771,16031238,SMALL
+902219,Imaging,X-ray apparatus for other uses,2026,9,247404529,166382,0.1,Germany 21.1%; Japan 12.8%; United Kingdom 12.1%,0,0,,,10.0,0,0,0,SMALL
+902221,Imaging,Alpha beta gamma radiation apparatus for medical use,2022,12,27678734,130122,0.5,Netherlands 48.7%; Germany 26.7%; Sweden 16.2%,1332430,4046,0.3,3116.2,0.0,44085589,92134,5881923,SMALL MIRROR_GAP
+902221,Imaging,Alpha beta gamma radiation apparatus for medical use,2023,12,32524130,46664,0.1,Germany 46.3%; Sweden 19.9%; Italy 18.3%,534746,11759,2.2,296.8,0.0,17328802,376049,1300951,SMALL MIRROR_GAP
+902221,Imaging,Alpha beta gamma radiation apparatus for medical use,2024,12,19743014,0,0.0,Germany 46.9%; Sweden 21.6%; Italy 19.2%,3802902,6810,0.2,-100.0,,13593772,118324,42197,SMALL MIRROR_GAP
+902221,Imaging,Alpha beta gamma radiation apparatus for medical use,2025,12,20466643,31010,0.2,Germany 44.3%; Italy 28.1%; Sweden 13.3%,2336961,1281,0.1,2321.0,8.9,10656324,416361,69689,SMALL MIRROR_GAP
+902221,Imaging,Alpha beta gamma radiation apparatus for medical use,2026,9,17691157,0,0.0,Germany 31.5%; Sweden 26.7%; United Kingdom 24.2%,0,0,,,,0,0,0,SMALL
+902229,Imaging,Alpha beta gamma radiation apparatus for other uses,2022,12,224406357,102566,0.0,China 49.2%; Mexico 47.0%; Australia 0.9%,960412,6274,0.7,1534.8,0.0,9304548,1158855,4188365,SMALL MIRROR_GAP
+902229,Imaging,Alpha beta gamma radiation apparatus for other uses,2023,12,192870866,43753,0.0,Mexico 56.8%; China 40.0%; Germany 0.8%,875556,130345,14.9,-66.4,0.0,8181688,2214363,2850808,SMALL MIRROR_GAP
+902229,Imaging,Alpha beta gamma radiation apparatus for other uses,2024,12,231890334,360001,0.2,Mexico 70.7%; China 21.4%; Denmark 2.3%,1458237,23939,1.6,1403.8,0.0,13157796,1278678,6240546,SMALL MIRROR_GAP
+902229,Imaging,Alpha beta gamma radiation apparatus for other uses,2025,12,218132216,66365,0.0,Mexico 84.7%; China 7.7%; Norway 1.4%,1202879,937,0.1,6985.5,4.1,17370142,3112134,6506522,SMALL MIRROR_GAP
+902229,Imaging,Alpha beta gamma radiation apparatus for other uses,2026,9,146801211,8000,0.0,Mexico 91.2%; Norway 1.8%; China 1.3%,0,0,,,10.0,0,0,0,SMALL
+902230,Imaging,X-ray tubes,2022,12,350377707,52023542,14.8,Germany 58.4%; India 14.8%; China 4.8%,152457256,54163089,35.5,-4.0,0.0,71362884,9600955,10389392,
+902230,Imaging,X-ray tubes,2023,12,359402063,51784827,14.4,Germany 56.8%; India 14.4%; United Kingdom 5.7%,148923042,43170392,29.0,20.0,0.0,67840061,11153532,17081860,
+902230,Imaging,X-ray tubes,2024,12,393915793,68930030,17.5,Germany 57.2%; India 17.5%; China 5.4%,161374428,36052525,22.3,91.2,0.0,78123640,11260662,19857445,MIRROR_GAP
+902230,Imaging,X-ray tubes,2025,12,375146517,67638887,18.0,Germany 56.2%; India 18.0%; France 4.9%,142656146,42869094,30.1,57.8,21.3,162234463,11111162,29869642,MIRROR_GAP
+902230,Imaging,X-ray tubes,2026,9,250192057,45205261,18.1,Germany 61.5%; India 18.1%; Japan 4.2%,0,0,,,15.2,0,0,0,
+902290,Imaging,Parts of X-ray and radiation apparatus,2022,12,1284223487,38294064,3.0,Germany 16.8%; China 16.4%; Japan 11.5%,98130820,23821907,24.3,60.8,0.6,330372577,83380155,90424905,MIRROR_GAP
+902290,Imaging,Parts of X-ray and radiation apparatus,2023,12,1415905033,33353647,2.4,China 16.2%; Germany 16.0%; Mexico 11.5%,105419183,24759999,23.5,34.7,0.5,338447566,85656073,93564722,MIRROR_GAP
+902290,Imaging,Parts of X-ray and radiation apparatus,2024,12,1430509848,35157288,2.5,China 16.5%; Germany 16.1%; Mexico 10.4%,108195306,27098774,25.0,29.7,0.5,330532726,87248113,89624254,MIRROR_GAP
+902290,Imaging,Parts of X-ray and radiation apparatus,2025,12,1334325437,33521922,2.5,Germany 16.6%; China 16.1%; Japan 11.0%,120958543,35758076,29.6,-6.3,22.2,381944426,88214854,111608945,
+902290,Imaging,Parts of X-ray and radiation apparatus,2026,9,984690828,26277832,2.7,Germany 17.9%; China 15.7%; Japan 9.3%,0,0,,,16.6,0,0,0,
+940210,Furniture,Dentists barbers and similar chairs,2022,12,117193193,306174,0.3,China 65.9%; Vietnam 17.9%; Taiwan 4.7%,2605168,726065,27.9,-57.8,0.0,10147924,1101740,6395209,SMALL MIRROR_GAP
+940210,Furniture,Dentists barbers and similar chairs,2023,12,94854214,505728,0.5,China 62.5%; Vietnam 21.5%; Taiwan 3.9%,2597160,511710,19.7,-1.2,0.0,11527860,426971,7977122,SMALL
+940210,Furniture,Dentists barbers and similar chairs,2024,12,126144134,447333,0.4,China 66.4%; Vietnam 22.6%; Taiwan 2.9%,2585199,429517,16.6,4.1,0.0,11074181,92887,9548273,SMALL
+940210,Furniture,Dentists barbers and similar chairs,2025,12,96622835,669796,0.7,China 51.7%; Vietnam 30.2%; Taiwan 5.3%,2731242,877035,32.1,-23.6,17.0,15280339,849037,12126330,SMALL
+940210,Furniture,Dentists barbers and similar chairs,2026,9,63258898,564545,0.9,China 66.4%; Vietnam 12.2%; Taiwan 5.3%,0,0,,,21.6,0,0,0,SMALL
+940290,Furniture,Other medical furniture incl. hospital beds,2022,12,1220009874,2456242,0.2,China 41.3%; Mexico 12.5%; Canada 11.1%,20383686,1904105,9.3,29.0,0.0,53643455,3995035,29228193,MIRROR_GAP
+940290,Furniture,Other medical furniture incl. hospital beds,2023,12,1043588425,2275709,0.2,China 36.2%; Mexico 15.3%; Canada 14.0%,20381909,1606180,7.9,41.7,0.0,50627385,3757408,22221988,MIRROR_GAP
+940290,Furniture,Other medical furniture incl. hospital beds,2024,12,1166602199,2597621,0.2,China 38.6%; Mexico 15.7%; Germany 11.3%,17695163,1992725,11.3,30.4,0.0,54930331,3671807,27859864,MIRROR_GAP
+940290,Furniture,Other medical furniture incl. hospital beds,2025,12,1165761105,2556450,0.2,China 34.6%; Mexico 18.1%; Canada 13.0%,20536659,1609821,7.8,58.8,17.0,64998803,5758034,34237810,MIRROR_GAP
+940290,Furniture,Other medical furniture incl. hospital beds,2026,9,863236305,2897019,0.3,China 32.5%; Mexico 18.1%; Canada 15.9%,0,0,,,17.7,0,0,0,

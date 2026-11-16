@@ -1,0 +1,69 @@
+﻿hs6,description,classification,epcmd_line_count,total_line_count,in_original_48,source
+300510,Adhesive guaze,CLEAN,3,3,yes,eximguru.com/hs-codes/3005 (secondary source; CBIC unreachable)
+300590,"Cotton wool, medicated",CLEAN,8,8,yes,eximguru.com/hs-codes/3005
+300610,"Sterile, surgical catgut and similar sterile suture materials (including sterile",CLEAN,2,2,yes,eximguru.com/hs-codes/3006
+300630,Opacifying preparations for X-ray examinations; diagnostic reagents designed to ,CLEAN,1,1,yes,eximguru.com/hs-codes/3006
+300640,"Dental cements and other dental fillings, bone reconstruction cements",CLEAN,1,1,yes,eximguru.com/hs-codes/3006
+300650,First-aid boxes and kits,CLEAN,1,1,yes,eximguru.com/hs-codes/3006
+300660,Contraceptive based on hormones,CLEAN,3,3,no,eximguru.com/hs-codes/3006
+300670,Gel preparations designed to be used in human or veterinary medicine as a lubric,CLEAN,1,1,no,eximguru.com/hs-codes/3006
+300691,Appliances identifiable for ostomy use,CLEAN,1,1,yes,eximguru.com/hs-codes/3006
+382211,Malaria Diagnostic Test Kits,UNKNOWN,1,unknown,yes,no single authoritative full-chapter-38 source found; multiple HSN DBs confirm the code is real but not that it's the only line
+382212,For Zika and other diseases transmitted by mosquitoes of the genus Aedes,UNKNOWN,1,unknown,yes,same as 382211
+382213,For blood-grouping,UNKNOWN,1,unknown,yes,same as 382211
+382219,Pregnancy test kit,UNKNOWN,2,unknown,yes,same as 382211
+382290,Certified reference materials,UNKNOWN,2,unknown,yes,same as 382211
+392321,Sacks and bags (including cones): Of polymers of ethylene,UNKNOWN,1,unknown,no,eximguru.com/hs-codes/3923 page did not show a breakdown
+392390,other,MIXED,1,3,no,"eximguru.com/hs-codes/3923 (official: insulated ware, aseptic bags, other - EPCMD has only 'other')"
+401410,"Rubber contraceptives, male (condoms)",CLEAN,2,2,no,eximguru.com/hs-codes/4014
+401490,Hot water bottles,MIXED,2,4,no,"eximguru.com/hs-codes/4014 (official adds feeding-bottle nipples, not in EPCMD)"
+401512,"Gloves, Mittens, Mitts - Of a kind used for medical, surgical, dental or veterin",UNKNOWN,1,unknown,yes,"conflicting sources - eximguru shows older 40151100/40151900 numbering, not current 40151200; no source found giving the current complete breakdown"
+621010,Personal protective garments for surgical/medical use (felt or non-woven) confor,UNKNOWN,2,unknown,no,62101010/62101020 confirmed real (DGFT notification ref. dated 2022-07-07) but no source found confirming there's no 3rd line
+621040,Personal protective garments for surgical/medical use (felt or non-woven) confor,MIXED,3,unknown,no,"multiple independent HSN DBs show non-medical lines under this hs6 (bulletproof/bomb-disposal jackets, fighter-aircraft clothing) alongside EPCMD's 3 PPE lines - at least 6 total, exact count not pinned to one authoritative source"
+842310,"Personal weighing machines, including baby scales household scales",CLEAN,1,1,no,eximguru.com/hs-codes/8423
+900130,"Contact lenses of any material, unmounted",CLEAN,1,1,no,eximguru.com/hs-codes/9001
+900150,Spectacle lenses of other materials,CLEAN,1,1,no,eximguru.com/hs-codes/9001
+901811,Electro-cardiographs,CLEAN,1,1,yes,eximguru.com/hs-codes/9018 (full heading breakdown on one page)
+901812,Linear ultrasound scanner,CLEAN,2,2,yes,eximguru.com/hs-codes/9018
+901813,Magnetic resonance imaging apparatus,CLEAN,1,1,yes,eximguru.com/hs-codes/9018
+901814,Scientigraphic apparatus,CLEAN,1,1,yes,eximguru.com/hs-codes/9018
+901819,Electro encephalographs,CLEAN,3,3,yes,eximguru.com/hs-codes/9018
+901820,Ultra-Violet or infra-red ray apparatus,CLEAN,1,1,yes,eximguru.com/hs-codes/9018
+901831,"Syringes, with or without needles",CLEAN,1,1,yes,eximguru.com/hs-codes/9018
+901832,Needles for suture,CLEAN,4,4,yes,eximguru.com/hs-codes/9018
+901839,"Catheters (for Urine, Stool)",CLEAN,4,4,yes,eximguru.com/hs-codes/9018
+901841,"Dental drill engines, whether or not combined on a single base with other dental",CLEAN,1,1,yes,eximguru.com/hs-codes/9018
+901849,Other,CLEAN,1,1,yes,eximguru.com/hs-codes/9018
+901850,Ophthalmoscopes,CLEAN,4,4,yes,eximguru.com/hs-codes/9018
+901890,Stethoscopes,MIXED,24,25,yes,"eximguru.com/hs-codes/9018 - official has 90189033 'Haemofiltration instruments', missing from EPCMD's 24 lines"
+901910,Mechano-therapy appliances,CLEAN,3,3,yes,eximguru.com/hs-codes/9019
+901920,Oxygen therapy apparatus,CLEAN,2,2,yes,eximguru.com/hs-codes/9019
+902000,Other breathing appliances and gas masks excluding protective masks having neith,CLEAN,1,1,yes,eximguru.com/hs-codes/9020
+902110,Orthopaedic or fracture appliances,CLEAN,1,1,yes,eximguru.com/hs-codes/9021
+902121,Artificial Teeth,CLEAN,1,1,yes,eximguru.com/hs-codes/9021
+902129,Other,CLEAN,1,1,yes,eximguru.com/hs-codes/9021
+902131,Artificial Joints,CLEAN,1,1,yes,eximguru.com/hs-codes/9021
+902139,Other,CLEAN,1,1,yes,eximguru.com/hs-codes/9021
+902140,Frequency modulated hearing aid system used for hearing by handicapped persons i,CLEAN,2,2,yes,eximguru.com/hs-codes/9021
+902150,"Pacemakers for stimulating heart muscles, excluding parts and accessories",CLEAN,1,1,yes,eximguru.com/hs-codes/9021
+902190,Parts and accessories of hearing aids,CLEAN,2,2,yes,eximguru.com/hs-codes/9021
+902212,Computed tomography apparatus,CLEAN,1,1,yes,eximguru.com/hs-codes/9022
+902213,Other for dental uses,CLEAN,1,1,yes,eximguru.com/hs-codes/9022
+902214,X-ray generators and apparatus (non-portable),CLEAN,3,3,yes,eximguru.com/hs-codes/9022
+902219,For other uses,CLEAN,1,1,yes,eximguru.com/hs-codes/9022
+902221,"Apparatus based on the use of alpha, beta or gamma or other ionising radiations,",CLEAN,1,1,yes,eximguru.com/hs-codes/9022
+902229,"Apparatus based on the use of alpha, beta or gamma or other ionising radiations,",CLEAN,1,1,yes,eximguru.com/hs-codes/9022
+902230,X-ray tubes,CLEAN,1,1,yes,eximguru.com/hs-codes/9022
+902290,X-ray valves,CLEAN,5,5,yes,eximguru.com/hs-codes/9022
+902511,Clinical thermometers,CLEAN,2,2,no,eximguru.com/hs-codes/9025
+902519,Digital thermometers,MIXED,2,3,no,"eximguru.com/hs-codes/9025 - official adds 90251990 'other', missing from EPCMD"
+902710,Gas or smoke analysis apparatus,CLEAN,1,1,no,eximguru.com/hs-codes/9027
+902720,Chromatographs and electrophoresis instruments,CLEAN,1,1,no,eximguru.com/hs-codes/9027
+902730,Spectrometers,CLEAN,3,3,no,eximguru.com/hs-codes/9027
+902750,Photometers,CLEAN,4,4,no,eximguru.com/hs-codes/9027
+902781,Mass spectrometers,UNKNOWN (corrected from fork's finding),1,unknown,no,"Fork concluded this was a transcription error for 902780 - OVERRIDDEN: Census API shows real, substantial trade under 902781 specifically ($732.7M world, 2024; raw/census/902781_2024-12.json), and two independent web searches confirm HS2022 created 9027.81 'Mass spectrometers' as a genuine new subheading (effective 2022-01-01, adopted by India). Single EPCMD line (90278100) plausibly = the whole subheading (common pattern when a new subheading isn't further split nationally), but no authoritative Indian 8-digit source was found to confirm there's exactly 1 line - marking UNKNOWN rather than assuming CLEAN."
+902789,Viscometers,UNKNOWN (corrected from fork's finding),4,unknown,no,"Same correction as 902781 - this is the real 'Other' half of the HS2022 split (9027.89), not a transcription error. Census shows $1.16B world trade under this code (2024). EPCMD has 4 lines (90278910/20/30/90); by analogy with the OLD undivided 9027.80 structure (which the fork found had 5 lines including 90278040 'Nuclear magnetic resonance instruments'), there MAY be an equivalent 90278940-type line carried over under the new 902789 split that EPCMD is missing - but this is an unconfirmed hypothesis, not a sourced fact. Marking UNKNOWN rather than asserting MIXED on an analogy alone."
+902790,"Microtomes, including parts and accessories thereof",CLEAN,3,3,no,eximguru.com/hs-codes/9027
+940210,Dentists' chairs and parts thereof,MIXED,1,2,yes,"eximguru.com/hs-codes/9402 - official adds 94021090 'other' (ambiguous - could itself be medical, but EPCMD doesn't list it), missing from EPCMD"
+940290,Hospital beds with mechanical fittings,CLEAN,3,3,yes,eximguru.com/hs-codes/9402
+961900,Sanitary towels (pads) or sanitary napkins,CLEAN,5,5,no,eximguru.com/hs-codes/9619

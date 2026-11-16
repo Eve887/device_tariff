@@ -1,0 +1,67 @@
+[2026-11-15 07:14:27] Step 2 started: India exports and imports (UN Comtrade)
+[2026-11-15 07:14:31]   batch 1: 101 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 300620
+[2026-11-15 07:14:31] India exports 2022 batch 1: ok | 1/24 (4%), about 1.3 min left
+[2026-11-15 07:14:34]   batch 2: 109 rows received (max possible = 20 codes x 7 partners = 140); 20/20 of this batch's codes came back with at least one row
+[2026-11-15 07:14:34] India exports 2022 batch 2: ok | 2/24 (8%), about 1.2 min left
+[2026-11-15 07:14:34]   try 1/5 failed (HTTP 429: Too Many Requests); waiting 2s
+[2026-11-15 07:14:39]   batch 3: 45 rows received (max possible = 8 codes x 7 partners = 56); 8/8 of this batch's codes came back with at least one row
+[2026-11-15 07:14:39] India exports 2022 batch 3: ok | 3/24 (12%), about 1.4 min left
+[2026-11-15 07:14:40]   try 1/5 failed (HTTP 429: Too Many Requests); waiting 2s
+[2026-11-15 07:14:45]   batch 1: 104 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 300620
+[2026-11-15 07:14:45] India exports 2023 batch 1: ok | 4/24 (17%), about 1.4 min left
+[2026-11-15 07:14:45]   try 1/5 failed (HTTP 429: Too Many Requests); waiting 2s
+[2026-11-15 07:14:51]   batch 2: 110 rows received (max possible = 20 codes x 7 partners = 140); 20/20 of this batch's codes came back with at least one row
+[2026-11-15 07:14:51] India exports 2023 batch 2: ok | 5/24 (21%), about 1.5 min left
+[2026-11-15 07:14:54]   batch 3: 41 rows received (max possible = 8 codes x 7 partners = 56); 8/8 of this batch's codes came back with at least one row
+[2026-11-15 07:14:54] India exports 2023 batch 3: ok | 6/24 (25%), about 1.3 min left
+[2026-11-15 07:14:57]   batch 1: 101 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 300620
+[2026-11-15 07:14:57] India exports 2024 batch 1: ok | 7/24 (29%), about 1.2 min left
+[2026-11-15 07:14:58]   try 1/5 failed (HTTP 429: Too Many Requests); waiting 2s
+[2026-11-15 07:15:04]   batch 2: 114 rows received (max possible = 20 codes x 7 partners = 140); 20/20 of this batch's codes came back with at least one row
+[2026-11-15 07:15:04] India exports 2024 batch 2: ok | 8/24 (33%), about 1.2 min left
+[2026-11-15 07:15:07]   batch 3: 45 rows received (max possible = 8 codes x 7 partners = 56); 8/8 of this batch's codes came back with at least one row
+[2026-11-15 07:15:07] India exports 2024 batch 3: ok | 9/24 (38%), about 1.1 min left
+[2026-11-15 07:15:11]   batch 1: 103 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 300620
+[2026-11-15 07:15:11] India exports 2025 batch 1: ok | 10/24 (42%), about 1.0 min left
+[2026-11-15 07:15:11]   try 1/5 failed (HTTP 429: Too Many Requests); waiting 2s
+[2026-11-15 07:15:17]   batch 2: 114 rows received (max possible = 20 codes x 7 partners = 140); 20/20 of this batch's codes came back with at least one row
+[2026-11-15 07:15:17] India exports 2025 batch 2: ok | 11/24 (46%), about 1.0 min left
+[2026-11-15 07:15:21]   batch 3: 43 rows received (max possible = 8 codes x 7 partners = 56); 8/8 of this batch's codes came back with at least one row
+[2026-11-15 07:15:21] India exports 2025 batch 3: ok | 12/24 (50%), about 0.9 min left
+[2026-11-15 07:15:24]   batch 1: 100 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 300620
+[2026-11-15 07:15:24] India imports 2022 batch 1: ok | 13/24 (54%), about 0.8 min left
+[2026-11-15 07:15:28]   batch 2: 117 rows received (max possible = 20 codes x 7 partners = 140); 20/20 of this batch's codes came back with at least one row
+[2026-11-15 07:15:28] India imports 2022 batch 2: ok | 14/24 (58%), about 0.7 min left
+[2026-11-15 07:15:31]   batch 3: 47 rows received (max possible = 8 codes x 7 partners = 56); 8/8 of this batch's codes came back with at least one row
+[2026-11-15 07:15:31] India imports 2022 batch 3: ok | 15/24 (62%), about 0.6 min left
+[2026-11-15 07:15:34]   batch 1: 109 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 300620
+[2026-11-15 07:15:34] India imports 2023 batch 1: ok | 16/24 (67%), about 0.6 min left
+[2026-11-15 07:15:35]   try 1/5 failed (HTTP 429: Too Many Requests); waiting 2s
+[2026-11-15 07:15:40]   batch 2: 125 rows received (max possible = 20 codes x 7 partners = 140); 20/20 of this batch's codes came back with at least one row
+[2026-11-15 07:15:40] India imports 2023 batch 2: ok | 17/24 (71%), about 0.5 min left
+[2026-11-15 07:15:40]   try 1/5 failed (HTTP 429: Too Many Requests); waiting 2s
+[2026-11-15 07:15:45]   batch 3: 48 rows received (max possible = 8 codes x 7 partners = 56); 8/8 of this batch's codes came back with at least one row
+[2026-11-15 07:15:45] India imports 2023 batch 3: ok | 18/24 (75%), about 0.4 min left
+[2026-11-15 07:15:46]   try 1/5 failed (HTTP 429: Too Many Requests); waiting 2s
+[2026-11-15 07:15:51]   batch 1: 107 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 300620
+[2026-11-15 07:15:51] India imports 2024 batch 1: ok | 19/24 (79%), about 0.4 min left
+[2026-11-15 07:15:52]   try 1/5 failed (HTTP 429: Too Many Requests); waiting 2s
+[2026-11-15 07:15:57]   batch 2: 125 rows received (max possible = 20 codes x 7 partners = 140); 20/20 of this batch's codes came back with at least one row
+[2026-11-15 07:15:57] India imports 2024 batch 2: ok | 20/24 (83%), about 0.3 min left
+[2026-11-15 07:16:00]   batch 3: 47 rows received (max possible = 8 codes x 7 partners = 56); 8/8 of this batch's codes came back with at least one row
+[2026-11-15 07:16:00] India imports 2024 batch 3: ok | 21/24 (88%), about 0.2 min left
+[2026-11-15 07:16:01]   try 1/5 failed (HTTP 429: Too Many Requests); waiting 2s
+[2026-11-15 07:16:06]   batch 1: 108 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 300620
+[2026-11-15 07:16:06] India imports 2025 batch 1: ok | 22/24 (92%), about 0.1 min left
+[2026-11-15 07:16:09]   batch 2: 127 rows received (max possible = 20 codes x 7 partners = 140); 20/20 of this batch's codes came back with at least one row
+[2026-11-15 07:16:09] India imports 2025 batch 2: ok | 23/24 (96%), about 0.1 min left
+[2026-11-15 07:16:10]   try 1/5 failed (HTTP 429: Too Many Requests); waiting 2s
+[2026-11-15 07:16:15]   batch 3: 46 rows received (max possible = 8 codes x 7 partners = 56); 8/8 of this batch's codes came back with at least one row
+[2026-11-15 07:16:15] India imports 2025 batch 3: ok | 24/24 (100%), about 0.0 min left
+[2026-11-15 07:16:16] Wrote data/india_trade.csv with 2136 rows
+[2026-11-15 07:16:16] 2022: 47/48 codes have an India-to-USA export figure
+[2026-11-15 07:16:16] 2023: 47/48 codes have an India-to-USA export figure
+[2026-11-15 07:16:16] 2024: 46/48 codes have an India-to-USA export figure
+[2026-11-15 07:16:16] 2025: 45/48 codes have an India-to-USA export figure
+[2026-11-15 07:16:16] Step 2 finished
+EXIT:0

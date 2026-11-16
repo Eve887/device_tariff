@@ -1,0 +1,19 @@
+[2026-11-15 11:39:39] D2 started: Comtrade for 11 new hs6 codes: ['300660', '401410', '842310', '900150', '902710', '902720', '902730', '902781', '902789', '902790', '961900']
+[2026-11-15 11:39:42]   batch 1: 62 rows received (11 codes x 7 partners = 77 max)
+[2026-11-15 11:39:42] India exports 2022 batch 1: ok | 1/8 (12%), about 0.4 min left
+[2026-11-15 11:39:46]   batch 1: 65 rows received (11 codes x 7 partners = 77 max)
+[2026-11-15 11:39:46] India exports 2023 batch 1: ok | 2/8 (25%), about 0.4 min left
+[2026-11-15 11:39:52]   batch 1: 67 rows received (11 codes x 7 partners = 77 max)
+[2026-11-15 11:39:52] India exports 2024 batch 1: ok | 3/8 (38%), about 0.4 min left
+[2026-11-15 11:39:55]   batch 1: 65 rows received (11 codes x 7 partners = 77 max)
+[2026-11-15 11:39:55] India exports 2025 batch 1: ok | 4/8 (50%), about 0.3 min left
+[2026-11-15 11:39:59]   batch 1: 66 rows received (11 codes x 7 partners = 77 max)
+[2026-11-15 11:39:59] India imports 2022 batch 1: ok | 5/8 (62%), about 0.2 min left
+[2026-11-15 11:40:04]   batch 1: 64 rows received (11 codes x 7 partners = 77 max)
+[2026-11-15 11:40:04] India imports 2023 batch 1: ok | 6/8 (75%), about 0.1 min left
+[2026-11-15 11:40:08]   batch 1: 64 rows received (11 codes x 7 partners = 77 max)
+[2026-11-15 11:40:08] India imports 2024 batch 1: ok | 7/8 (88%), about 0.1 min left
+[2026-11-15 11:40:12]   batch 1: 67 rows received (11 codes x 7 partners = 77 max)
+[2026-11-15 11:40:12] India imports 2025 batch 1: ok | 8/8 (100%), about 0.0 min left
+[2026-11-15 11:40:12] Wrote data/india_trade_final_new_codes.csv (520 rows)
+[2026-11-15 11:40:12] D2 finished

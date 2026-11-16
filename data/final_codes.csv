@@ -1,0 +1,68 @@
+﻿code,level,description,source,rule_applied
+300510,HS6,Adhesive dressings,both,"CLEAN per EPCMD classification, also in our original 48"
+300590,HS6,Other wadding gauze bandages,both,"CLEAN per EPCMD classification, also in our original 48"
+300610,HS6,Sterile surgical sutures and tissue adhesives,both,"CLEAN per EPCMD classification, also in our original 48"
+300620,HS6,Blood-grouping reagents,ours,kept from original 48 (no EPCMD match found for this hs6)
+300630,HS6,X-ray contrast preparations and diagnostic reagents for patients,both,"CLEAN per EPCMD classification, also in our original 48"
+300640,HS6,Dental cements and bone reconstruction cements,both,"CLEAN per EPCMD classification, also in our original 48"
+300650,HS6,First-aid boxes and kits,both,"CLEAN per EPCMD classification, also in our original 48"
+300660,HS6,Contraceptive based on hormones,EPCMD,"CLEAN per EPCMD classification, new addition beyond our original 48"
+300670,HS6,Gel preparations designed to be used in human or veterinary medicine as a lubric,EPCMD,"CLEAN per EPCMD classification, new addition beyond our original 48"
+300691,HS6,Appliances for ostomy use,both,"CLEAN per EPCMD classification, also in our original 48"
+382211,HS6,Diagnostic reagents for malaria,both,explicitly kept whole HS6 per instruction (overrides non-CLEAN classification)
+382212,HS6,Diagnostic reagents for Zika and other mosquito-borne diseases,both,explicitly kept whole HS6 per instruction (overrides non-CLEAN classification)
+382213,HS6,Diagnostic reagents for blood grouping,both,explicitly kept whole HS6 per instruction (overrides non-CLEAN classification)
+401410,HS6,"Rubber contraceptives, male (condoms)",EPCMD,"CLEAN per EPCMD classification, new addition beyond our original 48"
+401512,HS6,Medical surgical dental or veterinary gloves of rubber,both,explicitly kept whole HS6 per instruction (overrides non-CLEAN classification)
+842310,HS6,"Personal weighing machines, including baby scales household scales",EPCMD,"CLEAN per EPCMD classification, new addition beyond our original 48"
+900130,HS6,"Contact lenses of any material, unmounted",EPCMD,"CLEAN per EPCMD classification, new addition beyond our original 48"
+900150,HS6,Spectacle lenses of other materials,EPCMD,"CLEAN per EPCMD classification, new addition beyond our original 48"
+901811,HS6,Electro-cardiographs (ECG),both,"CLEAN per EPCMD classification, also in our original 48"
+901812,HS6,Ultrasonic scanning apparatus,both,"CLEAN per EPCMD classification, also in our original 48"
+901813,HS6,Magnetic resonance imaging (MRI) apparatus,both,"CLEAN per EPCMD classification, also in our original 48"
+901814,HS6,Scintigraphic apparatus,both,"CLEAN per EPCMD classification, also in our original 48"
+901819,HS6,Other electro-diagnostic apparatus incl. patient monitors,both,"CLEAN per EPCMD classification, also in our original 48"
+901820,HS6,Ultraviolet or infrared ray apparatus,both,"CLEAN per EPCMD classification, also in our original 48"
+901831,HS6,Syringes,both,"CLEAN per EPCMD classification, also in our original 48"
+901832,HS6,Tubular metal needles and suture needles,both,"CLEAN per EPCMD classification, also in our original 48"
+901839,HS6,Catheters cannulas and the like,both,"CLEAN per EPCMD classification, also in our original 48"
+901841,HS6,Dental drill engines,both,"CLEAN per EPCMD classification, also in our original 48"
+901849,HS6,Other dental instruments,both,"CLEAN per EPCMD classification, also in our original 48"
+901850,HS6,Other ophthalmic instruments,both,"CLEAN per EPCMD classification, also in our original 48"
+901890,HS6,Other medical and surgical instruments,both,explicitly kept whole HS6 per instruction (overrides non-CLEAN classification)
+901910,HS6,Mechano-therapy and massage apparatus,both,"CLEAN per EPCMD classification, also in our original 48"
+901920,HS6,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,both,"CLEAN per EPCMD classification, also in our original 48"
+902000,HS6,Other breathing appliances and gas masks,both,"CLEAN per EPCMD classification, also in our original 48"
+902110,HS6,Orthopaedic or fracture appliances,both,"CLEAN per EPCMD classification, also in our original 48"
+902121,HS6,Artificial teeth,both,"CLEAN per EPCMD classification, also in our original 48"
+902129,HS6,Other dental fittings,both,"CLEAN per EPCMD classification, also in our original 48"
+902131,HS6,Artificial joints,both,"CLEAN per EPCMD classification, also in our original 48"
+902139,HS6,Other artificial parts of the body,both,"CLEAN per EPCMD classification, also in our original 48"
+902140,HS6,Hearing aids,both,"CLEAN per EPCMD classification, also in our original 48"
+902150,HS6,Pacemakers,both,"CLEAN per EPCMD classification, also in our original 48"
+902190,HS6,Other appliances implanted or worn incl. stents,both,"CLEAN per EPCMD classification, also in our original 48"
+902212,HS6,Computed tomography (CT) apparatus,both,"CLEAN per EPCMD classification, also in our original 48"
+902213,HS6,Dental X-ray apparatus,both,"CLEAN per EPCMD classification, also in our original 48"
+902214,HS6,Other medical X-ray apparatus,both,"CLEAN per EPCMD classification, also in our original 48"
+902219,HS6,X-ray apparatus for other uses,both,"CLEAN per EPCMD classification, also in our original 48"
+902221,HS6,Alpha beta gamma radiation apparatus for medical use,both,"CLEAN per EPCMD classification, also in our original 48"
+902229,HS6,Alpha beta gamma radiation apparatus for other uses,both,"CLEAN per EPCMD classification, also in our original 48"
+902230,HS6,X-ray tubes,both,"CLEAN per EPCMD classification, also in our original 48"
+902290,HS6,Parts of X-ray and radiation apparatus,both,"CLEAN per EPCMD classification, also in our original 48"
+902511,HS6,Clinical thermometers,EPCMD,"CLEAN per EPCMD classification, new addition beyond our original 48"
+902710,HS6,Gas or smoke analysis apparatus,EPCMD,"CLEAN per EPCMD classification, new addition beyond our original 48"
+902720,HS6,Chromatographs and electrophoresis instruments,EPCMD,"CLEAN per EPCMD classification, new addition beyond our original 48"
+902730,HS6,Spectrometers,EPCMD,"CLEAN per EPCMD classification, new addition beyond our original 48"
+902750,HS6,Photometers,EPCMD,"CLEAN per EPCMD classification, new addition beyond our original 48"
+902790,HS6,"Microtomes, including parts and accessories thereof",EPCMD,"CLEAN per EPCMD classification, new addition beyond our original 48"
+940290,HS6,Other medical furniture incl. hospital beds,both,"CLEAN per EPCMD classification, also in our original 48"
+961900,HS6,Sanitary towels (pads) or sanitary napkins,EPCMD,"CLEAN per EPCMD classification, new addition beyond our original 48"
+9025198010,HS10,Infrared thermometers (Clinical),EPCMD,HS10-only filter on 902519: kept - child of 'Clinical' branch
+9025198020,HS10,Other (Clinical),EPCMD,HS10-only filter on 902519: kept - child of 'Clinical' branch
+9402100000,HS10,"Dentists', barbers' or similar chairs and parts thereof",both,HS10-only filter on 940210: kept - 'Dentists'' matches dental use
+6210105010,HS10,Surgical or isolation gowns,EPCMD,HS10-only filter on 621010: kept - explicit 'Surgical' keyword
+6210105090,HS10,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),EPCMD,HS10-only filter on 621010: kept - parent text explicitly says hospitals/clinics/laboratories ('clinics' matches clinical use)
+3822190010,HS10,"Containing antigens or antisera, with methyl chloroform/carbon tetrachloride",both,HS10-only filter on 382219: kept - child of 'Diagnostic or laboratory reagents' parent heading
+3822190030,HS10,"Containing antigens or antisera, other",both,HS10-only filter on 382219: kept - child of 'Diagnostic or laboratory reagents' parent heading
+3822190040,HS10,"Other, with methyl chloroform/carbon tetrachloride",both,HS10-only filter on 382219: kept - child of 'Diagnostic or laboratory reagents' parent heading
+3822190080,HS10,Other,both,HS10-only filter on 382219: kept - child of 'Diagnostic or laboratory reagents' parent heading

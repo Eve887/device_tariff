@@ -1,0 +1,44 @@
+[2026-11-15 07:43:46] Step 2 started: India exports and imports (UN Comtrade)
+[2026-11-15 07:43:50]   batch 3: 104 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 902780
+[2026-11-15 07:43:50] India exports 2022 batch 3: ok | 3/32 (9%), about 0.6 min left
+[2026-11-15 07:43:52]   batch 4: 7 rows received (max possible = 1 codes x 7 partners = 7); 1/1 of this batch's codes came back with at least one row
+[2026-11-15 07:43:52] India exports 2022 batch 4: ok | 4/32 (12%), about 0.8 min left
+[2026-11-15 07:43:56]   batch 3: 104 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 902780
+[2026-11-15 07:43:56] India exports 2023 batch 3: ok | 7/32 (22%), about 0.6 min left
+[2026-11-15 07:44:00]   batch 4: 7 rows received (max possible = 1 codes x 7 partners = 7); 1/1 of this batch's codes came back with at least one row
+[2026-11-15 07:44:00] India exports 2023 batch 4: ok | 8/32 (25%), about 0.7 min left
+[2026-11-15 07:44:03]   batch 3: 108 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 902780
+[2026-11-15 07:44:03] India exports 2024 batch 3: ok | 11/32 (34%), about 0.5 min left
+[2026-11-15 07:44:07]   batch 4: 6 rows received (max possible = 1 codes x 7 partners = 7); 1/1 of this batch's codes came back with at least one row
+[2026-11-15 07:44:07] India exports 2024 batch 4: ok | 12/32 (38%), about 0.6 min left
+[2026-11-15 07:44:10]   batch 3: 105 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 902780
+[2026-11-15 07:44:10] India exports 2025 batch 3: ok | 15/32 (47%), about 0.5 min left
+[2026-11-15 07:44:13]   batch 4: 7 rows received (max possible = 1 codes x 7 partners = 7); 1/1 of this batch's codes came back with at least one row
+[2026-11-15 07:44:13] India exports 2025 batch 4: ok | 16/32 (50%), about 0.4 min left
+[2026-11-15 07:44:13]   try 1/5 failed (HTTP 429: Too Many Requests); waiting 2s
+[2026-11-15 07:44:19]   batch 3: 109 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 902780
+[2026-11-15 07:44:19] India imports 2022 batch 3: ok | 19/32 (59%), about 0.4 min left
+[2026-11-15 07:44:23]   batch 4: 6 rows received (max possible = 1 codes x 7 partners = 7); 1/1 of this batch's codes came back with at least one row
+[2026-11-15 07:44:23] India imports 2022 batch 4: ok | 20/32 (62%), about 0.4 min left
+[2026-11-15 07:44:26]   batch 3: 114 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 902780
+[2026-11-15 07:44:26] India imports 2023 batch 3: ok | 23/32 (72%), about 0.3 min left
+[2026-11-15 07:44:27]   try 1/5 failed (HTTP 429: Too Many Requests); waiting 2s
+[2026-11-15 07:44:31]   batch 4: 7 rows received (max possible = 1 codes x 7 partners = 7); 1/1 of this batch's codes came back with at least one row
+[2026-11-15 07:44:31] India imports 2023 batch 4: ok | 24/32 (75%), about 0.3 min left
+[2026-11-15 07:44:32]   try 1/5 failed (HTTP 429: Too Many Requests); waiting 2s
+[2026-11-15 07:44:38]   batch 3: 114 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 902780
+[2026-11-15 07:44:38] India imports 2024 batch 3: ok | 27/32 (84%), about 0.2 min left
+[2026-11-15 07:44:40]   batch 4: 7 rows received (max possible = 1 codes x 7 partners = 7); 1/1 of this batch's codes came back with at least one row
+[2026-11-15 07:44:40] India imports 2024 batch 4: ok | 28/32 (88%), about 0.1 min left
+[2026-11-15 07:44:41]   try 1/5 failed (HTTP 429: Too Many Requests); waiting 2s
+[2026-11-15 07:44:46]   batch 3: 112 rows received (max possible = 20 codes x 7 partners = 140); 19/20 of this batch's codes came back with at least one row; no rows for: 902780
+[2026-11-15 07:44:46] India imports 2025 batch 3: ok | 31/32 (97%), about 0.0 min left
+[2026-11-15 07:44:49]   batch 4: 7 rows received (max possible = 1 codes x 7 partners = 7); 1/1 of this batch's codes came back with at least one row
+[2026-11-15 07:44:49] India imports 2025 batch 4: ok | 32/32 (100%), about 0.0 min left
+[2026-11-15 07:44:49] Wrote data/india_trade.csv with 2698 rows
+[2026-11-15 07:44:49] 2022: 58/61 codes have an India-to-USA export figure
+[2026-11-15 07:44:49] 2023: 58/61 codes have an India-to-USA export figure
+[2026-11-15 07:44:49] 2024: 58/61 codes have an India-to-USA export figure
+[2026-11-15 07:44:49] 2025: 57/61 codes have an India-to-USA export figure
+[2026-11-15 07:44:49] Step 2 finished
+EXIT:0

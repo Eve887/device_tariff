@@ -1,0 +1,422 @@
+[
+  {
+    "code": "901819",
+    "description": "Other electro-diagnostic apparatus incl. patient monitors",
+    "india_2025_usd": 136430519,
+    "suppliers": [
+      {
+        "country_code": "4280",
+        "country_name": "Germany",
+        "value_2025_usd": 1038548277,
+        "value_2026ytd_usd": 606558064,
+        "actual_duty_pct_2026ytd": 10.97
+      },
+      {
+        "country_code": "2010",
+        "country_name": "Mexico",
+        "value_2025_usd": 791551958,
+        "value_2026ytd_usd": 676160479,
+        "actual_duty_pct_2026ytd": 3.46
+      },
+      {
+        "country_code": "2230",
+        "country_name": "Costa Rica",
+        "value_2025_usd": 759549422,
+        "value_2026ytd_usd": 438187629,
+        "actual_duty_pct_2026ytd": 2.66
+      }
+    ]
+  },
+  {
+    "code": "901890",
+    "description": "Other medical and surgical instruments",
+    "india_2025_usd": 80534630,
+    "suppliers": [
+      {
+        "country_code": "2010",
+        "country_name": "Mexico",
+        "value_2025_usd": 7833803396,
+        "value_2026ytd_usd": 5424413969,
+        "actual_duty_pct_2026ytd": 2.04
+      },
+      {
+        "country_code": "2230",
+        "country_name": "Costa Rica",
+        "value_2025_usd": 2388588152,
+        "value_2026ytd_usd": 1747452310,
+        "actual_duty_pct_2026ytd": 6.53
+      },
+      {
+        "country_code": "4280",
+        "country_name": "Germany",
+        "value_2025_usd": 2233892657,
+        "value_2026ytd_usd": 1764931064,
+        "actual_duty_pct_2026ytd": 8.57
+      }
+    ]
+  },
+  {
+    "code": "902230",
+    "description": "X-ray tubes",
+    "india_2025_usd": 67638887,
+    "suppliers": [
+      {
+        "country_code": "4280",
+        "country_name": "Germany",
+        "value_2025_usd": 210899401,
+        "value_2026ytd_usd": 153951521,
+        "actual_duty_pct_2026ytd": 10.84
+      },
+      {
+        "country_code": "4279",
+        "country_name": "France",
+        "value_2025_usd": 18471035,
+        "value_2026ytd_usd": 3938307,
+        "actual_duty_pct_2026ytd": 10.72
+      },
+      {
+        "country_code": "5700",
+        "country_name": "China",
+        "value_2025_usd": 17237918,
+        "value_2026ytd_usd": 7753122,
+        "actual_duty_pct_2026ytd": 37.97
+      }
+    ]
+  },
+  {
+    "code": "901839",
+    "description": "Catheters cannulas and the like",
+    "india_2025_usd": 51239879,
+    "suppliers": [
+      {
+        "country_code": "2010",
+        "country_name": "Mexico",
+        "value_2025_usd": 3635940316,
+        "value_2026ytd_usd": 2691600805,
+        "actual_duty_pct_2026ytd": 1.23
+      },
+      {
+        "country_code": "2230",
+        "country_name": "Costa Rica",
+        "value_2025_usd": 2343856449,
+        "value_2026ytd_usd": 1804914581,
+        "actual_duty_pct_2026ytd": 1.72
+      },
+      {
+        "country_code": "4190",
+        "country_name": "Ireland",
+        "value_2025_usd": 1140776044,
+        "value_2026ytd_usd": 909322826,
+        "actual_duty_pct_2026ytd": 2.82
+      }
+    ]
+  },
+  {
+    "code": "902290",
+    "description": "Parts of X-ray and radiation apparatus",
+    "india_2025_usd": 33521922,
+    "suppliers": [
+      {
+        "country_code": "4280",
+        "country_name": "Germany",
+        "value_2025_usd": 221131906,
+        "value_2026ytd_usd": 176363619,
+        "actual_duty_pct_2026ytd": 10.7
+      },
+      {
+        "country_code": "5700",
+        "country_name": "China",
+        "value_2025_usd": 215194619,
+        "value_2026ytd_usd": 154453046,
+        "actual_duty_pct_2026ytd": 35.04
+      },
+      {
+        "country_code": "5880",
+        "country_name": "Japan",
+        "value_2025_usd": 146508871,
+        "value_2026ytd_usd": 91958616,
+        "actual_duty_pct_2026ytd": 10.89
+      }
+    ]
+  },
+  {
+    "code": "902131",
+    "description": "Artificial joints",
+    "india_2025_usd": 21920729,
+    "suppliers": [
+      {
+        "country_code": "4190",
+        "country_name": "Ireland",
+        "value_2025_usd": 1846760399,
+        "value_2026ytd_usd": 1494206655,
+        "actual_duty_pct_2026ytd": 0.7
+      },
+      {
+        "country_code": "4280",
+        "country_name": "Germany",
+        "value_2025_usd": 545067588,
+        "value_2026ytd_usd": 385274025,
+        "actual_duty_pct_2026ytd": 2.37
+      },
+      {
+        "country_code": "4279",
+        "country_name": "France",
+        "value_2025_usd": 403137870,
+        "value_2026ytd_usd": 345076799,
+        "actual_duty_pct_2026ytd": 2.54
+      }
+    ]
+  },
+  {
+    "code": "902214",
+    "description": "Other medical X-ray apparatus",
+    "india_2025_usd": 20725489,
+    "suppliers": [
+      {
+        "country_code": "4210",
+        "country_name": "Netherlands",
+        "value_2025_usd": 453563288,
+        "value_2026ytd_usd": 326476410,
+        "actual_duty_pct_2026ytd": 8.79
+      },
+      {
+        "country_code": "4280",
+        "country_name": "Germany",
+        "value_2025_usd": 348362488,
+        "value_2026ytd_usd": 286509482,
+        "actual_duty_pct_2026ytd": 9.55
+      },
+      {
+        "country_code": "2010",
+        "country_name": "Mexico",
+        "value_2025_usd": 178565921,
+        "value_2026ytd_usd": 127417981,
+        "actual_duty_pct_2026ytd": 3.33
+      }
+    ]
+  },
+  {
+    "code": "901811",
+    "description": "Electro-cardiographs (ECG)",
+    "india_2025_usd": 16884483,
+    "suppliers": [
+      {
+        "country_code": "1220",
+        "country_name": "Canada",
+        "value_2025_usd": 92114419,
+        "value_2026ytd_usd": 81924392,
+        "actual_duty_pct_2026ytd": 1.42
+      },
+      {
+        "country_code": "5590",
+        "country_name": "Singapore",
+        "value_2025_usd": 61136074,
+        "value_2026ytd_usd": 27714058,
+        "actual_duty_pct_2026ytd": 0.15
+      },
+      {
+        "country_code": "4419",
+        "country_name": "Switzerland",
+        "value_2025_usd": 41647579,
+        "value_2026ytd_usd": 30710323,
+        "actual_duty_pct_2026ytd": 0.46
+      }
+    ]
+  },
+  {
+    "code": "901850",
+    "description": "Other ophthalmic instruments",
+    "india_2025_usd": 14901913,
+    "suppliers": [
+      {
+        "country_code": "4280",
+        "country_name": "Germany",
+        "value_2025_usd": 121103512,
+        "value_2026ytd_usd": 78697266,
+        "actual_duty_pct_2026ytd": 10.78
+      },
+      {
+        "country_code": "2010",
+        "country_name": "Mexico",
+        "value_2025_usd": 72376350,
+        "value_2026ytd_usd": 42508793,
+        "actual_duty_pct_2026ytd": 0.99
+      },
+      {
+        "country_code": "5880",
+        "country_name": "Japan",
+        "value_2025_usd": 59141588,
+        "value_2026ytd_usd": 27555398,
+        "actual_duty_pct_2026ytd": 11.06
+      }
+    ]
+  },
+  {
+    "code": "901831",
+    "description": "Syringes",
+    "india_2025_usd": 14090000,
+    "suppliers": [
+      {
+        "country_code": "2010",
+        "country_name": "Mexico",
+        "value_2025_usd": 343585263,
+        "value_2026ytd_usd": 313560206,
+        "actual_duty_pct_2026ytd": 0.8
+      },
+      {
+        "country_code": "5830",
+        "country_name": "Taiwan",
+        "value_2025_usd": 240624114,
+        "value_2026ytd_usd": 166281801,
+        "actual_duty_pct_2026ytd": 12.25
+      },
+      {
+        "country_code": "4759",
+        "country_name": "Italy",
+        "value_2025_usd": 214884491,
+        "value_2026ytd_usd": 170287102,
+        "actual_duty_pct_2026ytd": 10.38
+      }
+    ]
+  },
+  {
+    "code": "300590",
+    "description": "Other wadding gauze bandages",
+    "india_2025_usd": 13839290,
+    "suppliers": [
+      {
+        "country_code": "5700",
+        "country_name": "China",
+        "value_2025_usd": 377073425,
+        "value_2026ytd_usd": 253244853,
+        "actual_duty_pct_2026ytd": 9.32
+      },
+      {
+        "country_code": "4120",
+        "country_name": "United Kingdom",
+        "value_2025_usd": 111341462,
+        "value_2026ytd_usd": 71873321,
+        "actual_duty_pct_2026ytd": 9.58
+      },
+      {
+        "country_code": "2010",
+        "country_name": "Mexico",
+        "value_2025_usd": 78812999,
+        "value_2026ytd_usd": 56452963,
+        "actual_duty_pct_2026ytd": 0.92
+      }
+    ]
+  },
+  {
+    "code": "401410",
+    "description": "Rubber contraceptives, male (condoms)",
+    "india_2025_usd": 12030969,
+    "suppliers": [
+      {
+        "country_code": "5490",
+        "country_name": "Thailand",
+        "value_2025_usd": 41654925,
+        "value_2026ytd_usd": 28568840,
+        "actual_duty_pct_2026ytd": 10.07
+      },
+      {
+        "country_code": "5880",
+        "country_name": "Japan",
+        "value_2025_usd": 7524235,
+        "value_2026ytd_usd": 3596013,
+        "actual_duty_pct_2026ytd": 10.97
+      },
+      {
+        "country_code": "5570",
+        "country_name": "Malaysia",
+        "value_2025_usd": 3287940,
+        "value_2026ytd_usd": 4245199,
+        "actual_duty_pct_2026ytd": 11.33
+      }
+    ]
+  },
+  {
+    "code": "902121",
+    "description": "Artificial teeth",
+    "india_2025_usd": 8510451,
+    "suppliers": [
+      {
+        "country_code": "4010",
+        "country_name": "Sweden",
+        "value_2025_usd": 95533184,
+        "value_2026ytd_usd": 42358976,
+        "actual_duty_pct_2026ytd": 11.06
+      },
+      {
+        "country_code": "4700",
+        "country_name": "Spain",
+        "value_2025_usd": 42014688,
+        "value_2026ytd_usd": 23514831,
+        "actual_duty_pct_2026ytd": 11.07
+      },
+      {
+        "country_code": "5700",
+        "country_name": "China",
+        "value_2025_usd": 30572758,
+        "value_2026ytd_usd": 16937739,
+        "actual_duty_pct_2026ytd": 12.1
+      }
+    ]
+  },
+  {
+    "code": "900150",
+    "description": "Spectacle lenses of other materials",
+    "india_2025_usd": 7289891,
+    "suppliers": [
+      {
+        "country_code": "2010",
+        "country_name": "Mexico",
+        "value_2025_usd": 505995807,
+        "value_2026ytd_usd": 487239754,
+        "actual_duty_pct_2026ytd": 1.11
+      },
+      {
+        "country_code": "5490",
+        "country_name": "Thailand",
+        "value_2025_usd": 197095237,
+        "value_2026ytd_usd": 139000288,
+        "actual_duty_pct_2026ytd": 14.61
+      },
+      {
+        "country_code": "5530",
+        "country_name": "Laos",
+        "value_2025_usd": 128021962,
+        "value_2026ytd_usd": 84753833,
+        "actual_duty_pct_2026ytd": 16.69
+      }
+    ]
+  },
+  {
+    "code": "902790",
+    "description": "Microtomes, including parts and accessories thereof",
+    "india_2025_usd": 5597230,
+    "suppliers": [
+      {
+        "country_code": "5880",
+        "country_name": "Japan",
+        "value_2025_usd": 388199935,
+        "value_2026ytd_usd": 278661792,
+        "actual_duty_pct_2026ytd": 11.3
+      },
+      {
+        "country_code": "4280",
+        "country_name": "Germany",
+        "value_2025_usd": 316483540,
+        "value_2026ytd_usd": 206873153,
+        "actual_duty_pct_2026ytd": 10.54
+      },
+      {
+        "country_code": "2010",
+        "country_name": "Mexico",
+        "value_2025_usd": 199957969,
+        "value_2026ytd_usd": 149913605,
+        "actual_duty_pct_2026ytd": 0.92
+      }
+    ]
+  }
+]

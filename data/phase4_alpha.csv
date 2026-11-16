@@ -1,0 +1,4 @@
+﻿scenario_tier,alpha,basis
+low,0.3,fallback - quantity data too patchy (2/60 core codes usable); per user's explicit instruction
+base,0.45,fallback - quantity data too patchy (2/60 core codes usable); per user's explicit instruction
+high,0.6,fallback - quantity data too patchy (2/60 core codes usable); per user's explicit instruction

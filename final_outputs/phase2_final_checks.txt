@@ -1,0 +1,81 @@
+=== 4a. FY2024-25 reconciliation (April 2024 - March 2025) ===
+final_codes.csv only: US imports from India = $706,578,118
+  vs EPCMD $782,570,000: gap = $75,991,882 (9.7% of target)
+final_codes.csv + lab_instruments_codes.csv: US imports from India = $723,432,073
+  vs EPCMD $782,570,000: gap = $59,137,927 (7.6% of target)
+
+=== 4b. January-September comparison, 2024 vs 2025 vs 2026 (final_codes.csv, 67 codes) ===
+India:
+  2024 Jan-Sep: $487,032,836  (duty 0.06%)
+  2025 Jan-Sep: $540,188,653  (duty 8.03%)  change vs 2024: 10.9%
+  2026 Jan-Sep: $424,658,697  (duty 11.54%)  change vs 2025: -21.4%
+China:
+  2024 Jan-Sep: $6,878,606,716  (duty 3.08%)
+  2025 Jan-Sep: $6,049,083,726  (duty 20.78%)  change vs 2024: -12.1%
+  2026 Jan-Sep: $5,469,338,634  (duty 13.84%)  change vs 2025: -9.6%
+Mexico:
+  2024 Jan-Sep: $13,146,682,173  (duty 0.04%)
+  2025 Jan-Sep: $14,028,966,666  (duty 2.83%)  change vs 2024: 6.7%
+  2026 Jan-Sep: $13,411,249,438  (duty 1.56%)  change vs 2025: -4.4%
+All countries:
+  2024 Jan-Sep: $71,326,096,367  (duty 0.34%)
+  2025 Jan-Sep: $76,824,240,605  (duty 5.31%)  change vs 2024: 7.7%
+  2026 Jan-Sep: $72,264,570,819  (duty 5.89%)  change vs 2025: -5.9%
+
+=== 4c. India Jan-Sep 2025 vs 2026, by product group (final_codes.csv) ===
+  Electro-diagnostic     2025: $   117,642,516   2026: $    87,362,057   change: -25.7%
+  Consumable & Disposable 2025: $   115,413,518   2026: $    86,127,789   change: -25.4%
+  Imaging                2025: $   100,142,659   2026: $    85,946,705   change: -14.2%
+  Instruments            2025: $    64,238,160   2026: $    46,603,179   change: -27.5%
+  Consumables            2025: $    52,449,417   2026: $    32,170,482   change: -38.7%
+  Implants               2025: $    20,303,909   2026: $    25,534,349   change: 25.8%
+  Diagnostics            2025: $    18,429,316   2026: $    15,855,073   change: -14.0%
+  Ophthalmic             2025: $    11,861,475   2026: $    10,198,014   change: -14.0%
+  Dressings              2025: $    11,041,426   2026: $    10,619,039   change: -3.8%
+  Dental                 2025: $     8,923,088   2026: $     6,623,455   change: -25.8%
+  Electronic Equipment   2025: $     7,794,538   2026: $     7,173,850   change: -8.0%
+  Respiratory            2025: $     4,365,053   2026: $     4,480,509   change: 2.6%
+  Gloves                 2025: $     3,337,079   2026: $     1,158,029   change: -65.3%
+  Furniture              2025: $     2,670,571   2026: $     3,461,564   change: 29.6%
+  Sutures                2025: $       976,332   2026: $       345,696   change: -64.6%
+  Therapy                2025: $       577,474   2026: $       930,733   change: 61.2%
+  Hearing                2025: $        22,122   2026: $        68,174   change: 208.2%
+
+=== 4d. Verdict ===
+"HOLDS": India's 2025-to-2026 Jan-Sep change = -21.4%, all countries' change = -5.9% (India's fall is 15.5 points larger than all countries')
+
+=== 4e. Code count and small-value codes ===
+Number of codes in final_codes.csv: 67
+Codes where India sold under $1M to the US in 2025: 32
+  300620 (HS6, Diagnostics): $0 - Blood-grouping reagents
+  300650 (HS6, Dressings): $0 - First-aid boxes and kits
+  382212 (HS6, Diagnostics): $0 - Diagnostic reagents for Zika and other mosquito-borne diseas
+  382213 (HS6, Diagnostics): $0 - Diagnostic reagents for blood grouping
+  901841 (HS6, Dental): $0 - Dental drill engines
+  9025198010 (HS10, Electronic Equipment): $0 - Infrared thermometers (Clinical)
+  900130 (HS6, Consumable & Disposable): $3,000 - Contact lenses of any material, unmounted
+  382211 (HS6, Diagnostics): $7,060 - Diagnostic reagents for malaria
+  902150 (HS6, Implants): $7,200 - Pacemakers
+  3822190040 (HS10, Diagnostics): $9,075 - Other, with methyl chloroform/carbon tetrachloride
+  842310 (HS6, Electronic Equipment): $18,708 - Personal weighing machines, including baby scales household 
+  9025198020 (HS10, Electronic Equipment): $22,781 - Other (Clinical)
+  3822190010 (HS10, Diagnostics): $22,950 - Containing antigens or antisera, with methyl chloroform/carb
+  902221 (HS6, Imaging): $31,010 - Alpha beta gamma radiation apparatus for medical use
+  902140 (HS6, Hearing): $35,392 - Hearing aids
+  300670 (HS6, Consumable & Disposable): $37,925 - Gel preparations designed to be used in human or veterinary 
+  902229 (HS6, Imaging): $66,365 - Alpha beta gamma radiation apparatus for other uses
+  902511 (HS6, Electronic Equipment): $137,501 - Clinical thermometers
+  300510 (HS6, Dressings): $150,186 - Adhesive dressings
+  901812 (HS6, Imaging): $155,789 - Ultrasonic scanning apparatus
+  902213 (HS6, Imaging): $160,364 - Dental X-ray apparatus
+  300640 (HS6, Dental): $210,376 - Dental cements and bone reconstruction cements
+  902219 (HS6, Imaging): $299,480 - X-ray apparatus for other uses
+  300691 (HS6, Consumables): $327,157 - Appliances for ostomy use
+  902129 (HS6, Dental): $394,526 - Other dental fittings
+  9402100000 (HS10, Furniture): $669,796 - Dentists', barbers' or similar chairs and parts thereof
+  901910 (HS6, Therapy): $708,980 - Mechano-therapy and massage apparatus
+  902750 (HS6, Electronic Equipment): $709,938 - Photometers
+  902720 (HS6, Electronic Equipment): $713,407 - Chromatographs and electrophoresis instruments
+  902000 (HS6, Respiratory): $808,680 - Other breathing appliances and gas masks
+  901820 (HS6, Electro-diagnostic): $846,919 - Ultraviolet or infrared ray apparatus
+  902730 (HS6, Electronic Equipment): $851,190 - Spectrometers

@@ -1,0 +1,317 @@
+{
+  "300510": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "300590": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "300610": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "300620": {
+    "level": "HS6",
+    "general_rate": "",
+    "status": "not found"
+  },
+  "300630": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "300640": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "300650": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "300660": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "300670": {
+    "level": "HS6",
+    "general_rate": "5%",
+    "status": "uniform"
+  },
+  "300691": {
+    "level": "HS6",
+    "general_rate": "4.2%",
+    "status": "uniform"
+  },
+  "382211": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "382212": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "382213": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "401410": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "401512": {
+    "level": "HS6",
+    "general_rate": "14%; Free",
+    "status": "varies"
+  },
+  "842310": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "900130": {
+    "level": "HS6",
+    "general_rate": "2%",
+    "status": "uniform"
+  },
+  "900150": {
+    "level": "HS6",
+    "general_rate": "2%",
+    "status": "uniform"
+  },
+  "901811": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "901812": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "901813": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "901814": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "901819": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "901820": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "901831": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "901832": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "901839": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "901841": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "901849": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "901850": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "901890": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "901910": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "901920": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902000": {
+    "level": "HS6",
+    "general_rate": "2.5%; Free",
+    "status": "varies"
+  },
+  "902110": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902121": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902129": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902131": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902139": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902140": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902150": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902190": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902212": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902213": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902214": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902219": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902221": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902229": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902230": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902290": {
+    "level": "HS6",
+    "general_rate": "0.8%; 0.9%; 1%; 1.4%; Free",
+    "status": "varies"
+  },
+  "902511": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902710": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902720": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902730": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "902750": {
+    "level": "HS6",
+    "general_rate": "1.2%; Free",
+    "status": "varies"
+  },
+  "902790": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "940290": {
+    "level": "HS6",
+    "general_rate": "Free",
+    "status": "uniform"
+  },
+  "961900": {
+    "level": "HS6",
+    "general_rate": "10.8%; 14.9%; 16%; 2.8%; 3.6%; 5%; 5.6%; 6.3%; 7%; 7.3%; 8.1%; 9.3%; Free",
+    "status": "varies"
+  },
+  "9025198010": {
+    "level": "HS10",
+    "general_rate": "Free",
+    "status": "inherited from 8-digit ancestor"
+  },
+  "9025198020": {
+    "level": "HS10",
+    "general_rate": "Free",
+    "status": "inherited from 8-digit ancestor"
+  },
+  "9402100000": {
+    "level": "HS10",
+    "general_rate": "Free",
+    "status": "inherited from 10-digit ancestor"
+  },
+  "6210105010": {
+    "level": "HS10",
+    "general_rate": "Free",
+    "status": "inherited from 8-digit ancestor"
+  },
+  "6210105090": {
+    "level": "HS10",
+    "general_rate": "Free",
+    "status": "inherited from 8-digit ancestor"
+  }
+}

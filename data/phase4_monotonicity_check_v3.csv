@@ -1,0 +1,15 @@
+﻿scenario,scenario_year,basis,low_usd,base_usd,high_usd,low_le_base_le_high_loss_scenario,s5_gain_in_all_three
+S0_Today,,2025,0,0,0,True,
+S0_Today,,12mo,0,0,0,True,
+S1_China_exclusion_expiry,,2025,-737016,-729550,-638777,True,
+S1_China_exclusion_expiry,,12mo,-707086,-701184,-614789,True,
+S2_Sec232_15pct_exemptions,,2025,44618876,58119135,68822937,True,
+S2_Sec232_15pct_exemptions,,12mo,36830434,48086160,57057151,True,
+S3_Sec232_25pct_all,,2025,41225017,61837525,82450034,True,
+S3_Sec232_25pct_all,,12mo,34316209,51474308,68632408,True,
+S4_Phased_Sec232,Year1_10pct,2025,16490010,24735011,32980012,True,
+S4_Phased_Sec232,Year1_10pct,12mo,13726479,20589725,27452964,True,
+S4_Phased_Sec232,Year2_25pct,2025,41225017,61837525,82450034,True,
+S4_Phased_Sec232,Year2_25pct,12mo,34316209,51474308,68632408,True,
+S5_India_deal_minus10,,2025,-36053814,-45223009,-51714528,,True
+S5_India_deal_minus10,,12mo,-29483150,-37140525,-42630492,,True

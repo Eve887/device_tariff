@@ -1,0 +1,61 @@
+﻿code,hs6,description,bcd_amount,sws_amount,health_cess_amount,igst_amount,customs_duty_pct,total_tax_pct,missing
+300510,300510,Adhesive dressings,5.0,0.5,0.0,5.275,5.5,10.775,
+300590,300590,Other wadding gauze bandages,5.0,0.5,0.0,5.275,5.5,10.775,
+300610,300610,Sterile surgical sutures and tissue adhesives,5.0,0.5,0.0,5.275,5.5,10.775,
+300620,300620,Blood-grouping reagents,5.0,0.5,0.0,5.275,5.5,10.775,
+300640,300640,Dental cements and bone reconstruction cements,5.0,0.5,0.0,5.275,5.5,10.775,
+300650,300650,First-aid boxes and kits,5.0,0.5,0.0,5.275,5.5,10.775,
+300670,300670,Gel preparations designed to be used in human or veterinary medicine as a lubric,not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS"
+300691,300691,Appliances for ostomy use,5.0,0.5,0.0,5.275,5.5,10.775,
+382211,382211,Diagnostic reagents for malaria,7.5,0.75,0.0,5.4125,8.25,13.6625,
+382212,382212,Diagnostic reagents for Zika and other mosquito-borne diseases,7.5,0.75,0.0,5.4125,8.25,13.6625,
+382213,382213,Diagnostic reagents for blood grouping,7.5,0.75,0.0,5.4125,8.25,13.6625,
+401410,401410,"Rubber contraceptives, male (condoms)",not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS"
+401512,401512,Medical surgical dental or veterinary gloves of rubber,not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS"
+842310,842310,"Personal weighing machines, including baby scales household scales",not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS"
+900130,900130,"Contact lenses of any material, unmounted",not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS, IGST"
+900150,900150,Spectacle lenses of other materials,not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS, IGST"
+901811,901811,Electro-cardiographs (ECG),7.5,0.75,5.0,5.6625,13.25,18.9125,
+901812,901812,Ultrasonic scanning apparatus,7.5,0.75,5.0,5.6625,13.25,18.9125,
+901813,901813,Magnetic resonance imaging (MRI) apparatus,7.5,0.75,5.0,5.6625,13.25,18.9125,
+901814,901814,Scintigraphic apparatus,7.5,0.75,5.0,5.6625,13.25,18.9125,
+901819,901819,Other electro-diagnostic apparatus incl. patient monitors,7.5,0.75,5.0,5.6625,13.25,18.9125,
+901820,901820,Ultraviolet or infrared ray apparatus,7.5,0.75,5.0,5.6625,13.25,18.9125,
+901831,901831,Syringes,7.5,0.75,5.0,5.6625,13.25,18.9125,
+901832,901832,Tubular metal needles and suture needles,7.5,0.75,5.0,5.6625,13.25,18.9125,
+901839,901839,Catheters cannulas and the like,7.5,0.75,5.0,5.6625,13.25,18.9125,
+901841,901841,Dental drill engines,7.5,0.75,5.0,5.6625,13.25,18.9125,
+901849,901849,Other dental instruments,7.5,0.75,5.0,5.6625,13.25,18.9125,
+901850,901850,Other ophthalmic instruments,7.5,0.75,5.0,5.6625,13.25,18.9125,
+901890,901890,Other medical and surgical instruments,7.5,0.75,5.0,5.6625,13.25,18.9125,
+901910,901910,Mechano-therapy and massage apparatus,7.5,0.75,5.0,5.6625,13.25,18.9125,
+901920,901920,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,7.5,0.75,5.0,0.0,13.25,13.25,
+902000,902000,Other breathing appliances and gas masks,7.5,0.75,5.0,0.0,13.25,13.25,
+902110,902110,Orthopaedic or fracture appliances,7.5,0.75,5.0,5.6625,13.25,18.9125,
+902121,902121,Artificial teeth,7.5,0.75,5.0,5.6625,13.25,18.9125,
+902129,902129,Other dental fittings,7.5,0.75,5.0,5.6625,13.25,18.9125,
+902131,902131,Artificial joints,7.5,0.75,5.0,5.6625,13.25,18.9125,
+902139,902139,Other artificial parts of the body,7.5,0.75,5.0,5.6625,13.25,18.9125,
+902140,902140,Hearing aids,not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS, IGST"
+902150,902150,Pacemakers,7.5,0.75,5.0,0.0,13.25,13.25,
+902190,902190,Other appliances implanted or worn incl. stents,7.5,0.75,5.0,5.6625,13.25,18.9125,
+902212,902212,Computed tomography (CT) apparatus,7.5,0.75,5.0,5.6625,13.25,18.9125,
+902213,902213,Dental X-ray apparatus,7.5,0.75,5.0,5.6625,13.25,18.9125,
+902214,902214,Other medical X-ray apparatus,15.0,1.5,5.0,6.075,21.5,27.575,
+902219,902219,X-ray apparatus for other uses,7.5,0.75,5.0,20.385,13.25,33.635,
+902221,902221,Alpha beta gamma radiation apparatus for medical use,7.5,0.75,5.0,5.6625,13.25,18.9125,
+902229,902229,Alpha beta gamma radiation apparatus for other uses,7.5,0.75,5.0,5.6625,13.25,18.9125,
+902230,902230,X-ray tubes,10.0,1.0,5.0,5.8,16.0,21.8,
+902290,902290,Parts of X-ray and radiation apparatus,7.5,0.75,5.0,5.6625,13.25,18.9125,
+902511,902511,Clinical thermometers,not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS"
+902710,902710,Gas or smoke analysis apparatus,not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS"
+902720,902720,Chromatographs and electrophoresis instruments,not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS"
+902730,902730,Spectrometers,not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS"
+902750,902750,Photometers,not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS"
+902790,902790,"Microtomes, including parts and accessories thereof",not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS"
+940290,940290,Other medical furniture incl. hospital beds,not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS"
+9025198010,902519,Infrared thermometers (Clinical),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS"
+9025198020,902519,Other (Clinical),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS"
+9402100000,940210,"Dentists', barbers' or similar chairs and parts thereof",not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS"
+6210105010,621010,Surgical or isolation gowns,not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS, IGST"
+6210105090,621010,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),not computable (one or more rates not found),"BCD, SWS, IGST"

@@ -1,0 +1,910 @@
+
+=== PAGE 16 ===
+ 
+12 
+Term 
+Description 
+RBI 
+Reserve Bank of India. 
+RTGS 
+Real time gross settlement. 
+R&D 
+Research and development 
+SCRA 
+Securities Contracts (Regulation) Act, 1956. 
+SCRR 
+Securities Contracts (Regulation) Rules, 1957. 
+SEBI 
+Securities and Exchange Board of India constituted under the SEBI Act, 1992. 
+SEBI Act 
+Securities and Exchange Board of India Act, 1992. 
+SEBI AIF Regulations 
+Securities and Exchange Board of India (Alternative Investment Funds) Regulations, 2012. 
+SEBI FPI Regulations 
+Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 2019. 
+SEBI FVCI Regulations 
+Securities and Exchange Board of India (Foreign Venture Capital Investors) Regulations, 2000. 
+SEBI ICDR Regulations 
+Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018. 
+SEBI ICDR Master Circular 
+SEBI master circular bearing reference number SEBI/HO/CFD/PoD-1/P/CIR/2024/0154 dated November 
+11, 2024 
+SEBI Insider Trading Regulations Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015 
+SEBI Listing Regulations 
+Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 
+2015. 
+SEBI 
+Merchant 
+Bankers 
+Regulations 
+Securities and Exchange Board of India (Merchant Bankers) Regulations, 1992. 
+SEBI RTA Master Circular 
+SEBI master circular bearing number SEBI/HO/MIRSD/MIRSD-PoD/P/CIR/2025/91dated June 23, 2025. 
+SEBI SBEBSE Regulations 
+Securities and Exchange Board of India (Share Based Employee Benefits and Sweat Equity) Regulations, 
+2021. 
+SEBI VCF Regulations 
+Securities and Exchange Board of India (Venture Capital Fund) Regulations, 1996. 
+State Government 
+The government of a state in India. 
+Stock Exchanges 
+Collectively, the BSE and NSE. 
+STT 
+Securities transaction tax. 
+Takeover Regulations 
+Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 
+2011. 
+TAN 
+Tax deduction account number. 
+TDS 
+Tax deducted at source. 
+U.S./United States 
+The United States of America, together with its territories and possessions, any state of the United States of 
+America and the District of Columbia. 
+U.S. GAAP 
+Generally accepted accounting principles of the United States of America. 
+U.S. Securities Act 
+U.S. Securities Act of 1933, as amended. 
+VAT 
+Value added tax. 
+VCFs 
+Venture capital funds as defined in and registered with SEBI under SEBI VCF Regulations. 
+ 
+Non-GAAP Measures as stated in Management’s Discussion and Analysis of Financial Condition and Results of Operation 
+section beginning on page 364: 
+ 
+Term 
+Description 
+Adjusted EBITDA 
+Calculated as sum of restated profit/(loss) after tax, total tax expense, finance costs, depreciation and 
+amortisation expense, exceptional item, share based payment expenses minus other income. 
+Adjusted EBITDA Margin 
+Calculated as adjusted EBITDA as a percentage of revenue from operations. 
+Average of Property, Plant and 
+Equipment (Cost) 
+Calculated as total property, plant and equipment (Cost) at the beginning of the year and at the end of the 
+year divided by 2 
+Average of total equity attributable 
+to owners of the Company 
+Calculated as total equity attributable to owners of the Company at the beginning of the year and at the end 
+of the year divided by 2. 
+Average of Property, Plant and 
+Equipment (Cost) 
+Calculated as total property, plant and equipment (Cost) at the beginning of the year and at the end of the 
+year divided by 2 
+Average of total equity attributable 
+to owners of the Company 
+Calculated as total equity attributable to owners of the Company at the beginning of the year and at the end 
+of the year divided by 2. 
+Capital Employed 
+Calculated as total equity plus total deferred tax liability, total borrowings, total lease liabilities minus 
+goodwill, other intangible assets, intangible assets under development and right of use asset.  
+Trade Receivables days 
+Calculated as Average trade receivables divided by revenue from operations multiplied by 365  
+Average of Property, Plant and 
+Equipment (Cost) 
+Calculated as total property, plant and equipment (Cost) at the beginning of the year and at the end of the 
+year divided by 2 
+Average of total equity attributable 
+to owners of the Company 
+Calculated as total equity attributable to owners of the Company at the beginning of the year and at the end 
+of the year divided by 2. 
+Capital Employed 
+Calculated as total equity plus total deferred tax liability, total borrowings, total lease liabilities minus 
+goodwill, other intangible assets, intangible assets under development and right of use asset.  
+Trade Receivables days 
+Calculated as Average trade receivables divided by revenue from operations multiplied by 365  
+Debt Service Coverage Ratio 
+Calculated as earning available for debt service divided by total interest and principal repayments 
+EBIT 
+Calculated as sum of restated profit/(loss) after tax, total tax expense, finance costs and exceptional items.  
+EBITDA 
+Calculated as sum of restated profit/(loss) after tax, total tax expense, finance costs, depreciation and 
+amortisation expense and exceptional item minus other income. 
+EBITDA margin 
+Calculated as EBITDA divided by Revenue from operations. 
+Earning available for debt service Calculated as sum of restated profit/(loss) after tax, Deferred tax (credit), finance costs, depreciation and 
+amortisation expense, share based payment expenses, unrealised exchange (gain)/loss, loss/ (profit) on sale 
+
+=== PAGE 17 ===
+ 
+13 
+Term 
+Description 
+of property, plant and equipment (net), bad debts, impairment of financial assets (net) minus gain on 
+termination of lease and provision no longer required written back. 
+Gross 
+Tangible 
+Fixed 
+Asset 
+Turnover Ratio 
+Calculated by dividing Revenue from operations by the average of Property, Plant and Equipment (Cost) 
+Inventory days 
+Calculated as Average Inventory divided by revenue from operations multiplied by 365 
+Interest coverage ratio 
+Calculated as EBIT divided by finance cost 
+Net Asset Value per Equity Share Calculated as Net worth attributable to owners of the company divided by Closing Number of Equity Shares 
+multiplied by one million 
+Net Debt  
+Calculated as sum of current borrowings and non-current borrowings as reduced by Cash and Cash 
+Equivalents and DSRA deposit. 
+Net debt to EBITDA 
+Calculated as Net debt divided by EBITDA 
+Net Debt to Total Equity 
+Calculated as Net Debt divided by Total Equity. 
+Net working capital 
+Calculated as Total Current Assets minus Total Current Liabilities. 
+Net working capital days (overall) 
+(based on days of revenue from 
+operations) 
+Calculated as Sum of Trade Receivable Days and Inventory Days as reduced by Trade Payable Days 
+Net worth attributable to owners of 
+the Company 
+Net Worth attributable to owners of the Company means the aggregate value of the paid-up equity share 
+capital and all reserves created out of the profits and securities premium account and debit or credit balance 
+of profit and loss account, after deducting the aggregate value of the accumulated losses, but does not include 
+capital reserve created on business combination and foreign currency translation reserve 
+PAT margin 
+Calculated as restated profit/(loss) after tax divided by Revenue from Operations. 
+Trade Payables days 
+Calculated as Average trade payables divided by revenue from operations multiplied by 365 
+Return on capital employed 
+Calculated as EBIT divided by Capital Employed 
+Return on Equity attributable to 
+Owners of the Company   
+Calculated by dividing the Restated Profit/(loss) attributable to Owners of the Company by the Average of 
+total equity attributable to owners of the Company.  
+Return on Net Worth attributable 
+to owners of the Company 
+Calculated by dividing the Restated Profit/(loss) attributable to owners of the Company by the Net worth 
+attributable to owners of the Company. 
+ 
+Total 
+interest 
+and 
+principal 
+repayments 
+Calculated as sum of current borrowings, current lease liabilities and finance cost. 
+Working Capital Turnover Ratio 
+Calculated by dividing Revenue from operations by Average Working Capital. Average Working Capital is 
+defined as Opening Net Working capital plus closing Net Working capital divided by 2.  
+ 
+Key Performance Indicators as stated in the “Basis of Offer Price” section beginning on page 114: 
+ 
+ 
+ 
+Term 
+Description 
+Revenue from operations 
+Revenue from operations means Revenue from sale of products and other operating income 
+Revenue 
+Split 
+by 
+Product 
+categories 
+Includes revenue from sale of VI devices, SH devices and other products 
+Revenue Split by Geography 
+Bifurcation of revenue from operations from India, Europe and ROW (Rest of world). 
+EBITDA 
+Calculated as sum of restated profit/(loss) after tax, total tax expense, finance costs, and depreciation and 
+amortisation expense and exceptional item minus other income 
+EBITDA Margin 
+Calculated as EBITDA divided by Revenue from operations. 
+Restated profit/(loss) after tax/PAT Restated Profit/(loss) after tax means the profit/(loss) after tax as appearing in the Restated Consolidated 
+Financial Information. 
+PAT Margin 
+Calculated as restated profit/(loss) after tax divided by Revenue from operations. 
+Net debt to EBITDA 
+Calculated as Net debt divided by EBITDA is calculated as Net Debt divided by EBITDA. Net Debt is 
+calculated as the sum of current borrowings and non-current borrowings, less cash and cash equivalents and 
+DSRA deposit. 
+Return on Equity attributable to 
+Owners of the Company 
+Calculated by dividing the Restated Profit/(loss)  for the year attributable to Owners of the Company by the 
+Average of total equity attributable to owners of the Company. The average is obtained by adding the Total 
+Equity attributable to owners of the Company at the beginning and end of the year and dividing by 2. 
+Return on capital employed 
+Return on Capital Employed, also expressed as a percentage, is calculated by dividing EBIT by Capital 
+Employed. EBIT is the sum of restated profit/ (loss) after tax, total tax expense, finance costs, and 
+exceptional items. capital employed is calculated as sum of total equity,total borrowings, total deferred tax 
+liabilities, total lease liabilities minus goodwill, other intangible assets, intangible assets under development 
+and right of use assets. 
+Gross 
+Tangible 
+Fixed 
+Asset 
+Turnover Ratio 
+Calculated  by dividing Revenue from operations by the average of Property, Plant and Equipment (Cost), 
+where the average is the sum of the Property, Plant and Equipment (Cost)at the beginning and end of the 
+year divided by two. 
+Net working capital days (overall) 
+(based on days of revenue from 
+operations) 
+Sum of Trade Receivable Days and Inventory Days as reduced by Trade Payable Days, where Trade 
+Receivables Days are calculated as 365 divided by (Revenue from operations / Average trade receivables), 
+Inventory Days is calculated as 365 divided by (Revenue from operations / Average inventory) and Trade 
+Payable Days is calculated as 365 divided by (Revenue from operations / Average trade payables). 
+Presence in Countries 
+Presence in Countries is the total number of countries from where revenue is generated based on the location 
+of the customer at the end of the reporting period. 
+
+=== PAGE 18 ===
+ 
+14 
+CERTAIN CONVENTIONS, PRESENTATION OF FINANCIAL, INDUSTRY AND MARKET DATA 
+In this Draft Red Herring Prospectus: 
+• 
+all references to India are to the Republic of India and its territories and possessions; 
+• 
+all references to the “US”, “U.S.”, “USA” or “United States” are to the United States of America and its territories and 
+possessions; 
+• 
+all references to “Brazil” are to the Federative Republic of Brazil and its territories and possessions; 
+• 
+all references to “Thailand” are to the Kingdom of Thailand and its territories and possessions; 
+• 
+all references to “Ireland” are to the Republic of Ireland and its territories and possessions; 
+• 
+all references to “Poland” are to the Republic of Poland and its territories and possessions; 
+• 
+all references to “Germany” are to the Federal Republic of Germany and its territories and possessions; 
+• 
+all references to “Switzerland” are to the Swiss Confederation and its territories and possessions; 
+• 
+all references to “Russia” are to the Russian Federation and its territories and possessions; 
+• 
+all references to “Spain” are to the Kingdom of Spain and its territories and possessions; and 
+• 
+all references to “France” are to the French Republic and its territories and possessions. 
+ 
+Page Numbers 
+Unless otherwise stated, all references to page numbers in this Draft Red Herring Prospectus are to page numbers of this Draft Red 
+Herring Prospectus. 
+Currency and Units of Presentation 
+In this Draft Red Herring Prospectus: 
+• 
+all references to “Rupee(s)”, “Rs.” or “₹” or “INR” are to Indian Rupees, the official currency of the Republic of India; 
+• 
+all references to “US$” or “USD” or “U.S. Dollars” or “$” are to United States Dollars, the official currency of the United 
+States of America; 
+• 
+all references to “EUR” or “€” are to Euros, the official currency of the European Union; 
+• 
+all references to “฿” are to Thai Bahts, the official currency of Thailand; 
+• 
+all references to “R$” are to Brazilian Reals, the official currency of Brazil; 
+• 
+all references to “PLN” or “zł” are to Zlotys, the official currency of Poland; 
+• 
+all references to “rouble” or “ruble” or “₽” are to Russian Rubles, the official currency of the Russian Federation; and 
+• 
+all references to “CHF” or “₣”are to Francs, the official currency of Switzerland. 
+ 
+Exchange Rates 
+This Draft Red Herring Prospectus contains conversions of certain other currency amounts into Rupees that have been presented 
+solely to comply with the requirements of SEBI ICDR Regulations. Unless otherwise stated, the exchange rates referred to for the 
+purpose of conversion of foreign currency amounts into Rupee amounts, are as follows:  
+(in ₹) 
+Currency 
+Exchange rate as on# 
+March 31, 2025 
+March 31, 2024 
+March 31, 2023 
+1 USD 
+85.58 
+83.37 
+82.22 
+1 EUR / € 
+92.32  
+90.22 
+89.61 
+1 ฿ 
+2.52 
+2.29 
+2.41 
+1 R$ 
+14.89 
+16.62 
+16.19 
+1 PLN / zł 
+22.02 
+20.98 
+19.08 
+1 ruble / ₽ 
+1.01 
+0.90 
+1.06 
+1 CHF / ₣ 
+96.62 
+92.41 
+89.93 
+Source: : www.fbil.org.in and www.xe.com  
+Note: Exchange rate is rounded off to two decimal places. 
+#If the RBI reference rate is not available on a particular date due to a public holiday, exchange rates of the previous working day have been disclosed.  
+Such conversion should not be considered as a representation that such currency amounts have been, could have been or can be converted into Rupees at any 
+particular rate, the rates stated above or at all  
+ 
+Time 
+ 
+Unless otherwise specified, all references to time in this Draft Red Herring Prospectus are to Indian Standard Time. 
+Financial and Other Data 
+Our Company’s fiscal year commences on April 1 of each year and ends on March 31 of the next year. Accordingly, all references 
+to a particular fiscal year (referred to herein as “Fiscal”, “Fiscal Year” or “FY”) in this Draft Red Herring Prospectus are to the 12 
+months period ended March 31 of that particular year and all references to a year are to a calendar year, unless otherwise specified. 
+
+=== PAGE 19 ===
+ 
+15 
+Unless stated or the context requires otherwise, the financial information in this Draft Red Herring Prospectus is derived from our 
+Restated Consolidated Financial Information. The Restated Consolidated Financial Information of our Company and its subsidiaries 
+(collectively referred to as Group) comprises of the Restated Consolidated Statements of Assets and Liabilities as at  March 31 
+2025, March 31 2024 and March 31 2023, the Restated Consolidated Statements of Profit and Loss (including Other Comprehensive 
+Income), the Restated Consolidated Statements of Cash Flows and the Restated Consolidated Statements of Changes in Equity for 
+the years ended March 31 2025, March 31 2024 and March 31 2023 and the Summary of Material Accounting Policies and 
+explanatory notes, prepared in terms of the requirements of Section 26 of Part I of Chapter III of the Companies Act, 2013, the SEBI 
+ICDR Regulations and the Guidance Note on Reports in Company Prospectuses (Revised 2019) issued by the ICAI, as amended 
+from time to time.  
+There are significant differences between Ind AS, U.S. GAAP and IFRS. Our Company does not provide reconciliation of its 
+financial information to IFRS or U.S. GAAP. Our Company has not attempted to explain those differences or quantify their impact 
+on the financial data included in this Draft Red Herring Prospectus and it is urged that you consult your own advisors regarding 
+such differences and their impact on our financial data. For details in connection with risks involving differences between Ind AS, 
+U.S. GAAP and IFRS see “Risk Factors – 50. We have in this Draft Red Herring Prospectus included certain non-GAAP financial 
+measures and certain other industry measures related to our operations and financial performance that may vary from any standard 
+methodology that is applicable across the industry we operate.” on page 55. Accordingly, the degree to which the financial 
+information included in this Draft Red Herring Prospectus will provide meaningful information is entirely dependent on the reader’s 
+level of familiarity with Indian accounting policies and practices, the Companies Act, Ind AS, and the SEBI ICDR Regulations. 
+Any reliance by persons not familiar with Indian accounting policies and practices on the financial disclosures presented in this 
+Draft Red Herring Prospectus should, accordingly, be limited. 
+All the figures in this Draft Red Herring Prospectus, have been presented in million or in whole numbers where the numbers have 
+been too small to present in million unless stated otherwise. One million represents 1,000,000, one billion represents 1,000,000,000 
+and one trillion represents 1,000,000,000,000. Figures sourced from third-party industry sources may be expressed in denominations 
+other than millions and such figures have been expressed in this Draft Red Herring Prospectus in such denominations as provided 
+in such respective sources. 
+In this Draft Red Herring Prospectus, any discrepancies in any table between the total and the sums of the amounts listed are due to 
+rounding off. All per share and percentage figures have been rounded off to one/ two decimal places and all figures in decimal have 
+been rounded off to the second decimal place. However, where any figures may have been sourced from third-party industry sources, 
+such figures may be rounded off to other than two decimal points in their respective sources, such figures appear in this Draft Red 
+Herring Prospectus as rounded-off to such number of decimal points as provided in such respective sources. 
+Unless the context otherwise indicates, any percentage amounts, or ratios (excluding certain operational metrics) as set forth in “Risk 
+Factors”, “Our Business” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” 
+beginning on pages 26, 212 and 350, respectively, and elsewhere in this Draft Red Herring Prospectus have been calculated on the 
+basis of amounts derived from our Restated Consolidated Financial Information, as applicable. 
+Non- GAAP Financial Measures 
+This Draft Red Herring Prospectus contains certain non-GAAP financial measures and certain other statistical information relating 
+to our operations and financial performance namely EBIT, Earnings available for debt service, Capital employed, Net Debt, Net 
+worth attributable to owners of the Company, EBITDA, EBITDA Margin, Adjusted EBITDA, Adjusted EBITDA Margin, PAT 
+Margin, Net Debt to EBITDA, Net Debt to Total Equity, Return on Equity attributable to Owners of the Company, Return on Capital 
+Employed, Return on Net Worth attributable to Owners of the Company, Net Asset Value per Equity Share, Gross Tangible Fixed 
+Asset Turnover Ratio, Debt Service Coverage Ratio, Interest Coverage Ratio, Net Working Capital Days and certain other operating 
+measures relating to our operations and financial performance that are not required by, or presented in accordance with, Ind AS, 
+IFRS or US GAAP (together, “Non-GAAP Measures”). These Non-GAAP Measures are not a measurement of our financial 
+performance or liquidity under Ind AS, IFRS or US GAAP and should not be considered in isolation or construed as an alternative 
+to cash flows, profit/ (loss) for the years/ period or any other measure of financial performance or as an indicator of our operating 
+performance, liquidity, profitability or cash flows generated by operating, investing or financing activities derived in accordance 
+with Ind AS, Indian GAAP, IFRS or US GAAP. We compute and disclose such non-Indian GAAP financial measures and such 
+other statistical information relating to our operations and financial performance as we consider such information to be useful 
+measures of our business and financial performance. These Non-GAAP Measures and other statistical and other information relating 
+to our operations and financial performance may not be computed on the basis of any standard methodology that is applicable across 
+the industry and therefore may not be comparable to financial measures and statistical information of similar nomenclature that may 
+be computed and presented by other companies and are not measures of operating performance or liquidity defined by Ind AS and 
+may not be comparable to similarly titled measures presented by other companies. See also “Management’s Discussion and Analysis 
+of Financial Condition and Results of Operation – Non-GAAP Measures” on page 364. 
+Industry and Market Data  
+The industry and market data set forth in this Draft Red Herring Prospectus, including in “Industry Overview” and “Our Business” 
+on pages 154 and 212, respectively, have been obtained or derived from the report titled “Independent Market Research on 
+Cardiovascular Devices Market Report” dated July 24, 2025, prepared by F&S. The F&S Report has been commissioned and paid 
+for by our Company exclusively for the purposes of the Offer, pursuant to an engagement letter dated March 19, 2025, and is 
+
+=== PAGE 20 ===
+ 
+16 
+available on our Company’s website at www.smtpl.com and has also been included in “Material Contracts and Documents for 
+Inspection – Material Documents” on page 470. Further, F&S vide their letter dated July 24, 2025 (“Letter”) has accorded their no 
+objection and consent to use the F&S Report, in full or in part, in relation to the Offer. Further, F&S, vide their Letter has confirmed 
+that they are an independent agency, and confirmed that they are not related to our Company, our Directors, our Promoters, KMPs, 
+Senior Management, our Subsidiaries, the Selling Shareholders or the Book Running Lead Managers. For further details in relation 
+to risks involving in this regard, see “Risk Factors – 52. Certain sections of this Draft Red Herring Prospectus disclose information 
+from the F&S Report which has been prepared exclusively for the Offer and commissioned and paid for by us exclusively in 
+connection with the Offer and any reliance on such information for making an investment decision in the Offer is subject to inherent 
+risks.” on page 56. 
+The data used in these sources may have been reclassified by us for the purposes of presentation and may also not be comparable. 
+There are no parts, data or information which may be relevant for the proposed Offer, that have been left out or changed in any 
+manner. The extent to which the industry and market data presented in this Draft Red Herring Prospectus is meaningful and depends 
+upon the reader’s familiarity with, and understanding of, the methodologies used in compiling such information. Such information 
+involves risks, uncertainties and numerous assumptions and is subject to change based on various factors, including those discussed 
+in “Risk Factors – 52. Certain sections of this Draft Red Herring Prospectus disclose information from the F&S Report which has 
+been prepared exclusively for the Offer and commissioned and paid for by us exclusively in connection with the Offer and any 
+reliance on such information for making an investment decision in the Offer is subject to inherent risks” on page 56. Accordingly, 
+no investment decision should be solely made on the basis of such information. 
+In accordance with the SEBI ICDR Regulations, the section titled “Basis for Offer Price” beginning on page 114 includes 
+information relating to our peer group companies. Such information has been derived from publicly available sources specified 
+herein. Such industry sources and publications are also prepared based on information as at specific dates and may no longer be 
+current or reflect current trends. Accordingly, no investment decision should be made solely on the basis of such information. 
+Notice to Investors  
+The Equity Shares have not been recommended by any U.S. federal or state securities commission or regulatory authority. 
+Furthermore, the foregoing authorities have not confirmed the accuracy or determined the adequacy of this Draft Red Herring 
+Prospectus or approved or disapproved the Equity Shares. Any representation to the contrary is a criminal offence in the United 
+States. In making an investment decision, investors must rely on their own examination of our Company and the terms of the Issue, 
+including the merits and risks involved. The Equity Shares have not been and will not be registered under the United States Securities 
+Act of 1933 (the “U.S. Securities Act”) or any other applicable law of the United States and, unless so registered, may not be offered 
+or sold within the United States except pursuant to an exemption from, or in a transaction not subject to, the registration requirements 
+of the U.S. Securities Act and applicable state securities laws. Accordingly, the Equity Shares are being offered and sold outside the 
+United States in “offshore transactions” as defined in and in compliance with Regulation S under the U.S. Securities Act and the 
+applicable laws of the jurisdictions where those offers and sales are made. 
+ 
+ 
+
+=== PAGE 119 ===
+ 
+115 
+ 
+ 
+C. 
+Industry Peer Group P/E ratio: 
+Based on the peer group information (excluding our Company), details of the highest, lowest and industry average P/E 
+ratio are set forth below: 
+ 
+P/E Ratio (x) 
+Highest 
+78.32 
+Lowest 
+61.21 
+Average 
+69.77 
+[Notes: 
+(1) The industry high and low has been considered from the listed industry peer set provided later in this chapter. The industry composite has been 
+calculated as the arithmetic average P/E of the industry peer set disclosed in this section. For further details, see “– Comparison with Listed 
+Industry Peers” on page 115. 
+(2) The industry P / E ratio mentioned above is for the financial year ended March 31, 2025. P / E Ratio has been computed based on the closing 
+market price of equity shares on  BSE on July 23, 2025  divided by the Diluted EPS for the year ended March 31, 2025. 
+(3) All the financial information for listed industry peers mentioned above is sourced from the audited financial statements of the relevant companies 
+for Fiscal 2025, as available on the websites of the stock exchanges. 
+D. 
+Return on Net worth attributable to owners of the company  (“RoNW”): 
+Fiscal ended 
+RoNW (%) 
+Weight 
+March 31, 2025 
+3.73% 
+3 
+March 31, 2024 
+(2.43%) 
+2  
+March 31, 2023 
+1.51% 
+1  
+Weighted Average 
+1.31% 
+ 
+Notes: 
+(i) 
+Return on Net Worth attributable to owners of the company (%) = Restated Profit / (Loss) attributable to the owners of the company / Net 
+worth attributable to owners of the Company. 
+(ii) 
+Net Worth attributable to owners of the Company has been computed as the aggregate value of the paid-up equity share capital and all 
+reserves created out of the profits and securities premium account and debit or credit balance of profit and loss account, after deducting 
+the aggregate value of the accumulated losses, but does not include capital reserve created on business combination and foreign currency 
+translation reserve 
+(iii) 
+The Weighted Average Return on Net Worth is a product of Return on Net Worth attributable to owners of the company and respective 
+assigned weight, dividing the resultant by total aggregate weight 
+. 
+E. 
+Net Asset Value (“NAV”) per Equity Share 
+Particulars 
+Amount (₹) 
+As on March 31, 2025 
+55.86 
+After the completion of the Offer  
+ 
+- At the Floor Price 
+[●]* 
+- At the Cap Price 
+[●]* 
+At Offer Price 
+[●]* 
+*  
+To be computed after finalisation of the Price Band. Offer Price per Equity Share will be determined on conclusion of the Book Building Process. 
+Notes: 
+(1) Net Asset Value per Equity Share = Net worth attributable to owners of the company divided by Closing Number of Equity Shares multiplied 
+by one million 
+(2) Net Worth attributable to owners of the Company has been computed as the aggregate value of the paid-up equity share capital and all reserves 
+created out of the profits and securities premium account and debit or credit balance of profit and loss account, after deducting the aggregate 
+value of the accumulated losses, but does not include capital reserve created on business combination and foreign currency translation reserve 
+  
+  
+F. 
+Comparison with Listed Industry Peers 
+The peer group of the Company has been determined on the basis of companies listed on Indian stock exchanges, whose 
+business profile is comparable to our businesses in terms of our size and our business model: 
+Name of the 
+Company 
+Total Revenue 
+from 
+operations 
+Face Value 
+P/E 
+ratio as 
+on July 
+23, 
+2025# 
+Closing 
+price as 
+on July 
+23, 2025 
+EPS for the Financial 
+Year 2025 (₹) 
+Return on 
+Net Worth 
+(%) 
+Net Asset Value 
+per equity share 
+(₹) 
+ 
+(₹ in million) 
+(₹ per share) 
+ 
+ 
+Basic 
+Diluted 
+ 
+ 
+Sahajanand 
+Medical 
+Technologies 
+Limited& 
+10,248.79 
+1 
+NA 
+NA 
+2.09 
+2.01 
+3.73% 
+55.86 
+Listed peers* 
+
+=== PAGE 120 ===
+ 
+116 
+ 
+Name of the 
+Company 
+Total Revenue 
+from 
+operations 
+Face Value 
+P/E 
+ratio as 
+on July 
+23, 
+2025# 
+Closing 
+price as 
+on July 
+23, 2025 
+EPS for the Financial 
+Year 2025 (₹) 
+Return on 
+Net Worth 
+(%) 
+Net Asset Value 
+per equity share 
+(₹) 
+ 
+(₹ in million) 
+(₹ per share) 
+ 
+ 
+Basic 
+Diluted 
+ 
+ 
+Poly Medicure 
+Limited 
+16,698.32 
+5 
+61.21 
+2,087.80 
+34.13 
+34.11 
+12.24% 
+272.95 
+Laxmi 
+Dental 
+Limited 
+2,391.07 
+2 
+78.32 
+473.85 
+6.07 
+6.05 
+15.24% 
+37.97 
+&Sourced from the Restated Consolidated Financial Information and table D and E given hereabove. 
+ 
+Note for Listed Peers: 
+ 
+1) 
+Revenue from Operations means Revenue from sale of products and other operating revenue. All the financial information for listed industry 
+peer mentioned above is sourced from the FY25 results of the company for the year ended March 31, 2025 
+2) 
+P/E Ratio has been computed based on the closing market price of equity shares on BSE on July 23, 2025 divided by the Diluted EPS provided. 
+3) 
+Return on Net Worth (%) = Net Profit after tax attributable to owners of the parent for the year ended March 31, 2025 / Net worth at the end 
+of the year 
+4) 
+Net worth has been calculated as the sum of equity share capital and other equity, excluding capital reserve, amalgamation reserve and non-
+controlling interest. 
+Net Asset Value per Equity Share = Net worth attributable to owners of the company divided by Closing Number of Equity Shares multiplied 
+by one million. 
+G. 
+Key Performance Indicators 
+The table below sets forth the details of our KPIs that our Company considers have a bearing for arriving at the basis 
+for Offer Price. All the KPIs disclosed below have been approved and verified by a resolution of our Audit Committee 
+dated July 21, 2025. Further, the KPIs disclosed herein have been certified by NBT and Co., Chartered Accountants, 
+Chartered Accountants, by their certificate dated July 25, 2025, which will form part of the material contracts for 
+inspection. For further details, see “Material Contracts and Documents for Inspection” on page 470. The management 
+and the Audit Committee (through its resolutions dated July 21, 2025, and July 25, 2025 respectively)  have confirmed 
+that the KPIs disclosed below have been identified and disclosed in accordance with the SEBI ICDR Regulations and 
+the Industry Standards on Key Performance Indicators Disclosures in the Draft Offer Document and Offer Document 
+(“KPI Standards”). 
+The KPIs disclosed below have been historically used by our Company to understand and analyze its business 
+performance and will also help in analyzing its growth in comparison to its peers. 
+Bidders can refer to the below-mentioned KPIs, being a combination of financial and operational metrics, to make an 
+assessment of our Company’s performance and make an informed decision. 
+A list of our KPIs, is set out below for the indicated periods below:  
+Key Metrics 
+Unit 
+As of and Financial 
+year ended March 31, 
+2025 
+As of and Financial 
+year ended March 31, 
+2024 
+As of and Financial 
+year ended March 31, 
+2023 
+Financial KPIs 
+  
+  
+  
+  
+Revenue from operations (1) 
+₹ million 
+10,248.79 
+9,016.04 
+7,955.49 
+EBITDA(2) 
+₹ million 
+1,280.21 
+1,100.47 
+1,107.73 
+EBITDA margin (3) 
+% 
+12.49% 
+12.21% 
+13.92% 
+Restated profit/(loss) after tax 
+(“PAT”) (4) 
+₹ million 
+251.52 
+(73.54) 
+119.34 
+PAT margin (5) 
+% 
+2.45% 
+(0.82%) 
+1.50% 
+Net debt to EBITDA (6) 
+Times 
+0.91 
+0.86 
+0.58 
+Return on equity (7) 
+(%) 
+3.68% 
+(2.34%) 
+1.70% 
+Return on capital employed 
+(%)(8) 
+(%) 
+10.37% 
+8.05% 
+10.54% 
+  
+  
+  
+  
+  
+Operational KPIs 
+  
+  
+  
+  
+Gross Tangible Fixed Asset 
+Turnover Ratio(9) 
+Times 
+3.49 
+3.37 
+4.35 
+Net 
+working 
+capital 
+days 
+(overall) (based on days of 
+revenue from operations) (10) 
+Number of 
+days 
+144 
+144 
+142 
+Revenue 
+Split 
+by 
+Product 
+categories(11) 
+% 
+VI devices: 65.86%  
+SH devices: 15.35%  
+Others: 18.79% 
+VI devices: 68.57% 
+SH devices: 12.26%  
+Others: 19.17% 
+VI devices: 71.99%  
+SH devices: 9.48%  
+Others: 18.52% 
+
+=== PAGE 121 ===
+ 
+117 
+ 
+Key Metrics 
+Unit 
+As of and Financial 
+year ended March 31, 
+2025 
+As of and Financial 
+year ended March 31, 
+2024 
+As of and Financial 
+year ended March 31, 
+2023 
+Revenue Split by Geography(12) 
+% 
+India: 31.28% 
+Europe: 32.96% 
+RoW:  35.76% 
+India: 34.80% 
+Europe: 29.52% 
+RoW:  35.68% 
+India: 36.39% 
+Europe: 27.82% 
+RoW:  35.78% 
+Presence in countries (Nos) (13)  
+Number 
+76 
+56 
+59 
+Manufacturing 
+Capacity 
+(Product Wise) (Nos) 
+Number 
+VI devices 
+Stents: 840,000 
+Catheters: 960,000   
+SH devices 
+TAVI devices:7,800 
+Occluders:42,000 
+VI devices 
+Stents: 780,000 
+Catheters: 960,000   
+SH devices 
+TAVI devices:1,800 
+Occluders:30,000 
+VI devices 
+Stents: 792,000 
+Catheters: 840,000   
+SH devices 
+TAVI devices:440 
+Occluders:12,996 
+Product 
+wise 
+Capacity 
+Utilization (%) 
+% 
+VI devices 
+Stents: 82.39% 
+Catheters: 91.16%  
+SH devices   
+TAVI devices:14.44% 
+Occluders:23.24% 
+VI devices 
+Stents: 85.10% 
+Catheters: 94.53%  
+SH devices   
+TAVI devices:38.11% 
+Occluders:50.24% 
+VI devices 
+Stents: 82.45% 
+Catheters: 83.03%  
+SH devices   
+TAVI devices:24.44% 
+Occluders:43.32% 
+Notes: 
+(1) 
+Revenue from Operations means Revenue from sale of products and other operating income. 
+(2) 
+EBITDA is calculated as the sum of Restated Profit/(loss) after tax, total tax expense, finance cost, and depreciation and amortization expense 
+and exceptional items, minus other income. 
+(3) 
+EBIDTA Margin is calculated as EBITDA divided by Revenue from Operations. 
+(4) 
+Restated profit/(loss) after tax means the profit/(loss) after tax as appearing in the Restated Consolidated Financial Information. 
+(5) 
+PAT Margin is calculated as Restated Profit/(loss) after tax divided by Revenue from operations  
+(6) 
+Net Debt to EBITDA is calculated as Net Debt divided by EBITDA. Net Debt is calculated as the sum of current borrowings and non-current 
+borrowings, less cash and cash equivalents and DSRA deposit. 
+(7) 
+Return on Equity attributable to owners of the Company, is calculated by dividing the Restated Profit/(loss) attributable to Owners of the 
+Company by the Average of total equity attributable to owners of the Company. The average is obtained by adding the Total Equity attributable 
+to owners of the Company at the beginning and end of the year and dividing by 2. 
+(8) 
+Return on Capital Employed, also expressed as a percentage, is calculated by dividing EBIT by Capital Employed. EBIT is the sum of restated 
+profit/ (loss) after tax, total tax expense, finance costs, and exceptional items. capital employed is calculated as sum of total equity,total 
+borrowings, total deferred tax liabilities, total lease liabilities minus goodwill, other intangible assets, intangible assets under development 
+and right of use assets. 
+(9) 
+Gross Tangible Fixed Asset Turnover Ratio is calculated by dividing Revenue from operations by the average of Property, Plant and Equipment 
+(Cost), where the average is the sum of the Property, Plant and Equipment (Cost)at the beginning and end of the year divided by two.  
+(10) Net working capital days (overall) (based on days of revenue from operations) is sum of Trade Receivable Days and Inventory Days as reduced 
+by Trade Payable Days; where Trade Receivables Days or Debtors days are calculated as 365 divided by (Revenue from operations / Average 
+trade receivables), Inventory Days is calculated as 365 divided by (Revenue from operations / Average inventory) and Trade Payable Days is 
+calculated as 365 divided by (Revenue from operations / Average trade payables). 
+(11) Revenue Split by Product categories includes revenue from sale of VI devices, SH devices and other products. 
+(12) Revenue Split by Geography is bifurcation of revenue from operations from India, Europe and ROW (Rest of world). 
+(13) Presence in Countries is the total number of countries from where revenue is generated based on the location of the customer at the end of the 
+reporting period.  
+ 
+For details of our other operating metrics disclosed elsewhere in this Draft Red Herring Prospectus, see “Our Business” 
+and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” beginning on pages 
+212 and 350, respectively. 
+Our Company confirms that it shall continue to disclose all the KPIs included in this section on a periodic basis, at least 
+once in a year (or any lesser period as determined by the Board of Directors of our Company), for a period of one year 
+after the date of listing of the Equity Shares on the Stock Exchanges, or for such other duration as required under the 
+SEBI ICDR Regulations. 
+H. 
+Description on the historic use of the KPIs by our Company to analyze, track or monitor the operational and/or 
+financial performance of our Company 
+In evaluating our business, we consider and use certain KPIs as presented above, as a supplemental measure to review 
+and assess our financial and operating performance. The presentation of these KPIs are not intended to be considered 
+in isolation or as a substitute for the Restated Consolidated Financial Information. We use these KPIs to evaluate our 
+financial and operating performance. Some of these KPIs are not defined under Ind AS and are not presented in 
+accordance with Ind AS. These KPIs have limitations as analytical tools. Further, these KPIs may differ from the similar 
+information used by other companies and hence their comparability may be limited. Therefore, these metrics should not 
+be considered in isolation or construed as an alternative to Ind AS measures of performance or as an indicator of our 
+operating performance, liquidity, profitability or results of operation. Although these KPIs are not a measure of 
+performance calculated in accordance with applicable accounting standards, our Company’s management believes that 
+it provides an additional tool for investors to use in evaluating our ongoing operating results and trends and in comparing 
+our financial results with other companies in our industry because it provides consistency and comparability with past 
+financial performance, when taken collectively with financial measures prepared in accordance with Ind AS. 

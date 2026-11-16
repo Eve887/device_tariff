@@ -1,0 +1,4 @@
+﻿tier,n_codes,gap_change_new_period_pp,epsilon_used_from_fix1_base,predicted_relative_change_pct,actual_relative_change_pct,model_error_pp,naive_predicted_pct,naive_error_pp,model_beats_naive,india_baseline_usd_this_period,persistent_loss_usd
+Tier A (simple disposables),7,3.27,1.319,-4.31,-31.77,27.46,0.0,31.77,True,42307552,11615767
+Tier C (implants and dental),3,1.81,2.167,-3.92,0.79,-4.71,0.0,-0.79,False,19955407,
+Tier B (equipment),10,3.73,0.497,-1.86,-19.85,18.0,0.0,19.85,True,196847827,35426939

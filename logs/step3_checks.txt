@@ -1,0 +1,29 @@
+[2026-11-15 07:16:56] Step 3 results:
+Check 1, 2022 (12 months): US imports from India across our 48 codes = $495.3 million.
+
+Check 1, 2023 (12 months): US imports from India across our 48 codes = $492.7 million.
+
+Check 1, 2024 (12 months): US imports from India across our 48 codes = $517.1 million.
+
+Check 1, 2025 (12 months): US imports from India across our 48 codes = $541.9 million.
+
+Check 1, 2026 (9 months): US imports from India across our 48 codes = $335.5 million.
+
+Compare with EPCMD FY 2024-25 = $782.57 million (April 2024 to March 2025, India-reported). Calendar 2024 and 2025 should sit near it. A result far below it means a missing code; far above means our list includes codes EPCMD does not count as devices.
+
+Check 2: 131 code-years where US-reported imports from India and India-reported exports to the US differ by more than 25%. Some gap is normal (shipping time across year-end, freight in the value, goods routed via other countries). We use the US figure as Exposure because duty is charged on it.
+
+Check 3: in 2025, 20 code(s) had US imports from India below $1 million: 300510, 300640, 300650, 300691, 382211, 382212, 382213, 901812, 901820, 901841, 901910, 902000, 902129, 902140, 902150, 902213, 902219, 902221, 902229, 940210. Per the plan these drop out of View A unless they matter for View B or C.
+
+Check 4, 2022: duty charged on Indian device imports = 0.05% of value.
+
+Check 4, 2023: duty charged on Indian device imports = 0.04% of value.
+
+Check 4, 2024: duty charged on Indian device imports = 0.03% of value.
+
+Check 4, 2025: duty charged on Indian device imports = 17.64% of value.
+
+Check 4, 2026: duty charged on Indian device imports = 13.79% of value.
+
+Expect roughly 0-2% in 2022-2024 (MFN only), higher in 2025 (reciprocal tariffs from August), and in 2026 a mix of Section 122 (Feb-Jul) and Section 301 (from 24 July). If 2026 stays near 0%, Census may not include Chapter 99 duties in its calculated duty - note it and use the Rulebook rates instead.
+[2026-11-15 07:16:56] Wrote data/phase2_summary.csv (240 rows) and data/phase2_checks.txt

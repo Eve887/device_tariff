@@ -1,0 +1,104 @@
+{
+  "901819": {
+    "description": "Other electro-diagnostic apparatus incl. patient monitors",
+    "india_2025_usd": 136430519,
+    "hs10_lines": [
+      "9018194000",
+      "9018195500",
+      "9018197500",
+      "9018199530",
+      "9018199535",
+      "9018199550",
+      "9018199560"
+    ]
+  },
+  "901890": {
+    "description": "Other medical and surgical instruments",
+    "india_2025_usd": 80534630,
+    "hs10_lines": [
+      "9018901000",
+      "9018902000",
+      "9018903000",
+      "9018904000",
+      "9018905040",
+      "9018905080",
+      "9018906000",
+      "9018906400",
+      "9018906800",
+      "9018907520",
+      "9018907540",
+      "9018907560",
+      "9018907570",
+      "9018907580",
+      "9018908000"
+    ]
+  },
+  "902230": {
+    "description": "X-ray tubes",
+    "india_2025_usd": 67638887,
+    "hs10_lines": [
+      "9022300000"
+    ]
+  },
+  "901839": {
+    "description": "Catheters cannulas and the like",
+    "india_2025_usd": 51239879,
+    "hs10_lines": [
+      "9018390020",
+      "9018390040",
+      "9018390050"
+    ]
+  },
+  "902290": {
+    "description": "Parts of X-ray and radiation apparatus",
+    "india_2025_usd": 33521922,
+    "hs10_lines": [
+      "9022900500",
+      "9022901500",
+      "9022902500",
+      "9022904000",
+      "9022906000",
+      "9022907000",
+      "9022909500"
+    ]
+  },
+  "902131": {
+    "description": "Artificial joints",
+    "india_2025_usd": 21920729,
+    "hs10_lines": [
+      "9021310000"
+    ]
+  },
+  "902214": {
+    "description": "Other medical X-ray apparatus",
+    "india_2025_usd": 20725489,
+    "hs10_lines": [
+      "9022140000"
+    ]
+  },
+  "901811": {
+    "description": "Electro-cardiographs (ECG)",
+    "india_2025_usd": 16884483,
+    "hs10_lines": [
+      "9018113000",
+      "9018116000",
+      "9018119000"
+    ]
+  },
+  "901850": {
+    "description": "Other ophthalmic instruments",
+    "india_2025_usd": 14901913,
+    "hs10_lines": [
+      "9018500000"
+    ]
+  },
+  "901831": {
+    "description": "Syringes",
+    "india_2025_usd": 14090000,
+    "hs10_lines": [
+      "9018310040",
+      "9018310080",
+      "9018310090"
+    ]
+  }
+}

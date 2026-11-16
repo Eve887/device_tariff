@@ -1,0 +1,19 @@
+# Private API key - never upload
+census_key.txt
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Excel lock files
+~$*.xlsx
+
+# Bulk raw downloads (re-created by the scripts) and third-party PDFs
+raw/census/
+raw/census_hs10_duty/
+raw/census_hs10_qty/
+raw/census_monthly/
+raw/census_monthly_qty/
+raw/comtrade/
+*.pdf

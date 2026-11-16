@@ -1,0 +1,3 @@
+﻿code,level,description,source,rule_applied
+902781,HS6,Mass spectrometers,EPCMD,"HS2022 split of old 9027.80 (Mass spectrometers / Other analytical instruments) - kept separate per instruction, not in final_codes.csv"
+902789,HS6,Viscometers,EPCMD,"HS2022 split of old 9027.80 (Mass spectrometers / Other analytical instruments) - kept separate per instruction, not in final_codes.csv"

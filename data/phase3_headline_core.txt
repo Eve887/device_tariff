@@ -1,0 +1,95 @@
+=== Headline numbers: core_device_codes.csv ONLY (60 codes) ===
+
+--- 4a. Jan-Sep comparison ---
+India:
+  2024 Jan-Sep: $391,291,989  (duty 0.07%)
+  2025 Jan-Sep: $427,913,388  (duty 9.86%)  change vs 2024: 9.4%
+  2026 Jan-Sep: $335,727,846  (duty 14.16%)  change vs 2025: -21.5%
+China:
+  2024 Jan-Sep: $6,191,179,095  (duty 3.15%)
+  2025 Jan-Sep: $5,475,453,823  (duty 20.5%)  change vs 2024: -11.6%
+  2026 Jan-Sep: $4,972,425,668  (duty 13.66%)  change vs 2025: -9.2%
+Mexico:
+  2024 Jan-Sep: $12,761,345,178  (duty 0.03%)
+  2025 Jan-Sep: $13,732,817,092  (duty 2.84%)  change vs 2024: 7.6%
+  2026 Jan-Sep: $13,065,231,867  (duty 1.58%)  change vs 2025: -4.9%
+All countries:
+  2024 Jan-Sep: $63,899,068,362  (duty 0.35%)
+  2025 Jan-Sep: $68,349,846,305  (duty 5.38%)  change vs 2024: 7.0%
+  2026 Jan-Sep: $65,411,314,208  (duty 5.9%)  change vs 2025: -4.3%
+
+--- 4b. India Jan-Sep 2025 vs 2026, by product group ---
+  Electro-diagnostic     2025: $   117,787,541   2026: $    87,456,785   change: -25.8%
+  Imaging                2025: $   100,142,659   2026: $    85,946,705   change: -14.2%
+  Consumables            2025: $    74,009,926   2026: $    45,222,493   change: -38.9%
+  Instruments            2025: $    64,238,160   2026: $    46,603,179   change: -27.5%
+  Implants               2025: $    20,303,909   2026: $    25,534,349   change: 25.8%
+  Dressings & Sutures    2025: $    12,017,758   2026: $    10,964,735   change: -8.8%
+  Ophthalmic             2025: $    11,861,475   2026: $    10,198,014   change: -14.0%
+  Dental                 2025: $     8,923,088   2026: $     6,623,455   change: -25.8%
+  Other                  2025: $     7,649,513   2026: $     7,079,122   change: -7.5%
+  Respiratory & Therapy  2025: $     4,942,527   2026: $     5,411,242   change: 9.5%
+  Gloves                 2025: $     3,337,079   2026: $     1,158,029   change: -65.3%
+  Furniture              2025: $     2,670,571   2026: $     3,461,564   change: 29.6%
+  Hearing                2025: $        22,122   2026: $        68,174   change: 208.2%
+  Diagnostics            2025: $         7,060   2026: $             0   change: -100.0%
+
+--- 4c. India by tariff period, vs same months a year earlier ---
+  Apr-Sep 2025: India $279,403,417 vs prior-year $269,560,846 (3.7%)  |  All countries $46,047,548,318 vs prior-year $43,650,042,228 (5.5%)
+  Oct-Dec 2025: India $121,821,550 vs prior-year $141,359,018 (-13.8%)  |  All countries $21,852,718,938 vs prior-year $22,964,968,813 (-4.8%)
+  Jan-Mar 2026: India $106,371,712 vs prior-year $148,509,971 (-28.4%)  |  All countries $20,972,945,035 vs prior-year $22,302,297,987 (-6.0%)
+  Apr-Sep 2026: India $229,356,134 vs prior-year $279,403,417 (-17.9%)  |  All countries $44,438,369,173 vs prior-year $46,047,548,318 (-3.5%)
+
+--- 4d. Verdict: "HOLDS" ---
+India's Jan-Sep 2025-to-2026 change = -21.5%, all countries' change = -4.3% (India's fall is 17.2 points larger than all countries')
+
+======================================================================
+
+=== Headline numbers: core + pharma-like + hygiene (63 codes, for comparison) (63 codes) ===
+
+--- 4a. Jan-Sep comparison ---
+India:
+  2024 Jan-Sep: $476,555,753  (duty 0.06%)
+  2025 Jan-Sep: $525,089,160  (duty 8.05%)  change vs 2024: 10.2%
+  2026 Jan-Sep: $416,079,305  (duty 11.5%)  change vs 2025: -20.8%
+China:
+  2024 Jan-Sep: $6,487,860,055  (duty 3.27%)
+  2025 Jan-Sep: $5,838,312,230  (duty 20.83%)  change vs 2024: -10.0%
+  2026 Jan-Sep: $5,321,449,988  (duty 13.89%)  change vs 2025: -8.9%
+Mexico:
+  2024 Jan-Sep: $13,049,010,526  (duty 0.04%)
+  2025 Jan-Sep: $13,950,792,520  (duty 2.84%)  change vs 2024: 6.9%
+  2026 Jan-Sep: $13,309,737,083  (duty 1.57%)  change vs 2025: -4.6%
+All countries:
+  2024 Jan-Sep: $66,960,167,379  (duty 0.36%)
+  2025 Jan-Sep: $72,539,971,436  (duty 5.23%)  change vs 2024: 8.3%
+  2026 Jan-Sep: $68,855,528,968  (duty 5.74%)  change vs 2025: -5.1%
+
+--- 4b. India Jan-Sep 2025 vs 2026, by product group ---
+  Consumables            2025: $   167,862,935   2026: $   118,298,271   change: -29.5%
+  Electro-diagnostic     2025: $   117,787,541   2026: $    87,456,785   change: -25.8%
+  Imaging                2025: $   100,142,659   2026: $    85,946,705   change: -14.2%
+  Instruments            2025: $    64,238,160   2026: $    46,603,179   change: -27.5%
+  Implants               2025: $    20,303,909   2026: $    25,534,349   change: 25.8%
+  Dressings & Sutures    2025: $    12,017,758   2026: $    10,964,735   change: -8.8%
+  Ophthalmic             2025: $    11,861,475   2026: $    10,198,014   change: -14.0%
+  Dental                 2025: $     8,923,088   2026: $     6,623,455   change: -25.8%
+  Other                  2025: $     7,649,513   2026: $     7,079,122   change: -7.5%
+  Respiratory & Therapy  2025: $     4,942,527   2026: $     5,411,242   change: 9.5%
+  Gloves                 2025: $     3,337,079   2026: $     1,158,029   change: -65.3%
+  Diagnostics            2025: $     3,329,823   2026: $     7,275,681   change: 118.5%
+  Furniture              2025: $     2,670,571   2026: $     3,461,564   change: 29.6%
+  Hearing                2025: $        22,122   2026: $        68,174   change: 208.2%
+
+--- 4c. India by tariff period, vs same months a year earlier ---
+  Apr-Sep 2025: India $342,461,729 vs prior-year $326,195,902 (5.0%)  |  All countries $48,595,042,692 vs prior-year $45,763,835,547 (6.2%)
+  Oct-Dec 2025: India $144,282,145 vs prior-year $177,129,519 (-18.5%)  |  All countries $22,972,763,549 vs prior-year $23,997,272,201 (-4.3%)
+  Jan-Mar 2026: India $129,027,171 vs prior-year $182,627,431 (-29.3%)  |  All countries $22,053,737,060 vs prior-year $23,944,928,744 (-7.9%)
+  Apr-Sep 2026: India $287,052,134 vs prior-year $342,461,729 (-16.2%)  |  All countries $46,801,791,908 vs prior-year $48,595,042,692 (-3.7%)
+
+--- 4d. Verdict: "HOLDS" ---
+India's Jan-Sep 2025-to-2026 change = -20.8%, all countries' change = -5.1% (India's fall is 15.7 points larger than all countries')
+
+=== 4e. Verdict comparison ===
+Core devices only (60 codes): "HOLDS" - India -21.5% vs all countries -4.3%
+Core + pharma-like + hygiene (63 codes): "HOLDS" - India -20.8% vs all countries -5.1%

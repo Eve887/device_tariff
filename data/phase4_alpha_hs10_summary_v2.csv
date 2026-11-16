@@ -1,0 +1,4 @@
+﻿tier,alpha,basis,n_usable_lines
+low,-1.292,25th percentile of measured alpha (10-digit lines),17
+base,0.063,median of measured alpha,17
+high,0.908,75th percentile of measured alpha,17

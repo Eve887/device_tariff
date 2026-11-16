@@ -1,0 +1,358 @@
+﻿code,description,group,tier,scenario,scenario_year,delta_t_pp,delta_g_pp,E_2025_full_year_usd,E_latest_12mo_usd,rar_2025_low_usd,rar_2025_base_usd,rar_2025_high_usd,rar_12mo_low_usd,rar_12mo_base_usd,rar_12mo_high_usd
+300510,Adhesive dressings,Dressings & Sutures,Tier A (simple disposables),S0_Today,,0.0,0.0,150186,283316,0,0,0,0,0,0
+300510,Adhesive dressings,Dressings & Sutures,Tier A (simple disposables),S1_China_exclusion_expiry,,0.0,0.0,150186,283316,0,0,0,0,0,0
+300510,Adhesive dressings,Dressings & Sutures,Tier A (simple disposables),S2_Sec232_15pct_exemptions,,15.0,6.94,150186,283316,14485,17699,20079,27325,33388,37878
+300510,Adhesive dressings,Dressings & Sutures,Tier A (simple disposables),S3_Sec232_25pct_all,,25.0,0.0,150186,283316,11264,16896,22528,21249,31873,42497
+300510,Adhesive dressings,Dressings & Sutures,Tier A (simple disposables),S4_Phased_Sec232,Year1_10pct,10.0,0.0,150186,283316,4506,6758,9011,8499,12749,16999
+300510,Adhesive dressings,Dressings & Sutures,Tier A (simple disposables),S4_Phased_Sec232,Year2_25pct,25.0,0.0,150186,283316,11264,16896,22528,21249,31873,42497
+300510,Adhesive dressings,Dressings & Sutures,Tier A (simple disposables),S5_India_deal_minus10,,-10.0,-10.0,150186,283316,-15639,-17654,-18467,-29502,-33302,-34837
+300590,Other wadding gauze bandages,Dressings & Sutures,Tier A (simple disposables),S0_Today,,0.0,0.0,13839290,13277970,0,0,0,0,0,0
+300590,Other wadding gauze bandages,Dressings & Sutures,Tier A (simple disposables),S1_China_exclusion_expiry,,0.0,-4.99,13839290,13277970,-511927,-500982,-434790,-491164,-480662,-417155
+300590,Other wadding gauze bandages,Dressings & Sutures,Tier A (simple disposables),S2_Sec232_15pct_exemptions,,15.0,5.03,13839290,13277970,1138799,1439150,1683811,1092609,1380778,1615516
+300590,Other wadding gauze bandages,Dressings & Sutures,Tier A (simple disposables),S3_Sec232_25pct_all,,25.0,0.0,13839290,13277970,1037947,1556920,2075894,995848,1493772,1991696
+300590,Other wadding gauze bandages,Dressings & Sutures,Tier A (simple disposables),S4_Phased_Sec232,Year1_10pct,10.0,0.0,13839290,13277970,415179,622768,830357,398339,597509,796678
+300590,Other wadding gauze bandages,Dressings & Sutures,Tier A (simple disposables),S4_Phased_Sec232,Year2_25pct,25.0,0.0,13839290,13277970,1037947,1556920,2075894,995848,1493772,1991696
+300590,Other wadding gauze bandages,Dressings & Sutures,Tier A (simple disposables),S5_India_deal_minus10,,-10.0,-10.0,13839290,13277970,-1441085,-1626739,-1701679,-1382635,-1560759,-1632659
+300610,Sterile surgical sutures and tissue adhesives,Dressings & Sutures,Tier A (simple disposables),S0_Today,,0.0,0.0,1101409,470773,0,0,0,0,0,0
+300610,Sterile surgical sutures and tissue adhesives,Dressings & Sutures,Tier A (simple disposables),S1_China_exclusion_expiry,,0.0,0.0,1101409,470773,0,0,0,0,0,0
+300610,Sterile surgical sutures and tissue adhesives,Dressings & Sutures,Tier A (simple disposables),S2_Sec232_15pct_exemptions,,15.0,3.51,1101409,470773,78222,102391,123467,33434,43765,52773
+300610,Sterile surgical sutures and tissue adhesives,Dressings & Sutures,Tier A (simple disposables),S3_Sec232_25pct_all,,25.0,0.0,1101409,470773,82606,123909,165211,35308,52962,70616
+300610,Sterile surgical sutures and tissue adhesives,Dressings & Sutures,Tier A (simple disposables),S4_Phased_Sec232,Year1_10pct,10.0,0.0,1101409,470773,33042,49563,66085,14123,21185,28246
+300610,Sterile surgical sutures and tissue adhesives,Dressings & Sutures,Tier A (simple disposables),S4_Phased_Sec232,Year2_25pct,25.0,0.0,1101409,470773,82606,123909,165211,35308,52962,70616
+300610,Sterile surgical sutures and tissue adhesives,Dressings & Sutures,Tier A (simple disposables),S5_India_deal_minus10,,-10.0,-10.0,1101409,470773,-114690,-129465,-135429,-49022,-55337,-57886
+300640,Dental cements and bone reconstruction cements,Dental,Tier C (implants and dental),S0_Today,,0.0,0.0,210376,183557,0,0,0,0,0,0
+300640,Dental cements and bone reconstruction cements,Dental,Tier C (implants and dental),S1_China_exclusion_expiry,,0.0,0.0,210376,183557,0,0,0,0,0,0
+300640,Dental cements and bone reconstruction cements,Dental,Tier C (implants and dental),S2_Sec232_15pct_exemptions,,15.0,15.0,210376,183557,21373,25881,29448,18648,22582,25694
+300640,Dental cements and bone reconstruction cements,Dental,Tier C (implants and dental),S3_Sec232_25pct_all,,25.0,0.0,210376,183557,15778,23667,31556,13767,20650,27534
+300640,Dental cements and bone reconstruction cements,Dental,Tier C (implants and dental),S4_Phased_Sec232,Year1_10pct,10.0,0.0,210376,183557,6311,9467,12623,5507,8260,11013
+300640,Dental cements and bone reconstruction cements,Dental,Tier C (implants and dental),S4_Phased_Sec232,Year2_25pct,25.0,0.0,210376,183557,15778,23667,31556,13767,20650,27534
+300640,Dental cements and bone reconstruction cements,Dental,Tier C (implants and dental),S5_India_deal_minus10,,-10.0,-10.0,210376,183557,-14249,-17254,-19632,-12432,-15054,-17130
+300650,First-aid boxes and kits,Dressings & Sutures,Tier A (simple disposables),S0_Today,,0.0,0.0,0,5803,0,0,0,0,0,0
+300650,First-aid boxes and kits,Dressings & Sutures,Tier A (simple disposables),S1_China_exclusion_expiry,,0.0,0.0,0,5803,0,0,0,0,0,0
+300650,First-aid boxes and kits,Dressings & Sutures,Tier A (simple disposables),S2_Sec232_15pct_exemptions,,15.0,1.6,0,5803,0,0,0,330,459,581
+300650,First-aid boxes and kits,Dressings & Sutures,Tier A (simple disposables),S3_Sec232_25pct_all,,25.0,0.0,0,5803,0,0,0,435,653,870
+300650,First-aid boxes and kits,Dressings & Sutures,Tier A (simple disposables),S4_Phased_Sec232,Year1_10pct,10.0,0.0,0,5803,0,0,0,174,261,348
+300650,First-aid boxes and kits,Dressings & Sutures,Tier A (simple disposables),S4_Phased_Sec232,Year2_25pct,25.0,0.0,0,5803,0,0,0,435,653,870
+300650,First-aid boxes and kits,Dressings & Sutures,Tier A (simple disposables),S5_India_deal_minus10,,-10.0,-10.0,0,5803,0,0,0,-604,-682,-714
+300670,Gel preparations designed to be used in human or veterinary medicine as a lubric,Consumables,Tier A (simple disposables),S0_Today,,0.0,0.0,37925,35149,0,0,0,0,0,0
+300670,Gel preparations designed to be used in human or veterinary medicine as a lubric,Consumables,Tier A (simple disposables),S1_China_exclusion_expiry,,0.0,0.0,37925,35149,0,0,0,0,0,0
+300670,Gel preparations designed to be used in human or veterinary medicine as a lubric,Consumables,Tier A (simple disposables),S2_Sec232_15pct_exemptions,,15.0,6.68,37925,35149,3585,4398,5008,3322,4076,4642
+300670,Gel preparations designed to be used in human or veterinary medicine as a lubric,Consumables,Tier A (simple disposables),S3_Sec232_25pct_all,,25.0,0.0,37925,35149,2844,4267,5689,2636,3954,5272
+300670,Gel preparations designed to be used in human or veterinary medicine as a lubric,Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year1_10pct,10.0,0.0,37925,35149,1138,1707,2276,1054,1582,2109
+300670,Gel preparations designed to be used in human or veterinary medicine as a lubric,Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year2_25pct,25.0,0.0,37925,35149,2844,4267,5689,2636,3954,5272
+300670,Gel preparations designed to be used in human or veterinary medicine as a lubric,Consumables,Tier A (simple disposables),S5_India_deal_minus10,,-10.0,-10.0,37925,35149,-3949,-4458,-4663,-3660,-4132,-4322
+300691,Appliances for ostomy use,Consumables,Tier A (simple disposables),S0_Today,,0.0,0.0,327157,269268,0,0,0,0,0,0
+300691,Appliances for ostomy use,Consumables,Tier A (simple disposables),S1_China_exclusion_expiry,,0.0,0.0,327157,269268,0,0,0,0,0,0
+300691,Appliances for ostomy use,Consumables,Tier A (simple disposables),S2_Sec232_15pct_exemptions,,15.0,9.62,327157,269268,38053,44915,49259,31319,36967,40543
+300691,Appliances for ostomy use,Consumables,Tier A (simple disposables),S3_Sec232_25pct_all,,25.0,0.0,327157,269268,24537,36805,49074,20195,30293,40390
+300691,Appliances for ostomy use,Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year1_10pct,10.0,0.0,327157,269268,9815,14722,19629,8078,12117,16156
+300691,Appliances for ostomy use,Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year2_25pct,25.0,0.0,327157,269268,24537,36805,49074,20195,30293,40390
+300691,Appliances for ostomy use,Consumables,Tier A (simple disposables),S5_India_deal_minus10,,-10.0,-10.0,327157,269268,-34067,-38456,-40227,-28039,-31651,-33109
+401410,"Rubber contraceptives, male (condoms)",Consumables,Tier A (simple disposables),S0_Today,,0.0,0.0,12030969,9708718,0,0,0,0,0,0
+401410,"Rubber contraceptives, male (condoms)",Consumables,Tier A (simple disposables),S1_China_exclusion_expiry,,0.0,0.0,12030969,9708718,0,0,0,0,0,0
+401410,"Rubber contraceptives, male (condoms)",Consumables,Tier A (simple disposables),S2_Sec232_15pct_exemptions,,15.0,2.15,12030969,9708718,733143,999740,1245643,591629,806767,1005206
+401410,"Rubber contraceptives, male (condoms)",Consumables,Tier A (simple disposables),S3_Sec232_25pct_all,,25.0,0.0,12030969,9708718,902323,1353484,1804645,728154,1092231,1456308
+401410,"Rubber contraceptives, male (condoms)",Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year1_10pct,10.0,0.0,12030969,9708718,360929,541394,721858,291262,436892,582523
+401410,"Rubber contraceptives, male (condoms)",Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year2_25pct,25.0,0.0,12030969,9708718,902323,1353484,1804645,728154,1092231,1456308
+401410,"Rubber contraceptives, male (condoms)",Consumables,Tier A (simple disposables),S5_India_deal_minus10,,-10.0,-10.0,12030969,9708718,-1252785,-1414180,-1479328,-1010969,-1141211,-1193784
+401512,Medical surgical dental or veterinary gloves of rubber,Gloves,Tier A (simple disposables),S0_Today,,0.0,0.0,3908807,1729757,0,0,0,0,0,0
+401512,Medical surgical dental or veterinary gloves of rubber,Gloves,Tier A (simple disposables),S1_China_exclusion_expiry,,0.0,0.0,3908807,1729757,0,0,0,0,0,0
+401512,Medical surgical dental or veterinary gloves of rubber,Gloves,Tier A (simple disposables),S2_Sec232_15pct_exemptions,,15.0,0.0,3908807,1729757,175896,263844,351793,77839,116759,155678
+401512,Medical surgical dental or veterinary gloves of rubber,Gloves,Tier A (simple disposables),S3_Sec232_25pct_all,,25.0,0.0,3908807,1729757,293161,439741,586321,129732,194598,259464
+401512,Medical surgical dental or veterinary gloves of rubber,Gloves,Tier A (simple disposables),S4_Phased_Sec232,Year1_10pct,10.0,0.0,3908807,1729757,117264,175896,234528,51893,77839,103785
+401512,Medical surgical dental or veterinary gloves of rubber,Gloves,Tier A (simple disposables),S4_Phased_Sec232,Year2_25pct,25.0,0.0,3908807,1729757,293161,439741,586321,129732,194598,259464
+401512,Medical surgical dental or veterinary gloves of rubber,Gloves,Tier A (simple disposables),S5_India_deal_minus10,,-10.0,-10.0,3908807,1729757,-407024,-459461,-480627,-180120,-203324,-212691
+842310,"Personal weighing machines, including baby scales household scales",Other,Tier B (equipment),S0_Today,,0.0,0.0,18708,28097,0,0,0,0,0,0
+842310,"Personal weighing machines, including baby scales household scales",Other,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,18708,28097,0,0,0,0,0,0
+842310,"Personal weighing machines, including baby scales household scales",Other,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,0.22,18708,28097,852,1274,1694,1280,1913,2545
+842310,"Personal weighing machines, including baby scales household scales",Other,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,18708,28097,1403,2105,2806,2107,3161,4215
+842310,"Personal weighing machines, including baby scales household scales",Other,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,18708,28097,561,842,1122,843,1264,1686
+842310,"Personal weighing machines, including baby scales household scales",Other,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,18708,28097,1403,2105,2806,2107,3161,4215
+842310,"Personal weighing machines, including baby scales household scales",Other,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,18708,28097,-1020,-1353,-1609,-1531,-2032,-2416
+900130,"Contact lenses of any material, unmounted",Consumables,Tier A (simple disposables),S0_Today,,0.0,0.0,3000,5391,0,0,0,0,0,0
+900130,"Contact lenses of any material, unmounted",Consumables,Tier A (simple disposables),S1_China_exclusion_expiry,,0.0,0.0,3000,5391,0,0,0,0,0,0
+900130,"Contact lenses of any material, unmounted",Consumables,Tier A (simple disposables),S2_Sec232_15pct_exemptions,,15.0,15.0,3000,5391,469,529,553,842,951,994
+900130,"Contact lenses of any material, unmounted",Consumables,Tier A (simple disposables),S3_Sec232_25pct_all,,25.0,0.0,3000,5391,225,338,450,404,606,809
+900130,"Contact lenses of any material, unmounted",Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year1_10pct,10.0,0.0,3000,5391,90,135,180,162,243,323
+900130,"Contact lenses of any material, unmounted",Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year2_25pct,25.0,0.0,3000,5391,225,338,450,404,606,809
+900130,"Contact lenses of any material, unmounted",Consumables,Tier A (simple disposables),S5_India_deal_minus10,,-10.0,-10.0,3000,5391,-312,-353,-369,-561,-634,-663
+900150,Spectacle lenses of other materials,Consumables,Tier A (simple disposables),S0_Today,,0.0,0.0,7289891,1637846,0,0,0,0,0,0
+900150,Spectacle lenses of other materials,Consumables,Tier A (simple disposables),S1_China_exclusion_expiry,,0.0,0.0,7289891,1637846,0,0,0,0,0,0
+900150,Spectacle lenses of other materials,Consumables,Tier A (simple disposables),S2_Sec232_15pct_exemptions,,15.0,9.13,7289891,1637846,821430,974903,1075131,184554,219035,241554
+900150,Spectacle lenses of other materials,Consumables,Tier A (simple disposables),S3_Sec232_25pct_all,,25.0,0.0,7289891,1637846,546742,820113,1093484,122838,184258,245677
+900150,Spectacle lenses of other materials,Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year1_10pct,10.0,0.0,7289891,1637846,218697,328045,437393,49135,73703,98271
+900150,Spectacle lenses of other materials,Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year2_25pct,25.0,0.0,7289891,1637846,546742,820113,1093484,122838,184258,245677
+900150,Spectacle lenses of other materials,Consumables,Tier A (simple disposables),S5_India_deal_minus10,,-10.0,-10.0,7289891,1637846,-759096,-856890,-896365,-170549,-192521,-201390
+901811,Electro-cardiographs (ECG),Electro-diagnostic,Tier B (equipment),S0_Today,,0.0,0.0,16884483,6945733,0,0,0,0,0,0
+901811,Electro-cardiographs (ECG),Electro-diagnostic,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,16884483,6945733,0,0,0,0,0,0
+901811,Electro-cardiographs (ECG),Electro-diagnostic,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,7.09,16884483,6945733,1053094,1466933,1830852,433209,603449,753154
+901811,Electro-cardiographs (ECG),Electro-diagnostic,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,16884483,6945733,1266336,1899504,2532672,520930,781395,1041860
+901811,Electro-cardiographs (ECG),Electro-diagnostic,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,16884483,6945733,506534,759802,1013069,208372,312558,416744
+901811,Electro-cardiographs (ECG),Electro-diagnostic,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,16884483,6945733,1266336,1899504,2532672,520930,781395,1041860
+901811,Electro-cardiographs (ECG),Electro-diagnostic,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,16884483,6945733,-920204,-1221339,-1452066,-378542,-502420,-597333
+901812,Ultrasonic scanning apparatus,Imaging,Tier B (equipment),S0_Today,,0.0,0.0,155789,77328,0,0,0,0,0,0
+901812,Ultrasonic scanning apparatus,Imaging,Tier B (equipment),S1_China_exclusion_expiry,,0.0,-9.05,155789,77328,-3454,-3854,-3666,-1715,-1913,-1820
+901812,Ultrasonic scanning apparatus,Imaging,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,3.61,155789,77328,8388,12053,15483,4164,5983,7685
+901812,Ultrasonic scanning apparatus,Imaging,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,155789,77328,11684,17526,23368,5800,8699,11599
+901812,Ultrasonic scanning apparatus,Imaging,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,155789,77328,4674,7011,9347,2320,3480,4640
+901812,Ultrasonic scanning apparatus,Imaging,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,155789,77328,11684,17526,23368,5800,8699,11599
+901812,Ultrasonic scanning apparatus,Imaging,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,155789,77328,-8491,-11269,-13398,-4214,-5594,-6650
+901813,Magnetic resonance imaging (MRI) apparatus,Imaging,Tier B (equipment),S0_Today,,0.0,0.0,1386304,368333,0,0,0,0,0,0
+901813,Magnetic resonance imaging (MRI) apparatus,Imaging,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,1386304,368333,0,0,0,0,0,0
+901813,Magnetic resonance imaging (MRI) apparatus,Imaging,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,15.0,1386304,368333,113330,150417,178833,30111,39965,47515
+901813,Magnetic resonance imaging (MRI) apparatus,Imaging,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,1386304,368333,103973,155959,207946,27625,41437,55250
+901813,Magnetic resonance imaging (MRI) apparatus,Imaging,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,1386304,368333,41589,62384,83178,11050,16575,22100
+901813,Magnetic resonance imaging (MRI) apparatus,Imaging,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,1386304,368333,103973,155959,207946,27625,41437,55250
+901813,Magnetic resonance imaging (MRI) apparatus,Imaging,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,1386304,368333,-75554,-100278,-119222,-20074,-26643,-31677
+901814,Scintigraphic apparatus,Imaging,Tier B (equipment),S0_Today,,0.0,0.0,1165971,1716183,0,0,0,0,0,0
+901814,Scintigraphic apparatus,Imaging,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,1165971,1716183,0,0,0,0,0,0
+901814,Scintigraphic apparatus,Imaging,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,3.63,1165971,1716183,62838,90273,115942,92491,132871,170654
+901814,Scintigraphic apparatus,Imaging,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,1165971,1716183,87448,131172,174896,128714,193071,257427
+901814,Scintigraphic apparatus,Imaging,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,1165971,1716183,34979,52469,69958,51485,77228,102971
+901814,Scintigraphic apparatus,Imaging,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,1165971,1716183,87448,131172,174896,128714,193071,257427
+901814,Scintigraphic apparatus,Imaging,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,1165971,1716183,-63545,-84341,-100274,-93532,-124140,-147592
+901819,Other electro-diagnostic apparatus incl. patient monitors,Electro-diagnostic,Tier B (equipment),S0_Today,,0.0,0.0,136430519,116373042,0,0,0,0,0,0
+901819,Other electro-diagnostic apparatus incl. patient monitors,Electro-diagnostic,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,136430519,116373042,0,0,0,0,0,0
+901819,Other electro-diagnostic apparatus incl. patient monitors,Electro-diagnostic,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,10.6,136430519,116373042,9682474,13162148,16038772,8258995,11227101,13680815
+901819,Other electro-diagnostic apparatus incl. patient monitors,Electro-diagnostic,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,136430519,116373042,10232289,15348433,20464578,8727978,13091967,17455956
+901819,Other electro-diagnostic apparatus incl. patient monitors,Electro-diagnostic,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,136430519,116373042,4092916,6139373,8185831,3491191,5236787,6982383
+901819,Other electro-diagnostic apparatus incl. patient monitors,Electro-diagnostic,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,136430519,116373042,10232289,15348433,20464578,8727978,13091967,17455956
+901819,Other electro-diagnostic apparatus incl. patient monitors,Electro-diagnostic,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,136430519,116373042,-7435463,-9868702,-11733025,-6342331,-8417844,-10008082
+901820,Ultraviolet or infrared ray apparatus,Electro-diagnostic,Tier B (equipment),S0_Today,,0.0,0.0,846919,562687,0,0,0,0,0,0
+901820,Ultraviolet or infrared ray apparatus,Electro-diagnostic,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,846919,562687,0,0,0,0,0,0
+901820,Ultraviolet or infrared ray apparatus,Electro-diagnostic,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,15.0,846919,562687,69236,91893,109253,46000,61053,72587
+901820,Ultraviolet or infrared ray apparatus,Electro-diagnostic,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,846919,562687,63519,95278,127038,42202,63302,84403
+901820,Ultraviolet or infrared ray apparatus,Electro-diagnostic,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,846919,562687,25408,38111,50815,16881,25321,33761
+901820,Ultraviolet or infrared ray apparatus,Electro-diagnostic,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,846919,562687,63519,95278,127038,42202,63302,84403
+901820,Ultraviolet or infrared ray apparatus,Electro-diagnostic,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,846919,562687,-46157,-61262,-72835,-30666,-40702,-48391
+901831,Syringes,Consumables,Tier A (simple disposables),S0_Today,,0.0,0.0,14090000,8684549,0,0,0,0,0,0
+901831,Syringes,Consumables,Tier A (simple disposables),S1_China_exclusion_expiry,,0.0,0.0,14090000,8684549,0,0,0,0,0,0
+901831,Syringes,Consumables,Tier A (simple disposables),S2_Sec232_15pct_exemptions,,15.0,10.48,14090000,8684549,1728677,2022298,2197788,1065492,1246469,1354634
+901831,Syringes,Consumables,Tier A (simple disposables),S3_Sec232_25pct_all,,25.0,0.0,14090000,8684549,1056750,1585125,2113500,651341,977012,1302682
+901831,Syringes,Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year1_10pct,10.0,0.0,14090000,8684549,422700,634050,845400,260536,390805,521073
+901831,Syringes,Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year2_25pct,25.0,0.0,14090000,8684549,1056750,1585125,2113500,651341,977012,1302682
+901831,Syringes,Consumables,Tier A (simple disposables),S5_India_deal_minus10,,-10.0,-10.0,14090000,8684549,-1467192,-1656209,-1732506,-904322,-1020825,-1067852
+901832,Tubular metal needles and suture needles,Consumables,Tier A (simple disposables),S0_Today,,0.0,0.0,3039741,2740047,0,0,0,0,0,0
+901832,Tubular metal needles and suture needles,Consumables,Tier A (simple disposables),S1_China_exclusion_expiry,,0.0,0.0,3039741,2740047,0,0,0,0,0,0
+901832,Tubular metal needles and suture needles,Consumables,Tier A (simple disposables),S2_Sec232_15pct_exemptions,,15.0,15.0,3039741,2740047,474792,535960,560650,427982,483118,505374
+901832,Tubular metal needles and suture needles,Consumables,Tier A (simple disposables),S3_Sec232_25pct_all,,25.0,0.0,3039741,2740047,227981,341971,455961,205504,308255,411007
+901832,Tubular metal needles and suture needles,Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year1_10pct,10.0,0.0,3039741,2740047,91192,136788,182384,82201,123302,164403
+901832,Tubular metal needles and suture needles,Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year2_25pct,25.0,0.0,3039741,2740047,227981,341971,455961,205504,308255,411007
+901832,Tubular metal needles and suture needles,Consumables,Tier A (simple disposables),S5_India_deal_minus10,,-10.0,-10.0,3039741,2740047,-316528,-357306,-373767,-285321,-322079,-336916
+901839,Catheters cannulas and the like,Consumables,Tier A (simple disposables),S0_Today,,0.0,0.0,51239879,36723978,0,0,0,0,0,0
+901839,Catheters cannulas and the like,Consumables,Tier A (simple disposables),S1_China_exclusion_expiry,,0.0,0.0,51239879,36723978,0,0,0,0,0,0
+901839,Catheters cannulas and the like,Consumables,Tier A (simple disposables),S2_Sec232_15pct_exemptions,,15.0,10.06,51239879,36723978,6126997,7198192,7857008,4391262,5158994,5631173
+901839,Catheters cannulas and the like,Consumables,Tier A (simple disposables),S3_Sec232_25pct_all,,25.0,0.0,51239879,36723978,3842991,5764486,7685982,2754298,4131448,5508597
+901839,Catheters cannulas and the like,Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year1_10pct,10.0,0.0,51239879,36723978,1537196,2305795,3074393,1101719,1652579,2203439
+901839,Catheters cannulas and the like,Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year2_25pct,25.0,0.0,51239879,36723978,3842991,5764486,7685982,2754298,4131448,5508597
+901839,Catheters cannulas and the like,Consumables,Tier A (simple disposables),S5_India_deal_minus10,,-10.0,-10.0,51239879,36723978,-5335609,-6022992,-6300456,-3824068,-4316720,-4515580
+901849,Other dental instruments,Dental,Tier C (implants and dental),S0_Today,,0.0,0.0,1579992,1202710,0,0,0,0,0,0
+901849,Other dental instruments,Dental,Tier C (implants and dental),S1_China_exclusion_expiry,,0.0,0.0,1579992,1202710,0,0,0,0,0,0
+901849,Other dental instruments,Dental,Tier C (implants and dental),S2_Sec232_15pct_exemptions,,15.0,8.39,1579992,1202710,121115,155717,186369,92194,118534,141866
+901849,Other dental instruments,Dental,Tier C (implants and dental),S3_Sec232_25pct_all,,25.0,0.0,1579992,1202710,118499,177749,236999,90203,135305,180406
+901849,Other dental instruments,Dental,Tier C (implants and dental),S4_Phased_Sec232,Year1_10pct,10.0,0.0,1579992,1202710,47400,71100,94800,36081,54122,72163
+901849,Other dental instruments,Dental,Tier C (implants and dental),S4_Phased_Sec232,Year2_25pct,25.0,0.0,1579992,1202710,118499,177749,236999,90203,135305,180406
+901849,Other dental instruments,Dental,Tier C (implants and dental),S5_India_deal_minus10,,-10.0,-10.0,1579992,1202710,-107013,-129583,-147445,-81460,-98640,-112237
+901850,Other ophthalmic instruments,Ophthalmic,Tier B (equipment),S0_Today,,0.0,0.0,14901913,13238452,0,0,0,0,0,0
+901850,Other ophthalmic instruments,Ophthalmic,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,14901913,13238452,0,0,0,0,0,0
+901850,Other ophthalmic instruments,Ophthalmic,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,15.0,14901913,13238452,1218231,1616895,1922347,1082243,1436405,1707760
+901850,Other ophthalmic instruments,Ophthalmic,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,14901913,13238452,1117643,1676465,2235287,992884,1489326,1985768
+901850,Other ophthalmic instruments,Ophthalmic,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,14901913,13238452,447057,670586,894115,397154,595730,794307
+901850,Other ophthalmic instruments,Ophthalmic,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,14901913,13238452,1117643,1676465,2235287,992884,1489326,1985768
+901850,Other ophthalmic instruments,Ophthalmic,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,14901913,13238452,-812154,-1077930,-1281565,-721496,-957603,-1138507
+901890,Other medical and surgical instruments,Instruments,Tier B (equipment),S0_Today,,0.0,0.0,80534630,62899649,0,0,0,0,0,0
+901890,Other medical and surgical instruments,Instruments,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,80534630,62899649,0,0,0,0,0,0
+901890,Other medical and surgical instruments,Instruments,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,12.12,80534630,62899649,6015454,8104201,9785924,4698226,6329593,7643062
+901890,Other medical and surgical instruments,Instruments,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,80534630,62899649,6040097,9060146,12080194,4717474,7076211,9434947
+901890,Other medical and surgical instruments,Instruments,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,80534630,62899649,2416039,3624058,4832078,1886989,2830484,3773979
+901890,Other medical and surgical instruments,Instruments,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,80534630,62899649,6040097,9060146,12080194,4717474,7076211,9434947
+901890,Other medical and surgical instruments,Instruments,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,80534630,62899649,-4389137,-5825472,-6925978,-3428031,-4549846,-5409370
+901910,Mechano-therapy and massage apparatus,Respiratory & Therapy,Tier B (equipment),S0_Today,,0.0,0.0,708980,1062239,0,0,0,0,0,0
+901910,Mechano-therapy and massage apparatus,Respiratory & Therapy,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,708980,1062239,0,0,0,0,0,0
+901910,Mechano-therapy and massage apparatus,Respiratory & Therapy,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,6.05,708980,1062239,42413,59581,74960,63546,89268,112311
+901910,Mechano-therapy and massage apparatus,Respiratory & Therapy,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,708980,1062239,53174,79760,106347,79668,119502,159336
+901910,Mechano-therapy and massage apparatus,Respiratory & Therapy,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,708980,1062239,21269,31904,42539,31867,47801,63734
+901910,Mechano-therapy and massage apparatus,Respiratory & Therapy,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,708980,1062239,53174,79760,106347,79668,119502,159336
+901910,Mechano-therapy and massage apparatus,Respiratory & Therapy,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,708980,1062239,-38639,-51284,-60972,-57892,-76837,-91353
+901920,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,Respiratory & Therapy,Tier B (equipment),S0_Today,,0.0,0.0,5334198,5334905,0,0,0,0,0,0
+901920,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,Respiratory & Therapy,Tier B (equipment),S1_China_exclusion_expiry,,0.0,-2.47,5334198,5334905,-32280,-36015,-34256,-32284,-36020,-34261
+901920,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,Respiratory & Therapy,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,2.75,5334198,5334905,275978,400156,518217,276015,400209,518286
+901920,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,Respiratory & Therapy,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,5334198,5334905,400065,600097,800130,400118,600177,800236
+901920,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,Respiratory & Therapy,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,5334198,5334905,160026,240039,320052,160047,240071,320094
+901920,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,Respiratory & Therapy,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,5334198,5334905,400065,600097,800130,400118,600177,800236
+901920,Ozone oxygen aerosol therapy and respiration apparatus incl. ventilators,Respiratory & Therapy,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,5334198,5334905,-290714,-385849,-458741,-290752,-385900,-458802
+902000,Other breathing appliances and gas masks,Respiratory & Therapy,Tier B (equipment),S0_Today,,0.0,0.0,808680,923429,0,0,0,0,0,0
+902000,Other breathing appliances and gas masks,Respiratory & Therapy,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,808680,923429,0,0,0,0,0,0
+902000,Other breathing appliances and gas masks,Respiratory & Therapy,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,15.0,808680,923429,66110,87744,104320,75490,100194,119122
+902000,Other breathing appliances and gas masks,Respiratory & Therapy,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,808680,923429,60651,90976,121302,69257,103886,138514
+902000,Other breathing appliances and gas masks,Respiratory & Therapy,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,808680,923429,24260,36391,48521,27703,41554,55406
+902000,Other breathing appliances and gas masks,Respiratory & Therapy,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,808680,923429,60651,90976,121302,69257,103886,138514
+902000,Other breathing appliances and gas masks,Respiratory & Therapy,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,808680,923429,-44073,-58496,-69546,-50327,-66796,-79415
+902110,Orthopaedic or fracture appliances,Implants,Tier C (implants and dental),S0_Today,,0.0,0.0,2949153,3645103,0,0,0,0,0,0
+902110,Orthopaedic or fracture appliances,Implants,Tier C (implants and dental),S1_China_exclusion_expiry,,0.0,0.0,2949153,3645103,0,0,0,0,0,0
+902110,Orthopaedic or fracture appliances,Implants,Tier C (implants and dental),S2_Sec232_15pct_exemptions,,15.0,8.72,2949153,3645103,229741,294258,351112,283956,363698,433968
+902110,Orthopaedic or fracture appliances,Implants,Tier C (implants and dental),S3_Sec232_25pct_all,,25.0,0.0,2949153,3645103,221186,331780,442373,273383,410074,546765
+902110,Orthopaedic or fracture appliances,Implants,Tier C (implants and dental),S4_Phased_Sec232,Year1_10pct,10.0,0.0,2949153,3645103,88475,132712,176949,109353,164030,218706
+902110,Orthopaedic or fracture appliances,Implants,Tier C (implants and dental),S4_Phased_Sec232,Year2_25pct,25.0,0.0,2949153,3645103,221186,331780,442373,273383,410074,546765
+902110,Orthopaedic or fracture appliances,Implants,Tier C (implants and dental),S5_India_deal_minus10,,-10.0,-10.0,2949153,3645103,-199746,-241875,-275215,-246883,-298953,-340161
+902121,Artificial teeth,Dental,Tier C (implants and dental),S0_Today,,0.0,0.0,8510451,6442931,0,0,0,0,0,0
+902121,Artificial teeth,Dental,Tier C (implants and dental),S1_China_exclusion_expiry,,0.0,0.0,8510451,6442931,0,0,0,0,0,0
+902121,Artificial teeth,Dental,Tier C (implants and dental),S2_Sec232_15pct_exemptions,,15.0,12.27,8510451,6442931,776959,960978,1113879,588206,727519,843274
+902121,Artificial teeth,Dental,Tier C (implants and dental),S3_Sec232_25pct_all,,25.0,0.0,8510451,6442931,638284,957426,1276568,483220,724830,966440
+902121,Artificial teeth,Dental,Tier C (implants and dental),S4_Phased_Sec232,Year1_10pct,10.0,0.0,8510451,6442931,255314,382970,510627,193288,289932,386576
+902121,Artificial teeth,Dental,Tier C (implants and dental),S4_Phased_Sec232,Year2_25pct,25.0,0.0,8510451,6442931,638284,957426,1276568,483220,724830,966440
+902121,Artificial teeth,Dental,Tier C (implants and dental),S5_India_deal_minus10,,-10.0,-10.0,8510451,6442931,-576413,-697985,-794195,-436380,-528417,-601254
+902129,Other dental fittings,Dental,Tier C (implants and dental),S0_Today,,0.0,0.0,394526,566514,0,0,0,0,0,0
+902129,Other dental fittings,Dental,Tier C (implants and dental),S1_China_exclusion_expiry,,0.0,0.0,394526,566514,0,0,0,0,0,0
+902129,Other dental fittings,Dental,Tier C (implants and dental),S2_Sec232_15pct_exemptions,,15.0,0.0,394526,566514,17754,26631,35507,25493,38240,50986
+902129,Other dental fittings,Dental,Tier C (implants and dental),S3_Sec232_25pct_all,,25.0,0.0,394526,566514,29589,44384,59179,42489,63733,84977
+902129,Other dental fittings,Dental,Tier C (implants and dental),S4_Phased_Sec232,Year1_10pct,10.0,0.0,394526,566514,11836,17754,23672,16995,25493,33991
+902129,Other dental fittings,Dental,Tier C (implants and dental),S4_Phased_Sec232,Year2_25pct,25.0,0.0,394526,566514,29589,44384,59179,42489,63733,84977
+902129,Other dental fittings,Dental,Tier C (implants and dental),S5_India_deal_minus10,,-10.0,-10.0,394526,566514,-26721,-32357,-36817,-38370,-46463,-52867
+902131,Artificial joints,Implants,Tier C (implants and dental),S0_Today,,0.0,0.0,21920729,26120703,0,0,0,0,0,0
+902131,Artificial joints,Implants,Tier C (implants and dental),S1_China_exclusion_expiry,,0.0,0.0,21920729,26120703,0,0,0,0,0,0
+902131,Artificial joints,Implants,Tier C (implants and dental),S2_Sec232_15pct_exemptions,,15.0,15.0,21920729,26120703,2227036,2696743,3068464,2653733,3213434,3656376
+902131,Artificial joints,Implants,Tier C (implants and dental),S3_Sec232_25pct_all,,25.0,0.0,21920729,26120703,1644055,2466082,3288109,1959053,2938579,3918105
+902131,Artificial joints,Implants,Tier C (implants and dental),S4_Phased_Sec232,Year1_10pct,10.0,0.0,21920729,26120703,657622,986433,1315244,783621,1175432,1567242
+902131,Artificial joints,Implants,Tier C (implants and dental),S4_Phased_Sec232,Year2_25pct,25.0,0.0,21920729,26120703,1644055,2466082,3288109,1959053,2938579,3918105
+902131,Artificial joints,Implants,Tier C (implants and dental),S5_India_deal_minus10,,-10.0,-10.0,21920729,26120703,-1484691,-1797829,-2045642,-1769155,-2142289,-2437584
+902139,Other artificial parts of the body,Implants,Tier C (implants and dental),S0_Today,,0.0,0.0,1383856,1013995,0,0,0,0,0,0
+902139,Other artificial parts of the body,Implants,Tier C (implants and dental),S1_China_exclusion_expiry,,0.0,0.0,1383856,1013995,0,0,0,0,0,0
+902139,Other artificial parts of the body,Implants,Tier C (implants and dental),S2_Sec232_15pct_exemptions,,15.0,9.03,1383856,1013995,109422,139665,166184,80177,102337,121769
+902139,Other artificial parts of the body,Implants,Tier C (implants and dental),S3_Sec232_25pct_all,,25.0,0.0,1383856,1013995,103789,155684,207578,76050,114074,152099
+902139,Other artificial parts of the body,Implants,Tier C (implants and dental),S4_Phased_Sec232,Year1_10pct,10.0,0.0,1383856,1013995,41516,62274,83031,30420,45630,60840
+902139,Other artificial parts of the body,Implants,Tier C (implants and dental),S4_Phased_Sec232,Year2_25pct,25.0,0.0,1383856,1013995,103789,155684,207578,76050,114074,152099
+902139,Other artificial parts of the body,Implants,Tier C (implants and dental),S5_India_deal_minus10,,-10.0,-10.0,1383856,1013995,-93729,-113497,-129141,-68678,-83163,-94626
+902140,Hearing aids,Hearing,Tier B (equipment),S0_Today,,0.0,0.0,35392,81444,0,0,0,0,0,0
+902140,Hearing aids,Hearing,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,35392,81444,0,0,0,0,0,0
+902140,Hearing aids,Hearing,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,2.06,35392,81444,1771,2588,3375,4076,5956,7766
+902140,Hearing aids,Hearing,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,35392,81444,2654,3982,5309,6108,9162,12217
+902140,Hearing aids,Hearing,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,35392,81444,1062,1593,2124,2443,3665,4887
+902140,Hearing aids,Hearing,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,35392,81444,2654,3982,5309,6108,9162,12217
+902140,Hearing aids,Hearing,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,35392,81444,-1929,-2560,-3044,-4439,-5891,-7004
+902190,Other appliances implanted or worn incl. stents,Implants,Tier C (implants and dental),S0_Today,,0.0,0.0,1471548,2183125,0,0,0,0,0,0
+902190,Other appliances implanted or worn incl. stents,Implants,Tier C (implants and dental),S1_China_exclusion_expiry,,0.0,0.0,1471548,2183125,0,0,0,0,0,0
+902190,Other appliances implanted or worn incl. stents,Implants,Tier C (implants and dental),S2_Sec232_15pct_exemptions,,15.0,11.22,1471548,2183125,128515,160444,187453,190659,238028,278097
+902190,Other appliances implanted or worn incl. stents,Implants,Tier C (implants and dental),S3_Sec232_25pct_all,,25.0,0.0,1471548,2183125,110366,165549,220732,163734,245602,327469
+902190,Other appliances implanted or worn incl. stents,Implants,Tier C (implants and dental),S4_Phased_Sec232,Year1_10pct,10.0,0.0,1471548,2183125,44146,66220,88293,65494,98241,130988
+902190,Other appliances implanted or worn incl. stents,Implants,Tier C (implants and dental),S4_Phased_Sec232,Year2_25pct,25.0,0.0,1471548,2183125,110366,165549,220732,163734,245602,327469
+902190,Other appliances implanted or worn incl. stents,Implants,Tier C (implants and dental),S5_India_deal_minus10,,-10.0,-10.0,1471548,2183125,-99668,-120689,-137325,-147863,-179049,-203729
+902212,Computed tomography (CT) apparatus,Imaging,Tier B (equipment),S0_Today,,0.0,0.0,3655217,4375795,0,0,0,0,0,0
+902212,Computed tomography (CT) apparatus,Imaging,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,3655217,4375795,0,0,0,0,0,0
+902212,Computed tomography (CT) apparatus,Imaging,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,13.78,3655217,4375795,287889,384411,459929,344642,460192,550598
+902212,Computed tomography (CT) apparatus,Imaging,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,3655217,4375795,274141,411212,548283,328185,492277,656369
+902212,Computed tomography (CT) apparatus,Imaging,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,3655217,4375795,109657,164485,219313,131274,196911,262548
+902212,Computed tomography (CT) apparatus,Imaging,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,3655217,4375795,274141,411212,548283,328185,492277,656369
+902212,Computed tomography (CT) apparatus,Imaging,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,3655217,4375795,-199209,-264400,-314349,-238481,-316523,-376318
+902213,Dental X-ray apparatus,Imaging,Tier B (equipment),S0_Today,,0.0,0.0,160364,161683,0,0,0,0,0,0
+902213,Dental X-ray apparatus,Imaging,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,160364,161683,0,0,0,0,0,0
+902213,Dental X-ray apparatus,Imaging,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,1.42,160364,161683,7774,11447,15025,7838,11541,15148
+902213,Dental X-ray apparatus,Imaging,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,160364,161683,12027,18041,24055,12126,18189,24252
+902213,Dental X-ray apparatus,Imaging,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,160364,161683,4811,7216,9622,4850,7276,9701
+902213,Dental X-ray apparatus,Imaging,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,160364,161683,12027,18041,24055,12126,18189,24252
+902213,Dental X-ray apparatus,Imaging,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,160364,161683,-8740,-11600,-13791,-8812,-11695,-13905
+902214,Other medical X-ray apparatus,Imaging,Tier B (equipment),S0_Today,,0.0,0.0,20725489,10704556,0,0,0,0,0,0
+902214,Other medical X-ray apparatus,Imaging,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,20725489,10704556,0,0,0,0,0,0
+902214,Other medical X-ray apparatus,Imaging,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,15.0,20725489,10704556,1694309,2248767,2673588,875097,1161471,1380888
+902214,Other medical X-ray apparatus,Imaging,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,20725489,10704556,1554412,2331618,3108823,802842,1204263,1605683
+902214,Other medical X-ray apparatus,Imaging,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,20725489,10704556,621765,932647,1243529,321137,481705,642273
+902214,Other medical X-ray apparatus,Imaging,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,20725489,10704556,1554412,2331618,3108823,802842,1204263,1605683
+902214,Other medical X-ray apparatus,Imaging,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,20725489,10704556,-1129539,-1499178,-1782392,-583398,-774314,-920592
+902219,X-ray apparatus for other uses,Imaging,Tier B (equipment),S0_Today,,0.0,0.0,299480,300531,0,0,0,0,0,0
+902219,X-ray apparatus for other uses,Imaging,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,299480,300531,0,0,0,0,0,0
+902219,X-ray apparatus for other uses,Imaging,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,15.0,299480,300531,24482,32494,38633,24568,32608,38768
+902219,X-ray apparatus for other uses,Imaging,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,299480,300531,22461,33692,44922,22540,33810,45080
+902219,X-ray apparatus for other uses,Imaging,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,299480,300531,8984,13477,17969,9016,13524,18032
+902219,X-ray apparatus for other uses,Imaging,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,299480,300531,22461,33692,44922,22540,33810,45080
+902219,X-ray apparatus for other uses,Imaging,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,299480,300531,-16322,-21663,-25755,-16379,-21739,-25846
+902229,Alpha beta gamma radiation apparatus for other uses,Imaging,Tier B (equipment),S0_Today,,0.0,0.0,66365,8000,0,0,0,0,0,0
+902229,Alpha beta gamma radiation apparatus for other uses,Imaging,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,66365,8000,0,0,0,0,0,0
+902229,Alpha beta gamma radiation apparatus for other uses,Imaging,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,13.55,66365,8000,5190,6938,8311,626,836,1002
+902229,Alpha beta gamma radiation apparatus for other uses,Imaging,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,66365,8000,4977,7466,9955,600,900,1200
+902229,Alpha beta gamma radiation apparatus for other uses,Imaging,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,66365,8000,1991,2986,3982,240,360,480
+902229,Alpha beta gamma radiation apparatus for other uses,Imaging,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,66365,8000,4977,7466,9955,600,900,1200
+902229,Alpha beta gamma radiation apparatus for other uses,Imaging,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,66365,8000,-3617,-4801,-5707,-436,-579,-688
+902230,X-ray tubes,Imaging,Tier B (equipment),S0_Today,,0.0,0.0,67638887,62171572,0,0,0,0,0,0
+902230,X-ray tubes,Imaging,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,67638887,62171572,0,0,0,0,0,0
+902230,X-ray tubes,Imaging,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,13.95,67638887,62171572,5355478,7144853,8540762,4922590,6567328,7850404
+902230,X-ray tubes,Imaging,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,67638887,62171572,5072917,7609375,10145833,4662868,6994302,9325736
+902230,X-ray tubes,Imaging,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,67638887,62171572,2029167,3043750,4058333,1865147,2797721,3730294
+902230,X-ray tubes,Imaging,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,67638887,62171572,5072917,7609375,10145833,4662868,6994302,9325736
+902230,X-ray tubes,Imaging,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,67638887,62171572,-3686319,-4892659,-5816944,-3388351,-4497181,-5346755
+902290,Parts of X-ray and radiation apparatus,Imaging,Tier B (equipment),S0_Today,,0.0,0.0,33521922,34726863,0,0,0,0,0,0
+902290,Parts of X-ray and radiation apparatus,Imaging,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,33521922,34726863,0,0,0,0,0,0
+902290,Parts of X-ray and radiation apparatus,Imaging,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,9.46,33521922,34726863,2285424,3129570,3841478,2367573,3242062,3979560
+902290,Parts of X-ray and radiation apparatus,Imaging,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,33521922,34726863,2514144,3771216,5028288,2604515,3906772,5209029
+902290,Parts of X-ray and radiation apparatus,Imaging,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,33521922,34726863,1005658,1508486,2011315,1041806,1562709,2083612
+902290,Parts of X-ray and radiation apparatus,Imaging,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,33521922,34726863,2514144,3771216,5028288,2604515,3906772,5209029
+902290,Parts of X-ray and radiation apparatus,Imaging,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,33521922,34726863,-1826945,-2424808,-2882885,-1892614,-2511968,-2986510
+902511,Clinical thermometers,Electro-diagnostic,Tier B (equipment),S0_Today,,0.0,0.0,137501,109985,0,0,0,0,0,0
+902511,Clinical thermometers,Electro-diagnostic,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,137501,109985,0,0,0,0,0,0
+902511,Clinical thermometers,Electro-diagnostic,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,1.78,137501,109985,6787,9950,13011,5429,7959,10408
+902511,Clinical thermometers,Electro-diagnostic,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,137501,109985,10313,15469,20625,8249,12373,16498
+902511,Clinical thermometers,Electro-diagnostic,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,137501,109985,4125,6188,8250,3300,4949,6599
+902511,Clinical thermometers,Electro-diagnostic,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,137501,109985,10313,15469,20625,8249,12373,16498
+902511,Clinical thermometers,Electro-diagnostic,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,137501,109985,-7494,-9946,-11825,-5994,-7956,-9459
+902710,Gas or smoke analysis apparatus,Other,Tier B (equipment),S0_Today,,0.0,0.0,2124018,2041289,0,0,0,0,0,0
+902710,Gas or smoke analysis apparatus,Other,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,2124018,2041289,0,0,0,0,0,0
+902710,Gas or smoke analysis apparatus,Other,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,15.0,2124018,2041289,173638,230461,273998,166875,221485,263326
+902710,Gas or smoke analysis apparatus,Other,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,2124018,2041289,159301,238952,318603,153097,229645,306193
+902710,Gas or smoke analysis apparatus,Other,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,2124018,2041289,63721,95581,127441,61239,91858,122477
+902710,Gas or smoke analysis apparatus,Other,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,2124018,2041289,159301,238952,318603,153097,229645,306193
+902710,Gas or smoke analysis apparatus,Other,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,2124018,2041289,-115759,-153641,-182666,-111250,-147657,-175551
+902720,Chromatographs and electrophoresis instruments,Other,Tier B (equipment),S0_Today,,0.0,0.0,713407,372045,0,0,0,0,0,0
+902720,Chromatographs and electrophoresis instruments,Other,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,713407,372045,0,0,0,0,0,0
+902720,Chromatographs and electrophoresis instruments,Other,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,11.25,713407,372045,51767,70094,85074,26997,36554,44366
+902720,Chromatographs and electrophoresis instruments,Other,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,713407,372045,53506,80258,107011,27903,41855,55807
+902720,Chromatographs and electrophoresis instruments,Other,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,713407,372045,21402,32103,42804,11161,16742,22323
+902720,Chromatographs and electrophoresis instruments,Other,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,713407,372045,53506,80258,107011,27903,41855,55807
+902720,Chromatographs and electrophoresis instruments,Other,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,713407,372045,-38881,-51604,-61353,-20276,-26912,-31996
+902730,Spectrometers,Other,Tier B (equipment),S0_Today,,0.0,0.0,851190,439807,0,0,0,0,0,0
+902730,Spectrometers,Other,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,851190,439807,0,0,0,0,0,0
+902730,Spectrometers,Other,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,15.0,851190,439807,69585,92356,109804,35954,47720,56735
+902730,Spectrometers,Other,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,851190,439807,63839,95759,127678,32986,49478,65971
+902730,Spectrometers,Other,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,851190,439807,25536,38304,51071,13194,19791,26388
+902730,Spectrometers,Other,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,851190,439807,63839,95759,127678,32986,49478,65971
+902730,Spectrometers,Other,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,851190,439807,-46390,-61571,-73202,-23969,-31813,-37823
+902750,Photometers,Other,Tier B (equipment),S0_Today,,0.0,0.0,709938,1093012,0,0,0,0,0,0
+902750,Photometers,Other,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,709938,1093012,0,0,0,0,0,0
+902750,Photometers,Other,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,9.76,709938,1093012,48923,66861,81910,75322,102939,126107
+902750,Photometers,Other,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,709938,1093012,53245,79868,106491,81976,122964,163952
+902750,Photometers,Other,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,709938,1093012,21298,31947,42596,32790,49186,65581
+902750,Photometers,Other,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,709938,1093012,53245,79868,106491,81976,122964,163952
+902750,Photometers,Other,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,709938,1093012,-38692,-51353,-61055,-59569,-79063,-93999
+902790,"Microtomes, including parts and accessories thereof",Other,Tier B (equipment),S0_Today,,0.0,0.0,5597230,5469850,0,0,0,0,0,0
+902790,"Microtomes, including parts and accessories thereof",Other,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,5597230,5469850,0,0,0,0,0,0
+902790,"Microtomes, including parts and accessories thereof",Other,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,15.0,5597230,5469850,457574,607313,722043,447160,593492,705611
+902790,"Microtomes, including parts and accessories thereof",Other,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,5597230,5469850,419792,629688,839584,410239,615358,820478
+902790,"Microtomes, including parts and accessories thereof",Other,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,5597230,5469850,167917,251875,335834,164096,246143,328191
+902790,"Microtomes, including parts and accessories thereof",Other,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,5597230,5469850,419792,629688,839584,410239,615358,820478
+902790,"Microtomes, including parts and accessories thereof",Other,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,5597230,5469850,-305049,-404876,-481362,-298107,-395662,-470407
+940290,Other medical furniture incl. hospital beds,Furniture,Tier B (equipment),S0_Today,,0.0,0.0,2556450,3434591,0,0,0,0,0,0
+940290,Other medical furniture incl. hospital beds,Furniture,Tier B (equipment),S1_China_exclusion_expiry,,0.0,-3.95,2556450,3434591,-24740,-27603,-26255,-33238,-37084,-35273
+940290,Other medical furniture incl. hospital beds,Furniture,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,7.1,2556450,3434591,159510,222176,277273,214301,298493,372516
+940290,Other medical furniture incl. hospital beds,Furniture,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,2556450,3434591,191734,287601,383468,257594,386391,515189
+940290,Other medical furniture incl. hospital beds,Furniture,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,2556450,3434591,76694,115040,153387,103038,154557,206075
+940290,Other medical furniture incl. hospital beds,Furniture,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,2556450,3434591,191734,287601,383468,257594,386391,515189
+940290,Other medical furniture incl. hospital beds,Furniture,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,2556450,3434591,-139327,-184921,-219855,-187185,-248441,-295375
+9402100000,"Dentists', barbers' or similar chairs and parts thereof",Furniture,Tier B (equipment),S0_Today,,0.0,0.0,669796,582648,0,0,0,0,0,0
+9402100000,"Dentists', barbers' or similar chairs and parts thereof",Furniture,Tier B (equipment),S1_China_exclusion_expiry,,0.0,0.0,669796,582648,0,0,0,0,0,0
+9402100000,"Dentists', barbers' or similar chairs and parts thereof",Furniture,Tier B (equipment),S2_Sec232_15pct_exemptions,,15.0,0.0,669796,582648,30141,45211,60282,26219,39329,52438
+9402100000,"Dentists', barbers' or similar chairs and parts thereof",Furniture,Tier B (equipment),S3_Sec232_25pct_all,,25.0,0.0,669796,582648,50235,75352,100469,43699,65548,87397
+9402100000,"Dentists', barbers' or similar chairs and parts thereof",Furniture,Tier B (equipment),S4_Phased_Sec232,Year1_10pct,10.0,0.0,669796,582648,20094,30141,40188,17479,26219,34959
+9402100000,"Dentists', barbers' or similar chairs and parts thereof",Furniture,Tier B (equipment),S4_Phased_Sec232,Year2_25pct,25.0,0.0,669796,582648,50235,75352,100469,43699,65548,87397
+9402100000,"Dentists', barbers' or similar chairs and parts thereof",Furniture,Tier B (equipment),S5_India_deal_minus10,,-10.0,-10.0,669796,582648,-36504,-48450,-57602,-31754,-42146,-50108
+6210105010,Surgical or isolation gowns,Consumables,Tier A (simple disposables),S0_Today,,0.0,0.0,1409611,1690009,0,0,0,0,0,0
+6210105010,Surgical or isolation gowns,Consumables,Tier A (simple disposables),S1_China_exclusion_expiry,,0.0,-3.98,1409611,1690009,-41589,-40700,-35322,-49862,-48795,-42348
+6210105010,Surgical or isolation gowns,Consumables,Tier A (simple disposables),S2_Sec232_15pct_exemptions,,15.0,7.02,1409611,1690009,136788,166935,189167,163997,200142,226796
+6210105010,Surgical or isolation gowns,Consumables,Tier A (simple disposables),S3_Sec232_25pct_all,,25.0,0.0,1409611,1690009,105721,158581,211442,126751,190126,253501
+6210105010,Surgical or isolation gowns,Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year1_10pct,10.0,0.0,1409611,1690009,42288,63432,84577,50700,76050,101401
+6210105010,Surgical or isolation gowns,Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year2_25pct,25.0,0.0,1409611,1690009,105721,158581,211442,126751,190126,253501
+6210105010,Surgical or isolation gowns,Consumables,Tier A (simple disposables),S5_India_deal_minus10,,-10.0,-10.0,1409611,1690009,-146783,-165693,-173326,-175981,-198652,-207804
+6210105090,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),Consumables,Tier A (simple disposables),S0_Today,,0.0,0.0,4138651,3324436,0,0,0,0,0,0
+6210105090,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),Consumables,Tier A (simple disposables),S1_China_exclusion_expiry,,0.0,-4.01,4138651,3324436,-123026,-120396,-104488,-98823,-96710,-83932
+6210105090,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),Consumables,Tier A (simple disposables),S2_Sec232_15pct_exemptions,,15.0,1.98,4138651,3324436,246985,338806,424071,198395,272151,340642
+6210105090,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),Consumables,Tier A (simple disposables),S3_Sec232_25pct_all,,25.0,0.0,4138651,3324436,310399,465598,620798,249333,373999,498665
+6210105090,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year1_10pct,10.0,0.0,4138651,3324436,124160,186239,248319,99733,149600,199466
+6210105090,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),Consumables,Tier A (simple disposables),S4_Phased_Sec232,Year2_25pct,25.0,0.0,4138651,3324436,310399,465598,620798,249333,373999,498665
+6210105090,Other (nonwoven disposable apparel for hospitals/clinics/laboratories),Consumables,Tier A (simple disposables),S5_India_deal_minus10,,-10.0,-10.0,4138651,3324436,-430958,-486478,-508889,-346174,-390771,-408773

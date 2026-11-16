@@ -1,0 +1,13 @@
+﻿group,n,median_epsilon,p25_epsilon,p75_epsilon,india_2025_usd,low_confidence
+Dressings & Sutures,2,0.986,0.264,0.264,14940699,True
+Consumables,7,0.029,-4.3,1.543,93238742,False
+Gloves,1,1.661,1.661,1.661,3908807,True
+Electro-diagnostic,2,0.508,0.153,0.153,153315002,True
+Imaging,6,0.721,-0.493,1.816,128093790,False
+Dental,2,0.532,0.397,0.397,10090443,True
+Ophthalmic,1,-2.032,-2.032,-2.032,14901913,True
+Instruments,1,1.038,1.038,1.038,80534630,True
+Respiratory & Therapy,1,2.469,2.469,2.469,5334198,True
+Implants,4,0.548,-189.628,1.54,27725286,False
+Other,2,-0.318,-1.069,-1.069,7721248,True
+Furniture,1,-0.858,-0.858,-0.858,2556450,True
